@@ -1,0 +1,8 @@
+/.idea
+/.ipynb_checkpoints
+/RNN_Example
+/Trained_Models
+*.png
+*.tex
+*.mdl
+state_save2_event.p
