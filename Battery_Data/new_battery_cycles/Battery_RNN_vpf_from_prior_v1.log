@@ -1,0 +1,6244 @@
+/usr/bin/python3.6 "/home/chris/Dropbox/Doctorado/Publications/Reliability Engineering & System Safety/VPF/VPF_from_prior.py"
+Loading prior from:
+	 ./Battery_Data/new_battery_cycles/Battery_RNN_prior_small_VoCNN.mdl
+Saving graph "n" to:
+	 ./Battery_Data/new_battery_cycles/Battery_RNN_vpf_from_prior_v1_part_{n}.mdl
+epoch 0
+Total loss: 1.0428e+09
+exec time: 1.2513191024462382 min
+time_remaining: 31 hours 15.727334566911168 min
+epoch 1
+Total loss: 1.6519e+08
+exec time: 1.8456164956092835 min
+time_remaining: 38 hours 39.60476294358568 min
+epoch 2
+Total loss: 3.9804e+08
+exec time: 1.7529255112012228 min
+time_remaining: 40 hours 20.080693519115812 min
+epoch 3
+Total loss: 2.1388e+08
+exec time: 1.7259892662366232 min
+time_remaining: 40 hours 59.36804043451957 min
+epoch 4
+Total loss: 1.7765e+08
+exec time: 1.7031525055567422 min
+time_remaining: 41 hours 15.42186143398294 min
+epoch 5
+Total loss: 1.4821e+08
+exec time: 1.742744012673696 min
+time_remaining: 41 hours 35.414976537227176 min
+epoch 6
+Total loss: 1.8443e+08
+exec time: 1.8838315566380819 min
+time_remaining: 42 hours 19.289803770042454 min
+epoch 7
+Total loss: 5.3887e+08
+exec time: 1.8260892748832702 min
+time_remaining: 42 hours 40.95603075822146 min
+epoch 8
+Total loss: 7.7064e+07
+exec time: 1.7607126792271932 min
+time_remaining: 42 hours 46.571020340919404 min
+epoch 9
+Total loss: 4.2791e+07
+exec time: 1.7985838373502097 min
+time_remaining: 42 hours 56.35367203156147 min
+epoch 10
+Total loss: 5.0488e+07
+exec time: 1.7641761223475139 min
+time_remaining: 42 hours 59.37309111356717 min
+epoch 11
+Total loss: 1.1572e+07
+exec time: 1.7744190613428752 min
+time_remaining: 43 hours 2.8653687636060567 min
+epoch 12
+Total loss: 1.3174e+07
+exec time: 1.7612988630930582 min
+time_remaining: 43 hours 4.04663655054901 min
+epoch 13
+Total loss: 7.7103e+06
+exec time: 1.7603021581967673 min
+time_remaining: 43 hours 4.701744567780679 min
+epoch 14
+Total loss: 2.2742e+07
+exec time: 1.7476229071617126 min
+time_remaining: 43 hours 3.779552042484738 min
+epoch 15
+Total loss: 3.5835e+07
+exec time: 1.836682645479838 min
+time_remaining: 43 hours 11.014471448461336 min
+epoch 16
+Total loss: 1.9582e+07
+exec time: 1.8766612688700357 min
+time_remaining: 43 hours 20.669690524129237 min
+epoch 17
+Total loss: 7.5224e+06
+exec time: 1.8224207957585652 min
+time_remaining: 43 hours 24.57779060867051 min
+epoch 18
+Total loss: 5.3260e+06
+exec time: 1.8701968669891358 min
+time_remaining: 43 hours 31.60669699489017 min
+epoch 19
+Total loss: 5.9464e+06
+exec time: 1.876540740331014 min
+time_remaining: 43 hours 38.21513968308773 min
+epoch 20
+Total loss: 5.1410e+06
+exec time: 1.9057785471280415 min
+time_remaining: 43 hours 46.074665675844244 min
+epoch 21
+Total loss: 6.1799e+06
+exec time: 1.8210053165753683 min
+time_remaining: 43 hours 47.35121694875443 min
+epoch 22
+Total loss: 7.2337e+06
+exec time: 1.8042371590932211 min
+time_remaining: 43 hours 47.281608144269285 min
+epoch 23
+Total loss: 8.5902e+06
+exec time: 1.8336333751678466 min
+time_remaining: 43 hours 48.87531426548958 min
+epoch 24
+Total loss: 5.9257e+06
+exec time: 1.8474331339200338 min
+time_remaining: 43 hours 51.009018993377595 min
+epoch 25
+Total loss: 3.6400e+06
+exec time: 1.8643051067988077 min
+time_remaining: 43 hours 53.79299342510012 min
+epoch 26
+Total loss: 3.4623e+06
+exec time: 1.7559316158294678 min
+time_remaining: 43 hours 50.32027484664195 min
+epoch 27
+Total loss: 3.4671e+06
+exec time: 1.8141132513682048 min
+time_remaining: 43 hours 50.02887560526551 min
+epoch 28
+Total loss: 2.4025e+06
+exec time: 1.7471566160519918 min
+time_remaining: 43 hours 46.236143999401065 min
+epoch 29
+Total loss: 2.4582e+06
+exec time: 1.7686282753944398 min
+time_remaining: 43 hours 43.63189536730442 min
+epoch 30
+Total loss: 4.0938e+06
+exec time: 1.8181939721107483 min
+time_remaining: 43 hours 43.43033219293875 min
+epoch 31
+Total loss: 5.8345e+06
+exec time: 1.7989408175150554 min
+time_remaining: 43 hours 42.2444911266366 min
+epoch 32
+Total loss: 4.0574e+06
+exec time: 1.8799239595731099 min
+time_remaining: 43 hours 44.62156126932632 min
+epoch 33
+Total loss: 2.1169e+06
+exec time: 1.8634797215461731 min
+time_remaining: 43 hours 46.03918314283965 min
+epoch 34
+Total loss: 1.9141e+06
+exec time: 1.8527315497398376 min
+time_remaining: 43 hours 46.81942573388369 min
+epoch 35
+Total loss: 1.9798e+06
+exec time: 1.8591046730677288 min
+time_remaining: 43 hours 47.712565665774946 min
+epoch 36
+Total loss: 1.6659e+06
+exec time: 1.8306354681650798 min
+time_remaining: 43 hours 47.33124786840881 min
+epoch 37
+Total loss: 2.3214e+06
+exec time: 1.7835235118865966 min
+time_remaining: 43 hours 45.06107966523405 min
+epoch 38
+Total loss: 3.3374e+06
+exec time: 1.7512070298194886 min
+time_remaining: 43 hours 41.60524246417526 min
+epoch 39
+Total loss: 2.5675e+06
+exec time: 1.7416704972585042 min
+time_remaining: 43 hours 37.88655333320321 min
+epoch 40
+Total loss: 1.4280e+06
+exec time: 1.8656454046567281 min
+time_remaining: 43 hours 38.67599657202163 min
+epoch 41
+Total loss: 1.3612e+06
+exec time: 1.9411636511484782 min
+time_remaining: 43 hours 41.96056900365011 min
+epoch 42
+Total loss: 1.2907e+06
+exec time: 1.8711274027824403 min
+time_remaining: 43 hours 42.628995248421234 min
+epoch 43
+Total loss: 1.4394e+06
+exec time: 2.1870981733004253 min
+time_remaining: 43 hours 53.637747279080486 min
+epoch 44
+Total loss: 1.8163e+06
+exec time: 1.8834237297375997 min
+time_remaining: 43 hours 54.241210069920726 min
+epoch 45
+Total loss: 1.6375e+06
+exec time: 1.9976794560750326 min
+time_remaining: 43 hours 58.34802184018508 min
+epoch 46
+Total loss: 1.3403e+06
+exec time: 1.819644558429718 min
+time_remaining: 43 hours 56.69113810552744 min
+epoch 47
+Total loss: 1.2026e+06
+exec time: 1.7547078410784402 min
+time_remaining: 43 hours 53.06313697000314 min
+epoch 48
+Total loss: 1.2311e+06
+exec time: 1.7588560144106546 min
+time_remaining: 43 hours 49.63443350986563 min
+epoch 49
+Total loss: 1.2941e+06
+exec time: 1.765419026215871 min
+time_remaining: 43 hours 46.462851289907576 min
+epoch 50
+Total loss: 1.2817e+06
+exec time: 1.7454035401344299 min
+time_remaining: 43 hours 42.777737443587284 min
+epoch 51
+Total loss: 1.2786e+06
+exec time: 1.7355991005897522 min
+time_remaining: 43 hours 38.894211907875615 min
+epoch 52
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.0983e+06
+exec time: 1.7635876496632894 min
+time_remaining: 43 hours 35.855880398195495 min
+epoch 53
+Total loss: 1.1016e+06
+exec time: 1.7713715394337972 min
+time_remaining: 43 hours 33.07319689459291 min
+epoch 54
+Total loss: 1.1860e+06
+exec time: 1.7828858613967895 min
+time_remaining: 43 hours 30.629801012169537 min
+epoch 55
+Total loss: 1.1647e+06
+exec time: 1.7636487523714701 min
+time_remaining: 43 hours 27.71395217634381 min
+epoch 56
+Total loss: 1.1032e+06
+exec time: 1.7675869703292846 min
+time_remaining: 43 hours 24.9382305103436 min
+epoch 57
+Total loss: 1.1087e+06
+exec time: 1.7600557247797648 min
+time_remaining: 43 hours 22.01002976346308 min
+epoch 58
+Total loss: 1.1049e+06
+exec time: 1.7950425346692402 min
+time_remaining: 43 hours 19.97593550971669 min
+epoch 59
+Total loss: 1.0508e+06
+exec time: 1.73370654185613 min
+time_remaining: 43 hours 16.47774581909198 min
+epoch 60
+Total loss: 1.0086e+06
+exec time: 1.7608190854390462 min
+time_remaining: 43 hours 13.67699738278452 min
+epoch 61
+Total loss: 1.0769e+06
+exec time: 1.7757473866144815 min
+time_remaining: 43 hours 11.256035330218765 min
+epoch 62
+Total loss: 1.0607e+06
+exec time: 1.742561968167623 min
+time_remaining: 43 hours 8.09861269072917 min
+epoch 63
+Total loss: 1.0063e+06
+exec time: 1.7624395529429118 min
+time_remaining: 43 hours 5.431407755613236 min
+epoch 64
+Total loss: 1.0199e+06
+exec time: 1.7707041462262472 min
+time_remaining: 43 hours 2.9744985455122332 min
+epoch 65
+Total loss: 1.0381e+06
+exec time: 2.1789074460665385 min
+time_remaining: 43 hours 9.407527852058593 min
+epoch 66
+Total loss: 1.0085e+06
+exec time: 2.1515306075414022 min
+time_remaining: 43 hours 14.997946962907008 min
+epoch 67
+Total loss: 9.1347e+05
+exec time: 2.0784386157989503 min
+time_remaining: 43 hours 18.821430314755617 min
+epoch 68
+Total loss: 9.2289e+05
+exec time: 1.84537939230601 min
+time_remaining: 43 hours 17.64039782959526 min
+epoch 69
+Total loss: 9.4104e+05
+exec time: 1.8676795442899068 min
+time_remaining: 43 hours 16.8959442519008 min
+epoch 70
+Total loss: 8.7854e+05
+exec time: 1.7716822187105814 min
+time_remaining: 43 hours 14.187735319473632 min
+epoch 71
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 9.4359e+05
+exec time: 1.8322548707326254 min
+time_remaining: 43 hours 12.706898616419949 min
+epoch 72
+Total loss: 8.6837e+05
+exec time: 1.7568669001261392 min
+time_remaining: 43 hours 9.742754099793729 min
+epoch 73
+Total loss: 9.8618e+05
+exec time: 1.7838251312573752 min
+time_remaining: 43 hours 7.330731107845168 min
+epoch 74
+Total loss: 8.3290e+05
+exec time: 1.8969542145729066 min
+time_remaining: 43 hours 7.0849126418434025 min
+epoch 75
+Total loss: 8.6209e+05
+exec time: 1.8097744901974997 min
+time_remaining: 43 hours 5.16217050468731 min
+epoch 76
+Total loss: 7.9784e+05
+exec time: 1.7997843941052756 min
+time_remaining: 43 hours 3.0577404266828125 min
+epoch 77
+Total loss: 7.6697e+05
+exec time: 1.7837637623151144 min
+time_remaining: 43 hours 0.6690533353730643 min
+epoch 78
+Total loss: 8.4797e+05
+exec time: 1.7761720061302184 min
+time_remaining: 42 hours 58.15912524557325 min
+epoch 79
+Total loss: 8.3047e+05
+exec time: 1.733075459798177 min
+time_remaining: 42 hours 54.902577360471696 min
+epoch 80
+Total loss: 8.0045e+05
+exec time: 1.7295459588368733 min
+time_remaining: 42 hours 51.621814450511465 min
+epoch 81
+Total loss: 8.0605e+05
+exec time: 1.7285259246826172 min
+time_remaining: 42 hours 48.36124697313153 min
+epoch 82
+Total loss: 7.6136e+05
+exec time: 1.7265386978785198 min
+time_remaining: 42 hours 45.103669649051426 min
+epoch 83
+Total loss: 7.4155e+05
+exec time: 1.7211963454882304 min
+time_remaining: 42 hours 41.79248882816 min
+epoch 84
+Total loss: 7.0628e+05
+exec time: 1.7236419995625814 min
+time_remaining: 42 hours 38.559432353926695 min
+epoch 85
+Total loss: 6.8614e+05
+exec time: 1.7252212087313334 min
+time_remaining: 42 hours 35.38744367869367 min
+epoch 86
+Total loss: 7.5392e+05
+exec time: 1.7314675331115723 min
+time_remaining: 42 hours 32.350162949233436 min
+epoch 87
+Total loss: 6.6582e+05
+exec time: 1.730469564596812 min
+time_remaining: 42 hours 29.32654693397626 min
+epoch 88
+Total loss: 6.9248e+05
+exec time: 1.7295601646105447 min
+time_remaining: 42 hours 26.317572823446426 min
+epoch 89
+Total loss: 5.8986e+05
+exec time: 1.7336832563082376 min
+time_remaining: 42 hours 23.401625237200733 min
+epoch 90
+Total loss: 6.0669e+05
+exec time: 1.7344728589057923 min
+time_remaining: 42 hours 20.523887307216683 min
+epoch 91
+Total loss: 6.2526e+05
+exec time: 1.7310534397761026 min
+time_remaining: 42 hours 17.61867098601033 min
+epoch 92
+Total loss: 6.4039e+05
+exec time: 1.7289430975914002 min
+time_remaining: 42 hours 14.706778044470866 min
+epoch 93
+Total loss: 6.7463e+05
+exec time: 1.718479331334432 min
+time_remaining: 42 hours 11.663543021341866 min
+epoch 94
+Total loss: 5.8348e+05
+exec time: 1.7203372279802958 min
+time_remaining: 42 hours 8.675674905275628 min
+epoch 95
+Total loss: 5.9136e+05
+exec time: 1.7212456822395326 min
+time_remaining: 42 hours 5.727499826253279 min
+epoch 96
+Total loss: 5.8665e+05
+exec time: 1.72696772813797 min
+time_remaining: 42 hours 2.8873854605199085 min
+epoch 97
+Total loss: 5.4972e+05
+exec time: 1.7113494992256164 min
+time_remaining: 41 hours 59.84655207784908 min
+epoch 98
+Total loss: 5.4835e+05
+exec time: 1.7145484964052835 min
+time_remaining: 41 hours 56.87784761250714 min
+epoch 99
+Total loss: 5.3298e+05
+exec time: 1.7120186726252238 min
+time_remaining: 41 hours 53.8988087336229 min
+epoch 100
+Total loss: 4.9643e+05
+exec time: 1.740348255634308 min
+time_remaining: 41 hours 51.33726616208742 min
+epoch 101
+Total loss: 5.2628e+05
+exec time: 1.735088849067688 min
+time_remaining: 41 hours 48.71974063223524 min
+epoch 102
+Total loss: 5.0909e+05
+exec time: 1.7341834664344788 min
+time_remaining: 41 hours 46.10706999386821 min
+epoch 103
+Total loss: 5.1145e+05
+exec time: 1.7262269020080567 min
+time_remaining: 41 hours 43.40449176323773 min
+epoch 104
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 5.4842e+05
+exec time: 1.7311281879742941 min
+time_remaining: 41 hours 40.78562778575133 min
+epoch 105
+Total loss: 5.1710e+05
+exec time: 1.7309444228808084 min
+time_remaining: 41 hours 38.18109685579975 min
+epoch 106
+Total loss: 4.8137e+05
+exec time: 1.7325818538665771 min
+time_remaining: 41 hours 35.61421185460813 min
+epoch 107
+Total loss: 5.3144e+05
+exec time: 1.7275975386301676 min
+time_remaining: 41 hours 32.99853462643114 min
+epoch 108
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.5794e+05
+exec time: 1.74070516427358 min
+time_remaining: 41 hours 30.56642498219071 min
+epoch 109
+Total loss: 4.7439e+05
+exec time: 1.7306738058725992 min
+time_remaining: 41 hours 28.020126435973907 min
+epoch 110
+Total loss: 4.4508e+05
+exec time: 1.7185683051745098 min
+time_remaining: 41 hours 25.337041484450765 min
+epoch 111
+Total loss: 5.0058e+05
+exec time: 1.7156765143076578 min
+time_remaining: 41 hours 22.63534249336999 min
+epoch 112
+Total loss: 3.8017e+05
+exec time: 1.7282398740450542 min
+time_remaining: 41 hours 20.10530212980484 min
+epoch 113
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 3.3447e+05
+exec time: 1.7271040320396422 min
+time_remaining: 41 hours 17.57551899395503 min
+epoch 114
+Total loss: 4.4130e+05
+exec time: 1.727201275030772 min
+time_remaining: 41 hours 15.060866638543303 min
+epoch 115
+Total loss: 4.2784e+05
+exec time: 1.7215604503949484 min
+time_remaining: 41 hours 12.492490152655137 min
+epoch 116
+Total loss: 4.8398e+05
+exec time: 1.729072880744934 min
+time_remaining: 41 hours 10.027389933818995 min
+epoch 117
+Total loss: 4.4640e+05
+exec time: 1.73385063012441 min
+time_remaining: 41 hours 7.630721107513182 min
+epoch 118
+Total loss: 4.6832e+05
+exec time: 1.7295756657918295 min
+time_remaining: 41 hours 5.1955809421233425 min
+epoch 119
+Total loss: 4.2596e+05
+exec time: 1.7327688932418823 min
+time_remaining: 41 hours 2.8089223007364126 min
+epoch 120
+Total loss: 3.9290e+05
+exec time: 1.7318907618522643 min
+time_remaining: 41 hours 0.42306395943205644 min
+epoch 121
+Total loss: 2.9708e+05
+exec time: 1.7228410840034485 min
+time_remaining: 40 hours 57.945709545039335 min
+epoch 122
+Total loss: 2.6872e+05
+exec time: 1.723316780726115 min
+time_remaining: 40 hours 55.48594912290582 min
+epoch 123
+Total loss: 3.4633e+05
+exec time: 1.7276187419891358 min
+time_remaining: 40 hours 53.08580471674668 min
+epoch 124
+Total loss: 3.4098e+05
+exec time: 1.7321032484372456 min
+time_remaining: 40 hours 50.74575029214293 min
+epoch 125
+Total loss: 3.2273e+05
+exec time: 1.7428542256355286 min
+time_remaining: 40 hours 48.532582732799256 min
+epoch 126
+Total loss: 2.9449e+05
+exec time: 1.7278655171394348 min
+time_remaining: 40 hours 46.164778401032436 min
+epoch 127
+Total loss: 3.2083e+05
+exec time: 1.724711263179779 min
+time_remaining: 40 hours 43.773163453614416 min
+epoch 128
+Total loss: 3.4165e+05
+exec time: 1.716300078233083 min
+time_remaining: 40 hours 41.30249480702196 min
+epoch 129
+Total loss: 2.7503e+05
+exec time: 1.7162833293279012 min
+time_remaining: 40 hours 38.84325532301955 min
+epoch 130
+Total loss: 3.1800e+05
+exec time: 1.7293760577837627 min
+time_remaining: 40 hours 36.5321826906611 min
+epoch 131
+Total loss: 2.9834e+05
+exec time: 1.7392000198364257 min
+time_remaining: 40 hours 34.33173561313015 min
+epoch 132
+Total loss: 3.5043e+05
+exec time: 1.7354312658309936 min
+time_remaining: 40 hours 32.0994885911623 min
+epoch 133
+Total loss: 2.8633e+05
+exec time: 1.732319132486979 min
+time_remaining: 40 hours 29.84293154952593 min
+epoch 134
+Total loss: 3.5036e+05
+exec time: 1.7194109439849854 min
+time_remaining: 40 hours 27.46362486724547 min
+epoch 135
+Total loss: 2.9970e+05
+exec time: 1.729345178604126 min
+time_remaining: 40 hours 25.19365706362032 min
+epoch 136
+Total loss: 3.3388e+05
+exec time: 1.7863596558570862 min
+time_remaining: 40 hours 23.4988131851469 min
+epoch 137
+Total loss: 2.8545e+05
+exec time: 1.9426783482233683 min
+time_remaining: 40 hours 23.345440520066404 min
+epoch 138
+Total loss: 3.0088e+05
+exec time: 1.8922939499219258 min
+time_remaining: 40 hours 22.672990319340897 min
+epoch 139
+Total loss: 2.9445e+05
+exec time: 1.7415921092033386 min
+time_remaining: 40 hours 20.51915304093245 min
+epoch 140
+Total loss: 2.7290e+05
+exec time: 1.8373277306556701 min
+time_remaining: 40 hours 19.29389164828308 min
+epoch 141
+Total loss: 3.2460e+05
+exec time: 1.7185755213101706 min
+time_remaining: 40 hours 16.924337065724103 min
+epoch 142
+Total loss: 2.9239e+05
+exec time: 1.7189969778060914 min
+time_remaining: 40 hours 14.567886501259636 min
+epoch 143
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.8874e+05
+exec time: 1.7247511545817058 min
+time_remaining: 40 hours 12.27447462346845 min
+epoch 144
+Total loss: 2.9767e+05
+exec time: 1.71948801279068 min
+time_remaining: 40 hours 9.939723189261258 min
+epoch 145
+Total loss: 2.6864e+05
+exec time: 1.722277863820394 min
+time_remaining: 40 hours 7.639273023116402 min
+epoch 146
+Total loss: 3.1583e+05
+exec time: 1.7240679701169332 min
+time_remaining: 40 hours 5.363165431283051 min
+epoch 147
+Total loss: 2.8335e+05
+exec time: 1.7219637632369995 min
+time_remaining: 40 hours 3.07529562013724 min
+epoch 148
+Total loss: 3.0708e+05
+exec time: 1.7124120394388835 min
+time_remaining: 40 hours 0.708415293854614 min
+epoch 149
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 2.9292e+05
+exec time: 1.7131725192070006 min
+time_remaining: 39 hours 58.35710552930914 min
+epoch 150
+Total loss: 2.9181e+05
+exec time: 1.7138691663742065 min
+time_remaining: 39 hours 56.020471602639645 min
+epoch 151
+Total loss: 2.7529e+05
+exec time: 1.7226558566093444 min
+time_remaining: 39 hours 53.769956017796176 min
+epoch 152
+Total loss: 2.9950e+05
+exec time: 1.723810625076294 min
+time_remaining: 39 hours 51.53650705113159 min
+epoch 153
+Total loss: 3.1669e+05
+exec time: 1.7191789229710897 min
+time_remaining: 39 hours 49.269194484789296 min
+epoch 154
+Total loss: 2.5185e+05
+exec time: 1.720805279413859 min
+time_remaining: 39 hours 47.023067187494235 min
+epoch 155
+Total loss: 3.8725e+05
+exec time: 1.721266218026479 min
+time_remaining: 39 hours 44.78764595129587 min
+epoch 156
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 2.5974e+05
+exec time: 1.7125734170277913 min
+time_remaining: 39 hours 42.48441502270953 min
+epoch 157
+Total loss: 3.5592e+05
+exec time: 1.7102753281593324 min
+time_remaining: 39 hours 40.169141560969365 min
+epoch 158
+Total loss: 2.6126e+05
+exec time: 1.7117633740107219 min
+time_remaining: 39 hours 37.87402826120342 min
+epoch 159
+Total loss: 3.1884e+05
+exec time: 1.7157231529553731 min
+time_remaining: 39 hours 35.619369984170135 min
+epoch 160
+Total loss: 2.7473e+05
+exec time: 1.7208403070767722 min
+time_remaining: 39 hours 33.41396474823523 min
+epoch 161
+Total loss: 2.7071e+05
+exec time: 1.7279798984527588 min
+time_remaining: 39 hours 31.27350953155201 min
+epoch 162
+Total loss: 3.0465e+05
+exec time: 1.7242288947105409 min
+time_remaining: 39 hours 29.107347926114926 min
+epoch 163
+Total loss: 2.5584e+05
+exec time: 1.7141883452733357 min
+time_remaining: 39 hours 26.86478199978228 min
+epoch 164
+Total loss: 2.8645e+05
+exec time: 1.7103248914082845 min
+time_remaining: 39 hours 24.597361796191763 min
+epoch 165
+Total loss: 2.6910e+05
+exec time: 1.711090886592865 min
+time_remaining: 39 hours 22.342809232363834 min
+epoch 166
+Total loss: 2.8614e+05
+exec time: 1.714229166507721 min
+time_remaining: 39 hours 20.119815054649735 min
+epoch 167
+Total loss: 2.5995e+05
+exec time: 1.720425550142924 min
+time_remaining: 39 hours 17.952006073509438 min
+epoch 168
+Total loss: 2.7422e+05
+exec time: 1.718977693716685 min
+time_remaining: 39 hours 15.778088630586353 min
+epoch 169
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.5433e+05
+exec time: 1.716235379378001 min
+time_remaining: 39 hours 13.588068843122073 min
+epoch 170
+Total loss: 2.7492e+05
+exec time: 1.7202714165051778 min
+time_remaining: 39 hours 11.434958191086025 min
+epoch 171
+Total loss: 2.6225e+05
+exec time: 1.7198390245437623 min
+time_remaining: 39 hours 9.283542085248882 min
+epoch 172
+Total loss: 2.5974e+05
+exec time: 1.7207263588905335 min
+time_remaining: 39 hours 7.143921625890471 min
+epoch 173
+Total loss: 2.7829e+05
+exec time: 1.7217251737912496 min
+time_remaining: 39 hours 5.016727699631247 min
+epoch 174
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 2.6276e+05
+exec time: 1.718158765633901 min
+time_remaining: 39 hours 2.867164897352268 min
+epoch 175
+Total loss: 2.5683e+05
+exec time: 1.7203227440516153 min
+time_remaining: 39 hours 0.7387834331307204 min
+epoch 176
+Total loss: 2.6824e+05
+exec time: 1.720646321773529 min
+time_remaining: 38 hours 58.61743140826866 min
+epoch 177
+Total loss: 2.7012e+05
+exec time: 1.7224160790443421 min
+time_remaining: 38 hours 56.51372562227289 min
+epoch 178
+Total loss: 2.7505e+05
+exec time: 1.7263890385627747 min
+time_remaining: 38 hours 54.44360005380577 min
+epoch 179
+Total loss: 2.5370e+05
+exec time: 1.7274398803710938 min
+time_remaining: 38 hours 52.38499995337679 min
+epoch 180
+Total loss: 2.6027e+05
+exec time: 1.7300565679868063 min
+time_remaining: 38 hours 50.34912765076706 min
+epoch 181
+Total loss: 2.6387e+05
+exec time: 1.7262967030207317 min
+time_remaining: 38 hours 48.28938792751933 min
+epoch 182
+Total loss: 2.5903e+05
+exec time: 1.725080394744873 min
+time_remaining: 38 hours 46.224538958595076 min
+epoch 183
+Total loss: 2.6192e+05
+exec time: 1.727485144138336 min
+time_remaining: 38 hours 44.1805823122254 min
+epoch 184
+Total loss: 2.4665e+05
+exec time: 1.7279858509699504 min
+time_remaining: 38 hours 42.14360605768343 min
+epoch 185
+Total loss: 2.6241e+05
+exec time: 1.7132668018341064 min
+time_remaining: 38 hours 40.00596932057488 min
+epoch 186
+Total loss: 2.3627e+05
+exec time: 1.7210368196169534 min
+time_remaining: 38 hours 37.92742762742046 min
+epoch 187
+Total loss: 2.6951e+05
+exec time: 1.7329193870226542 min
+time_remaining: 38 hours 35.93561432885872 min
+epoch 188
+Total loss: 2.2318e+05
+exec time: 1.7271458784739175 min
+time_remaining: 38 hours 33.90649266053788 min
+epoch 189
+Total loss: 2.4852e+05
+exec time: 1.7283729394276937 min
+time_remaining: 38 hours 31.889009947108207 min
+epoch 190
+Total loss: 2.5171e+05
+exec time: 1.7219339728355407 min
+time_remaining: 38 hours 29.83042572728482 min
+epoch 191
+Total loss: 2.4192e+05
+exec time: 1.7205289483070374 min
+time_remaining: 38 hours 27.765776551266754 min
+epoch 192
+Total loss: 2.6847e+05
+exec time: 1.7246864358584086 min
+time_remaining: 38 hours 25.732847979835242 min
+epoch 193
+Total loss: 2.3129e+05
+exec time: 1.7241235772768657 min
+time_remaining: 38 hours 23.69930802161798 min
+epoch 194
+Total loss: 2.6435e+05
+exec time: 1.723812170823415 min
+time_remaining: 38 hours 21.66685753694037 min
+epoch 195
+Total loss: 2.2414e+05
+exec time: 1.7435961922009786 min
+time_remaining: 38 hours 19.769180728303127 min
+epoch 196
+Total loss: 2.7891e+05
+exec time: 1.7640119711558024 min
+time_remaining: 38 hours 18.008102504493763 min
+epoch 197
+Total loss: 2.2069e+05
+exec time: 1.739435068766276 min
+time_remaining: 38 hours 16.085382894795657 min
+epoch 198
+Total loss: 2.9219e+05
+exec time: 1.7563072164853415 min
+time_remaining: 38 hours 14.274810185924707 min
+epoch 199
+Total loss: 2.2282e+05
+exec time: 1.8525449315706888 min
+time_remaining: 38 hours 13.090325280030811 min
+epoch 200
+Total loss: 2.8771e+05
+exec time: 1.9420406460762023 min
+time_remaining: 38 hours 12.477575762652123 min
+epoch 201
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.0669e+05
+exec time: 1.983832589785258 min
+time_remaining: 38 hours 12.120209218921445 min
+epoch 202
+Total loss: 2.8857e+05
+exec time: 1.9896422227223713 min
+time_remaining: 38 hours 11.783937068428258 min
+epoch 203
+Total loss: 2.2070e+05
+exec time: 2.015497891108195 min
+time_remaining: 38 hours 11.595714947756733 min
+epoch 204
+Total loss: 2.3257e+05
+exec time: 1.967772130171458 min
+time_remaining: 38 hours 11.08817862243177 min
+epoch 205
+Total loss: 2.3738e+05
+exec time: 1.9415504733721416 min
+time_remaining: 38 hours 10.401752513088468 min
+epoch 206
+Total loss: 2.2589e+05
+exec time: 1.9778328816095987 min
+time_remaining: 38 hours 9.929833191777561 min
+epoch 207
+Total loss: 2.3555e+05
+exec time: 1.9943396250406902 min
+time_remaining: 38 hours 9.545966204083925 min
+epoch 208
+Total loss: 2.1867e+05
+exec time: 1.9495724240938823 min
+time_remaining: 38 hours 8.87015949535271 min
+epoch 209
+Total loss: 2.2416e+05
+exec time: 1.9691261847813923 min
+time_remaining: 38 hours 8.302337643078317 min
+epoch 210
+Total loss: 2.2439e+05
+exec time: 2.028541413942973 min
+time_remaining: 38 hours 8.084201201820179 min
+epoch 211
+Total loss: 2.1093e+05
+exec time: 1.944946567217509 min
+time_remaining: 38 hours 7.341107342977921 min
+epoch 212
+Total loss: 2.2953e+05
+exec time: 2.014741961161296 min
+time_remaining: 38 hours 7.00844994699446 min
+epoch 213
+Total loss: 2.0880e+05
+exec time: 2.0158116181691486 min
+time_remaining: 38 hours 6.666500073356019 min
+epoch 214
+Total loss: 2.3849e+05
+exec time: 1.7615859905878704 min
+time_remaining: 38 hours 4.789537851201203 min
+epoch 215
+Total loss: 2.1395e+05
+exec time: 1.751951845486959 min
+time_remaining: 38 hours 2.8563742871642717 min
+epoch 216
+Total loss: 2.1135e+05
+exec time: 1.7315805037816365 min
+time_remaining: 38 hours 0.8044364928473442 min
+epoch 217
+Total loss: 2.2902e+05
+exec time: 1.7828034957249959 min
+time_remaining: 37 hours 59.05666654372453 min
+epoch 218
+Total loss: 2.0966e+05
+exec time: 1.7967255314191182 min
+time_remaining: 37 hours 57.39001102670727 min
+epoch 219
+Total loss: 2.1215e+05
+exec time: 1.7712666749954225 min
+time_remaining: 37 hours 55.57404879945716 min
+epoch 220
+Total loss: 2.1361e+05
+exec time: 1.7341837604840598 min
+time_remaining: 37 hours 53.54387998145876 min
+epoch 221
+Total loss: 2.1120e+05
+exec time: 1.7302690426508585 min
+time_remaining: 37 hours 51.493841617172166 min
+epoch 222
+Total loss: 2.1085e+05
+exec time: 1.7216447631518046 min
+time_remaining: 37 hours 49.39728457002957 min
+epoch 223
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.0922e+05
+exec time: 1.7152836720148723 min
+time_remaining: 37 hours 47.267839452695625 min
+epoch 224
+Total loss: 2.2119e+05
+exec time: 1.7096796751022338 min
+time_remaining: 37 hours 45.11031978792653 min
+epoch 225
+Total loss: 2.1541e+05
+exec time: 1.7082489530245464 min
+time_remaining: 37 hours 42.94869808799103 min
+epoch 226
+Total loss: 2.1328e+05
+exec time: 1.710124933719635 min
+time_remaining: 37 hours 40.801591229106634 min
+epoch 227
+Total loss: 2.0337e+05
+exec time: 1.708100426197052 min
+time_remaining: 37 hours 38.64702292408856 min
+epoch 228
+Total loss: 1.9928e+05
+exec time: 1.7133224407831829 min
+time_remaining: 37 hours 36.525337222986764 min
+epoch 229
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.0078e+05
+exec time: 1.7184722344080607 min
+time_remaining: 37 hours 34.435638323728654 min
+epoch 230
+Total loss: 2.0106e+05
+exec time: 1.7147255897521974 min
+time_remaining: 37 hours 32.32857129140393 min
+epoch 231
+Total loss: 2.0872e+05
+exec time: 1.7120989521344503 min
+time_remaining: 37 hours 30.21053057970721 min
+epoch 232
+Total loss: 1.9247e+05
+exec time: 1.7115277886390685 min
+time_remaining: 37 hours 28.092868491918125 min
+epoch 233
+Total loss: 2.1934e+05
+exec time: 1.7102051734924317 min
+time_remaining: 37 hours 25.971521950380065 min
+epoch 234
+Total loss: 1.9421e+05
+exec time: 1.7111343502998353 min
+time_remaining: 37 hours 23.85867622329897 min
+epoch 235
+Total loss: 2.1124e+05
+exec time: 1.7055340647697448 min
+time_remaining: 37 hours 21.71924008030055 min
+epoch 236
+Total loss: 1.8593e+05
+exec time: 1.7104230483373006 min
+time_remaining: 37 hours 19.609519508619996 min
+epoch 237
+Total loss: 2.6344e+05
+exec time: 1.7142881472905478 min
+time_remaining: 37 hours 17.52364914671125 min
+epoch 238
+Total loss: 1.9834e+05
+exec time: 1.705946691830953 min
+time_remaining: 37 hours 15.396877483943172 min
+epoch 239
+Total loss: 3.4388e+05
+exec time: 1.7021755258242288 min
+time_remaining: 37 hours 13.253814074397724 min
+epoch 240
+Total loss: 4.2159e+05
+exec time: 1.7001836895942688 min
+time_remaining: 37 hours 11.104004000760597 min
+epoch 241
+Total loss: 9.9662e+05
+exec time: 1.7028596679369608 min
+time_remaining: 37 hours 8.971820511930218 min
+epoch 242
+Total loss: 8.3120e+05
+exec time: 1.706529474258423 min
+time_remaining: 37 hours 6.862153871609735 min
+epoch 243
+Total loss: 8.4123e+05
+exec time: 1.7025287588437399 min
+time_remaining: 37 hours 4.735197787728339 min
+epoch 244
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.7129e+05
+exec time: 1.7003799438476563 min
+time_remaining: 37 hours 2.600699221521154 min
+epoch 245
+Total loss: 6.2244e+05
+exec time: 1.7031189719835917 min
+time_remaining: 37 hours 0.48369243794377326 min
+epoch 246
+Total loss: 4.3797e+05
+exec time: 1.7035217126210531 min
+time_remaining: 36 hours 58.37208002538728 min
+epoch 247
+Total loss: 3.9134e+05
+exec time: 1.7132486343383788 min
+time_remaining: 36 hours 56.31286393295113 min
+epoch 248
+Total loss: 5.6623e+05
+exec time: 1.7091691573460897 min
+time_remaining: 36 hours 54.235931009988235 min
+epoch 249
+Total loss: 4.7259e+05
+exec time: 1.7129000743230185 min
+time_remaining: 36 hours 52.18059478203577 min
+epoch 250
+Total loss: 3.4631e+05
+exec time: 1.7157512545585631 min
+time_remaining: 36 hours 50.1421748744865 min
+epoch 251
+Total loss: 3.1321e+05
+exec time: 1.710040843486786 min
+time_remaining: 36 hours 48.07803569824091 min
+epoch 252
+Total loss: 3.0738e+05
+exec time: 1.7156134009361268 min
+time_remaining: 36 hours 46.04416203901019 min
+epoch 253
+Total loss: 2.7702e+05
+exec time: 1.71395609776179 min
+time_remaining: 36 hours 44.00466444576887 min
+epoch 254
+Total loss: 3.0426e+05
+exec time: 1.7112126111984254 min
+time_remaining: 36 hours 41.95432544946789 min
+epoch 255
+Total loss: 3.3731e+05
+exec time: 1.719234784444173 min
+time_remaining: 36 hours 39.945618626165924 min
+epoch 256
+Total loss: 2.7097e+05
+exec time: 1.731496814886729 min
+time_remaining: 36 hours 37.998470744178576 min
+epoch 257
+Total loss: 2.4162e+05
+exec time: 1.7306265393892923 min
+time_remaining: 36 hours 36.048805110122885 min
+epoch 258
+Total loss: 2.5944e+05
+exec time: 1.72626633644104 min
+time_remaining: 36 hours 34.079938959968786 min
+epoch 259
+Total loss: 2.3659e+05
+exec time: 1.706469182173411 min
+time_remaining: 36 hours 32.018521764951856 min
+epoch 260
+Total loss: 2.2472e+05
+exec time: 1.7057778437932332 min
+time_remaining: 36 hours 29.95654260737774 min
+epoch 261
+Total loss: 2.3942e+05
+exec time: 1.7071259379386903 min
+time_remaining: 36 hours 27.903652545909154 min
+epoch 262
+Total loss: 2.4082e+05
+exec time: 1.7056073824564615 min
+time_remaining: 36 hours 25.84624946206577 min
+epoch 263
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 2.1533e+05
+exec time: 1.7237296462059022 min
+time_remaining: 36 hours 23.87635664109075 min
+epoch 264
+Total loss: 2.1321e+05
+exec time: 1.7065773367881776 min
+time_remaining: 36 hours 21.82838542094123 min
+epoch 265
+Total loss: 2.0834e+05
+exec time: 1.836494509379069 min
+time_remaining: 36 hours 20.385679534414976 min
+epoch 266
+Total loss: 2.0623e+05
+exec time: 1.861061986287435 min
+time_remaining: 36 hours 19.053475976661048 min
+epoch 267
+Total loss: 1.8426e+05
+exec time: 1.8399513085683188 min
+time_remaining: 36 hours 17.620279613657203 min
+epoch 268
+Total loss: 1.6915e+05
+exec time: 1.8718900640805562 min
+time_remaining: 36 hours 16.330217444498885 min
+epoch 269
+Total loss: 1.5484e+05
+exec time: 1.7183101812998454 min
+time_remaining: 36 hours 14.336203750858658 min
+epoch 270
+Total loss: 1.7678e+05
+exec time: 1.7443164944648744 min
+time_remaining: 36 hours 12.462164839153957 min
+epoch 271
+Total loss: 1.7868e+05
+exec time: 1.7296652793884277 min
+time_remaining: 36 hours 10.52293384186305 min
+epoch 272
+Total loss: 1.7205e+05
+exec time: 1.7267563303311666 min
+time_remaining: 36 hours 8.572163837035987 min
+epoch 273
+Total loss: 1.6907e+05
+exec time: 1.727693243821462 min
+time_remaining: 36 hours 6.6272211434788915 min
+epoch 274
+Total loss: 1.7102e+05
+exec time: 1.711146859327952 min
+time_remaining: 36 hours 4.610151824085278 min
+epoch 275
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.5834e+05
+exec time: 1.7198479811350504 min
+time_remaining: 36 hours 2.6338869177789093 min
+epoch 276
+Total loss: 1.6761e+05
+exec time: 1.7265738248825073 min
+time_remaining: 36 hours 0.6891690900047251 min
+epoch 277
+Total loss: 1.7704e+05
+exec time: 1.7259413480758667 min
+time_remaining: 35 hours 58.74324047571281 min
+epoch 278
+Total loss: 1.6572e+05
+exec time: 1.7189985036849975 min
+time_remaining: 35 hours 56.76850455508111 min
+epoch 279
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.7359e+05
+exec time: 1.7509818156560262 min
+time_remaining: 35 hours 54.93495118958708 min
+epoch 280
+Total loss: 1.6192e+05
+exec time: 1.7420487642288207 min
+time_remaining: 35 hours 53.06323324548066 min
+epoch 281
+Total loss: 1.6385e+05
+exec time: 1.7586705366770425 min
+time_remaining: 35 hours 51.26422685173475 min
+epoch 282
+Total loss: 1.8055e+05
+exec time: 1.7558004577954611 min
+time_remaining: 35 hours 49.453163163696445 min
+epoch 283
+Total loss: 1.7189e+05
+exec time: 1.7351288040479025 min
+time_remaining: 35 hours 47.553979037290446 min
+epoch 284
+Total loss: 1.5886e+05
+exec time: 1.747638714313507 min
+time_remaining: 35 hours 45.70927789901543 min
+epoch 285
+Total loss: 1.6188e+05
+exec time: 1.79318474928538 min
+time_remaining: 35 hours 44.05858728977455 min
+epoch 286
+Total loss: 1.6405e+05
+exec time: 1.798557714621226 min
+time_remaining: 35 hours 42.42961242503634 min
+epoch 287
+Total loss: 1.6660e+05
+exec time: 1.9236765861511231 min
+time_remaining: 35 hours 41.32600181930684 min
+epoch 288
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.6808e+05
+exec time: 2.0360899051030477 min
+time_remaining: 35 hours 40.68776283049738 min
+epoch 289
+Total loss: 1.6541e+05
+exec time: 2.1100358525911966 min
+time_remaining: 35 hours 40.34841658178493 min
+epoch 290
+Total loss: 1.7297e+05
+exec time: 1.9215126872062682 min
+time_remaining: 35 hours 39.21365491672168 min
+epoch 291
+Total loss: 1.7520e+05
+exec time: 1.7744572281837463 min
+time_remaining: 35 hours 37.46513812650937 min
+epoch 292
+Total loss: 1.7448e+05
+exec time: 1.7503329396247864 min
+time_remaining: 35 hours 35.617065373270634 min
+epoch 293
+Total loss: 1.7654e+05
+exec time: 1.8016541401545207 min
+time_remaining: 35 hours 33.9801791760392 min
+epoch 294
+Total loss: 1.6983e+05
+exec time: 1.779770839214325 min
+time_remaining: 35 hours 32.25278818721836 min
+epoch 295
+Total loss: 1.6315e+05
+exec time: 1.820629346370697 min
+time_remaining: 35 hours 30.691238019058346 min
+epoch 296
+Total loss: 1.6967e+05
+exec time: 1.8169948259989421 min
+time_remaining: 35 hours 29.113221566845823 min
+epoch 297
+Total loss: 1.6651e+05
+exec time: 1.7994994004567464 min
+time_remaining: 35 hours 27.463032435944115 min
+epoch 298
+Total loss: 1.7186e+05
+exec time: 1.7896255373954773 min
+time_remaining: 35 hours 25.772184007130818 min
+epoch 299
+Total loss: 1.6388e+05
+exec time: 1.788593594233195 min
+time_remaining: 35 hours 24.076549291611173 min
+epoch 300
+Total loss: 1.7000e+05
+exec time: 1.7680892149607341 min
+time_remaining: 35 hours 22.298619996339767 min
+epoch 301
+Total loss: 1.6371e+05
+exec time: 1.7479426860809326 min
+time_remaining: 35 hours 20.440836855249472 min
+epoch 302
+Total loss: 1.6101e+05
+exec time: 1.7657302220662434 min
+time_remaining: 35 hours 18.65404830651778 min
+epoch 303
+Total loss: 1.6384e+05
+exec time: 1.8277309695879618 min
+time_remaining: 35 hours 17.11132229294708 min
+epoch 304
+Total loss: 1.5910e+05
+exec time: 1.8403969089190164 min
+time_remaining: 35 hours 15.616352959995766 min
+epoch 305
+Total loss: 1.5997e+05
+exec time: 1.866376280784607 min
+time_remaining: 35 hours 14.220496420689415 min
+epoch 306
+Total loss: 1.5137e+05
+exec time: 1.8818760991096497 min
+time_remaining: 35 hours 12.881806799229707 min
+epoch 307
+Total loss: 1.6271e+05
+exec time: 1.7658708055814107 min
+time_remaining: 35 hours 11.090634441272869 min
+epoch 308
+Total loss: 1.6407e+05
+exec time: 1.8151491204897563 min
+time_remaining: 35 hours 9.489562653415305 min
+epoch 309
+Total loss: 1.5946e+05
+exec time: 1.8476784507433572 min
+time_remaining: 35 hours 8.01198037632048 min
+epoch 310
+Total loss: 1.6218e+05
+exec time: 1.8562359889348348 min
+time_remaining: 35 hours 6.56473482129195 min
+epoch 311
+Total loss: 1.5678e+05
+exec time: 1.8322798530260722 min
+time_remaining: 35 hours 5.023649938289964 min
+epoch 312
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.6018e+05
+exec time: 1.7840522646903991 min
+time_remaining: 35 hours 3.2978093450828965 min
+epoch 313
+Total loss: 1.6444e+05
+exec time: 1.7608413577079773 min
+time_remaining: 35 hours 1.4839287549825713 min
+epoch 314
+Total loss: 1.5840e+05
+exec time: 1.766622265179952 min
+time_remaining: 34 hours 59.692132145260985 min
+epoch 315
+Total loss: 1.4683e+05
+exec time: 1.7748466809590657 min
+time_remaining: 34 hours 57.931310399373615 min
+epoch 316
+Total loss: 1.5746e+05
+exec time: 1.755878174304962 min
+time_remaining: 34 hours 56.09961233411104 min
+epoch 317
+Total loss: 1.5355e+05
+exec time: 1.7628967444101968 min
+time_remaining: 34 hours 54.29447901616368 min
+epoch 318
+Total loss: 1.5322e+05
+exec time: 1.7500468174616495 min
+time_remaining: 34 hours 52.442037577277915 min
+epoch 319
+Total loss: 1.5299e+05
+exec time: 1.739894656340281 min
+time_remaining: 34 hours 50.552800010642386 min
+epoch 320
+Total loss: 1.5456e+05
+exec time: 1.764748179912567 min
+time_remaining: 34 hours 48.75577736647392 min
+epoch 321
+Total loss: 1.4726e+05
+exec time: 1.7651763995488485 min
+time_remaining: 34 hours 46.96052177715046 min
+epoch 322
+Total loss: 1.4644e+05
+exec time: 1.7567505955696106 min
+time_remaining: 34 hours 45.134749120013566 min
+epoch 323
+Total loss: 1.4142e+05
+exec time: 1.7503434499104817 min
+time_remaining: 34 hours 43.286146959258076 min
+epoch 324
+Total loss: 1.5026e+05
+exec time: 1.7634726921717325 min
+time_remaining: 34 hours 41.48561672797632 min
+epoch 325
+Total loss: 1.5051e+05
+exec time: 1.7490045785903932 min
+time_remaining: 34 hours 39.63321088238081 min
+epoch 326
+Total loss: 1.3852e+05
+exec time: 1.7529161850611368 min
+time_remaining: 34 hours 37.79546900291416 min
+epoch 327
+Total loss: 1.3805e+05
+exec time: 1.7728153546651204 min
+time_remaining: 34 hours 36.02934748370535 min
+epoch 328
+Total loss: 1.4762e+05
+exec time: 1.7669657985369365 min
+time_remaining: 34 hours 34.242365119825536 min
+epoch 329
+Total loss: 1.4174e+05
+exec time: 1.7731513619422912 min
+time_remaining: 34 hours 32.47743470235355 min
+epoch 330
+Total loss: 1.4188e+05
+exec time: 1.7476941466331481 min
+time_remaining: 34 hours 30.622546802751458 min
+epoch 331
+Total loss: 1.3857e+05
+exec time: 1.7159667412439983 min
+time_remaining: 34 hours 28.656685342942637 min
+epoch 332
+Total loss: 1.3780e+05
+exec time: 1.7219282786051433 min
+time_remaining: 34 hours 26.713216986850057 min
+epoch 333
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.4006e+05
+exec time: 1.732423190275828 min
+time_remaining: 34 hours 24.807713143221918 min
+epoch 334
+Total loss: 1.4991e+05
+exec time: 1.722240388393402 min
+time_remaining: 34 hours 22.867830783515274 min
+epoch 335
+Total loss: 1.2958e+05
+exec time: 1.7199620326360068 min
+time_remaining: 34 hours 20.921351036430224 min
+epoch 336
+Total loss: 1.3616e+05
+exec time: 1.774084170659383 min
+time_remaining: 34 hours 19.162993194242063 min
+epoch 337
+Total loss: 1.3182e+05
+exec time: 1.8387271324793497 min
+time_remaining: 34 hours 17.626776384532604 min
+epoch 338
+Total loss: 1.3005e+05
+exec time: 1.8532803416252137 min
+time_remaining: 34 hours 16.13861637474247 min
+epoch 339
+Total loss: 1.4708e+05
+exec time: 1.8381820599238077 min
+time_remaining: 34 hours 14.596796813666515 min
+epoch 340
+Total loss: 1.2671e+05
+exec time: 1.7999444007873535 min
+time_remaining: 34 hours 12.923275868611654 min
+epoch 341
+Total loss: 1.3608e+05
+exec time: 1.7754117608070374 min
+time_remaining: 34 hours 11.165948946923436 min
+epoch 342
+Total loss: 1.3285e+05
+exec time: 1.7741313099861145 min
+time_remaining: 34 hours 9.404197385940279 min
+epoch 343
+Total loss: 1.2870e+05
+exec time: 1.7784771243731181 min
+time_remaining: 34 hours 7.656977807321709 min
+epoch 344
+Total loss: 1.2962e+05
+exec time: 1.7853925744692485 min
+time_remaining: 34 hours 5.932728749774014 min
+epoch 345
+Total loss: 1.2207e+05
+exec time: 1.7753635048866272 min
+time_remaining: 34 hours 4.174676705717047 min
+epoch 346
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.3406e+05
+exec time: 1.7768415292104085 min
+time_remaining: 34 hours 2.421436013602033 min
+epoch 347
+Total loss: 1.2505e+05
+exec time: 1.7692809144655863 min
+time_remaining: 34 hours 0.6430314425776942 min
+epoch 348
+Total loss: 1.3059e+05
+exec time: 1.7704548915227254 min
+time_remaining: 33 hours 58.86855092572523 min
+epoch 349
+Total loss: 1.2150e+05
+exec time: 1.7759672085444131 min
+time_remaining: 33 hours 57.11220531123172 min
+epoch 350
+Total loss: 1.2988e+05
+exec time: 1.782413613796234 min
+time_remaining: 33 hours 55.376850227924024 min
+epoch 351
+Total loss: 1.2608e+05
+exec time: 1.787475593884786 min
+time_remaining: 33 hours 53.65773672439104 min
+epoch 352
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.2884e+05
+exec time: 1.7738402883211772 min
+time_remaining: 33 hours 51.893930813882434 min
+epoch 353
+Total loss: 1.2208e+05
+exec time: 1.7805853287378948 min
+time_remaining: 33 hours 50.15190385128972 min
+epoch 354
+Total loss: 1.2732e+05
+exec time: 1.7618464271227519 min
+time_remaining: 33 hours 48.3492201025515 min
+epoch 355
+Total loss: 1.2600e+05
+exec time: 1.7891971230506898 min
+time_remaining: 33 hours 46.634656777365535 min
+epoch 356
+Total loss: 1.2621e+05
+exec time: 1.8096503218015034 min
+time_remaining: 33 hours 44.98515994679201 min
+epoch 357
+Total loss: 1.2404e+05
+exec time: 1.7647664229075113 min
+time_remaining: 33 hours 43.19159127398552 min
+epoch 358
+Total loss: 1.1716e+05
+exec time: 1.769068682193756 min
+time_remaining: 33 hours 41.41185681383968 min
+epoch 359
+Total loss: 1.2813e+05
+exec time: 1.786084536711375 min
+time_remaining: 33 hours 39.6860651473221 min
+epoch 360
+Total loss: 1.1795e+05
+exec time: 1.7770886341730754 min
+time_remaining: 33 hours 37.931556254401585 min
+epoch 361
+Total loss: 1.1840e+05
+exec time: 1.7937767426172893 min
+time_remaining: 33 hours 36.22938412371013 min
+epoch 362
+Total loss: 1.1773e+05
+exec time: 1.790614398320516 min
+time_remaining: 33 hours 34.51680209029291 min
+epoch 363
+Total loss: 1.1856e+05
+exec time: 1.775865125656128 min
+time_remaining: 33 hours 32.75776061051238 min
+epoch 364
+Total loss: 1.1993e+05
+exec time: 1.8244508345921835 min
+time_remaining: 33 hours 31.14970853443174 min
+epoch 365
+Total loss: 1.1506e+05
+exec time: 1.8055531183878581 min
+time_remaining: 33 hours 29.48192201110305 min
+epoch 366
+Total loss: 1.2166e+05
+exec time: 1.8448635339736938 min
+time_remaining: 33 hours 27.93474357406558 min
+epoch 367
+Total loss: 1.1805e+05
+exec time: 1.804995834827423 min
+time_remaining: 33 hours 26.26331077390978 min
+epoch 368
+Total loss: 1.1961e+05
+exec time: 1.833886404832204 min
+time_remaining: 33 hours 24.679704826344732 min
+epoch 369
+Total loss: 1.1740e+05
+exec time: 1.8465760151545207 min
+time_remaining: 33 hours 23.13350076729239 min
+epoch 370
+Total loss: 1.1506e+05
+exec time: 1.8805952548980713 min
+time_remaining: 33 hours 21.689202308666836 min
+epoch 371
+Total loss: 1.1592e+05
+exec time: 1.8719353000322978 min
+time_remaining: 33 hours 20.21629895036085 min
+epoch 372
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.1763e+05
+exec time: 1.902776058514913 min
+time_remaining: 33 hours 18.834439750034107 min
+epoch 373
+Total loss: 1.2134e+05
+exec time: 1.880135750770569 min
+time_remaining: 33 hours 17.381631832498442 min
+epoch 374
+Total loss: 1.1417e+05
+exec time: 1.8719526529312134 min
+time_remaining: 33 hours 15.901995539666586 min
+epoch 375
+Total loss: 1.1596e+05
+exec time: 1.8767641623814901 min
+time_remaining: 33 hours 14.434655799765096 min
+epoch 376
+Total loss: 1.1920e+05
+exec time: 1.8940629363059998 min
+time_remaining: 33 hours 13.016673286050718 min
+epoch 377
+Total loss: 1.1203e+05
+exec time: 1.8887905836105348 min
+time_remaining: 33 hours 11.580522146491148 min
+epoch 378
+Total loss: 1.1668e+05
+exec time: 1.8674874822298686 min
+time_remaining: 33 hours 10.078972443512157 min
+epoch 379
+Total loss: 1.1278e+05
+exec time: 1.894523024559021 min
+time_remaining: 33 hours 8.65518045592853 min
+epoch 380
+Total loss: 1.1207e+05
+exec time: 1.8630521774291993 min
+time_remaining: 33 hours 7.13648731345711 min
+epoch 381
+Total loss: 1.1528e+05
+exec time: 1.8501558939615885 min
+time_remaining: 33 hours 5.5782476710203355 min
+epoch 382
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.1467e+05
+exec time: 1.8452906370162965 min
+time_remaining: 33 hours 4.004294387563277 min
+epoch 383
+Total loss: 1.1995e+05
+exec time: 1.8918011426925658 min
+time_remaining: 33 hours 2.564099045843932 min
+epoch 384
+Total loss: 1.1431e+05
+exec time: 1.936618403593699 min
+time_remaining: 33 hours 1.2513531438730752 min
+epoch 385
+Total loss: 1.1810e+05
+exec time: 1.894505222638448 min
+time_remaining: 32 hours 59.81383566525028 min
+epoch 386
+Total loss: 1.1250e+05
+exec time: 1.8129383643468222 min
+time_remaining: 32 hours 58.13937273761849 min
+epoch 387
+Total loss: 1.3038e+05
+exec time: 1.8061479926109314 min
+time_remaining: 32 hours 56.44473495368811 min
+epoch 388
+Total loss: 1.1465e+05
+exec time: 1.8385811686515807 min
+time_remaining: 32 hours 54.84215433727445 min
+epoch 389
+Total loss: 1.2491e+05
+exec time: 1.833844776948293 min
+time_remaining: 32 hours 53.22488296215488 min
+epoch 390
+Total loss: 1.1592e+05
+exec time: 1.784054120381673 min
+time_remaining: 32 hours 51.465281702288394 min
+epoch 391
+Total loss: 1.2559e+05
+exec time: 1.746241859594981 min
+time_remaining: 32 hours 49.59867817029772 min
+epoch 392
+Total loss: 1.0797e+05
+exec time: 1.7701742688814799 min
+time_remaining: 32 hours 47.800099830228646 min
+epoch 393
+Total loss: 1.1184e+05
+exec time: 1.7535459240277609 min
+time_remaining: 32 hours 45.954988136692236 min
+epoch 394
+Total loss: 1.0933e+05
+exec time: 1.7696967601776123 min
+time_remaining: 32 hours 44.15552152033251 min
+epoch 395
+Total loss: 1.1816e+05
+exec time: 1.743411370118459 min
+time_remaining: 32 hours 42.282924775404354 min
+epoch 396
+Total loss: 1.0701e+05
+exec time: 1.7558526714642844 min
+time_remaining: 32 hours 40.44554497287936 min
+epoch 397
+Total loss: 1.1626e+05
+exec time: 1.7322725415229798 min
+time_remaining: 32 hours 38.54328514790927 min
+epoch 398
+Total loss: 1.0820e+05
+exec time: 1.7552077293395996 min
+time_remaining: 32 hours 36.7051647122953 min
+epoch 399
+Total loss: 1.2369e+05
+exec time: 1.768792728583018 min
+time_remaining: 32 hours 34.90481758813212 min
+epoch 400
+Total loss: 1.0963e+05
+exec time: 1.7667106827100119 min
+time_remaining: 32 hours 33.09892168685292 min
+epoch 401
+Total loss: 1.1784e+05
+exec time: 1.7820830504099527 min
+time_remaining: 32 hours 31.335207950180575 min
+epoch 402
+Total loss: 1.1200e+05
+exec time: 1.7729002555211386 min
+time_remaining: 32 hours 29.546406708246195 min
+epoch 403
+Total loss: 1.2040e+05
+exec time: 1.7643680373827617 min
+time_remaining: 32 hours 27.73453737446266 min
+epoch 404
+Total loss: 1.0520e+05
+exec time: 1.7658787886301677 min
+time_remaining: 32 hours 25.926987238725815 min
+epoch 405
+Total loss: 1.1338e+05
+exec time: 1.7629646142323812 min
+time_remaining: 32 hours 24.11178990077974 min
+epoch 406
+Total loss: 1.0434e+05
+exec time: 1.7812317808469136 min
+time_remaining: 32 hours 22.345905777962344 min
+epoch 407
+Total loss: 1.1495e+05
+exec time: 1.7787421027819315 min
+time_remaining: 32 hours 20.573282871411266 min
+epoch 408
+Total loss: 1.0557e+05
+exec time: 1.7872780919075013 min
+time_remaining: 32 hours 18.823399636605018 min
+epoch 409
+Total loss: 1.0717e+05
+exec time: 1.7688010374704997 min
+time_remaining: 32 hours 17.024212062650804 min
+epoch 410
+Total loss: 1.0801e+05
+exec time: 1.7760975162188213 min
+time_remaining: 32 hours 15.24450536078939 min
+epoch 411
+Total loss: 1.0835e+05
+exec time: 1.7612643520037332 min
+time_remaining: 32 hours 13.425645104814066 min
+epoch 412
+Total loss: 1.0391e+05
+exec time: 1.7743252515792847 min
+time_remaining: 32 hours 11.641439545319372 min
+epoch 413
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.0533e+05
+exec time: 1.7906636158625284 min
+time_remaining: 32 hours 9.900140324538597 min
+epoch 414
+Total loss: 1.0483e+05
+exec time: 1.8178868730862936 min
+time_remaining: 32 hours 8.22977726110139 min
+epoch 415
+Total loss: 1.0960e+05
+exec time: 1.72428031762441 min
+time_remaining: 32 hours 6.314787866558618 min
+epoch 416
+Total loss: 1.0174e+05
+exec time: 1.7177116552988687 min
+time_remaining: 32 hours 4.383653524426791 min
+epoch 417
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.1081e+05
+exec time: 1.7248446027437845 min
+time_remaining: 32 hours 2.4720040973879804 min
+epoch 418
+Total loss: 1.0630e+05
+exec time: 1.7225445787111917 min
+time_remaining: 32 hours 0.5553123879371924 min
+epoch 419
+Total loss: 1.1496e+05
+exec time: 1.722646208604177 min
+time_remaining: 31 hours 58.63980652264354 min
+epoch 420
+Total loss: 1.0694e+05
+exec time: 1.7182550430297852 min
+time_remaining: 31 hours 56.71396253777357 min
+epoch 421
+Total loss: 1.2703e+05
+exec time: 1.7201633016268412 min
+time_remaining: 31 hours 54.79397703786026 min
+epoch 422
+Total loss: 1.2099e+05
+exec time: 1.7070076624552408 min
+time_remaining: 31 hours 52.841440760189016 min
+epoch 423
+Total loss: 1.7599e+05
+exec time: 1.701276683807373 min
+time_remaining: 31 hours 50.87551892639863 min
+epoch 424
+Total loss: 1.4516e+05
+exec time: 1.7076004147529602 min
+time_remaining: 31 hours 48.92683780099992 min
+epoch 425
+Total loss: 1.8669e+05
+exec time: 1.7029886285463969 min
+time_remaining: 31 hours 46.9676616123038 min
+epoch 426
+Total loss: 2.4157e+05
+exec time: 1.6961533387502035 min
+time_remaining: 31 hours 44.99250909847683 min
+epoch 427
+Total loss: 3.8555e+05
+exec time: 1.699394126733144 min
+time_remaining: 31 hours 43.026777432939525 min
+epoch 428
+Total loss: 5.6260e+05
+exec time: 1.7002708276112874 min
+time_remaining: 31 hours 41.06447612105694 min
+epoch 429
+Total loss: 9.5982e+05
+exec time: 1.6978728850682576 min
+time_remaining: 31 hours 39.097426582308344 min
+epoch 430
+Total loss: 2.2009e+06
+exec time: 1.7103782494862874 min
+time_remaining: 31 hours 37.16264290868776 min
+epoch 431
+Total loss: 3.5735e+06
+exec time: 1.7198039015134177 min
+time_remaining: 31 hours 35.25220045546803 min
+epoch 432
+Total loss: 3.1064e+07
+exec time: 1.7125966747601826 min
+time_remaining: 31 hours 33.324878478363644 min
+epoch 433
+Total loss: 2.4080e+06
+exec time: 1.7202481389045716 min
+time_remaining: 31 hours 31.417339707209976 min
+epoch 434
+Total loss: 1.1840e+07
+exec time: 1.7191022515296936 min
+time_remaining: 31 hours 29.50785659401049 min
+epoch 435
+Total loss: 5.8090e+06
+exec time: 1.7142565965652465 min
+time_remaining: 31 hours 27.587421611180616 min
+epoch 436
+Total loss: 9.0574e+06
+exec time: 1.712606632709503 min
+time_remaining: 31 hours 25.663916708886063 min
+epoch 437
+Total loss: 2.5194e+06
+exec time: 1.7164076685905456 min
+time_remaining: 31 hours 23.750591022675962 min
+epoch 438
+Total loss: 5.4049e+06
+exec time: 1.7121854821840923 min
+time_remaining: 31 hours 21.827958038647694 min
+epoch 439
+Total loss: 1.1517e+06
+exec time: 1.7122032523155213 min
+time_remaining: 31 hours 19.906324444034908 min
+epoch 440
+Total loss: 3.3895e+06
+exec time: 1.722534441947937 min
+time_remaining: 31 hours 18.010449558051732 min
+epoch 441
+Total loss: 4.0433e+05
+exec time: 1.7246107618014017 min
+time_remaining: 31 hours 16.120329032459722 min
+epoch 442
+Total loss: 1.4054e+06
+exec time: 1.7308881044387818 min
+time_remaining: 31 hours 14.245933497150645 min
+epoch 443
+Total loss: 3.3596e+06
+exec time: 1.715147602558136 min
+time_remaining: 31 hours 12.334747522372254 min
+epoch 444
+Total loss: 2.3436e+06
+exec time: 1.709449017047882 min
+time_remaining: 31 hours 10.410932489237439 min
+epoch 445
+Total loss: 1.4369e+06
+exec time: 1.7118497212727866 min
+time_remaining: 31 hours 8.493752151808621 min
+epoch 446
+Total loss: 9.5437e+05
+exec time: 1.7111234943072 min
+time_remaining: 31 hours 6.575779743323437 min
+epoch 447
+Total loss: 7.7104e+05
+exec time: 1.7172743280728657 min
+time_remaining: 31 hours 4.673174243208678 min
+epoch 448
+Total loss: 6.5257e+05
+exec time: 1.7150524020195008 min
+time_remaining: 31 hours 2.766193282207041 min
+epoch 449
+Total loss: 4.8837e+05
+exec time: 1.7154720743497214 min
+time_remaining: 31 hours 0.8610445724602869 min
+epoch 450
+Total loss: 3.5218e+05
+exec time: 1.707957649230957 min
+time_remaining: 30 hours 58.93925888116405 min
+epoch 451
+Total loss: 3.0380e+05
+exec time: 1.7100862264633179 min
+time_remaining: 30 hours 57.023354616911774 min
+epoch 452
+Total loss: 3.2884e+05
+exec time: 1.714584263165792 min
+time_remaining: 30 hours 55.11875516613168 min
+epoch 453
+Total loss: 3.1936e+05
+exec time: 1.709709358215332 min
+time_remaining: 30 hours 53.203761177459455 min
+epoch 454
+Total loss: 4.2291e+05
+exec time: 1.7139975984891256 min
+time_remaining: 30 hours 51.29951835438533 min
+epoch 455
+Total loss: 4.3649e+05
+exec time: 1.7162803967793783 min
+time_remaining: 30 hours 49.401336346802736 min
+epoch 456
+Total loss: 4.0676e+05
+exec time: 1.703655465443929 min
+time_remaining: 30 hours 47.475136833396846 min
+epoch 457
+Total loss: 3.1049e+05
+exec time: 1.7081865151723226 min
+time_remaining: 30 hours 45.560217760849355 min
+epoch 458
+Total loss: 2.3255e+05
+exec time: 1.7125078956286113 min
+time_remaining: 30 hours 43.65600026165566 min
+epoch 459
+Total loss: 2.1407e+05
+exec time: 1.7117195129394531 min
+time_remaining: 30 hours 41.750833852050164 min
+epoch 460
+Total loss: 1.9211e+05
+exec time: 1.7174360593159994 min
+time_remaining: 30 hours 39.85939062135708 min
+epoch 461
+Total loss: 2.1533e+05
+exec time: 1.721036938826243 min
+time_remaining: 30 hours 37.976790956192644 min
+epoch 462
+Total loss: 2.2018e+05
+exec time: 1.7167052189509073 min
+time_remaining: 30 hours 36.08518725634576 min
+epoch 463
+Total loss: 2.3875e+05
+exec time: 1.7217784961064657 min
+time_remaining: 30 hours 34.205664832565844 min
+epoch 464
+Total loss: 2.0243e+05
+exec time: 1.719398315747579 min
+time_remaining: 30 hours 32.32152305649288 min
+epoch 465
+Total loss: 2.1377e+05
+exec time: 1.7181040445963542 min
+time_remaining: 30 hours 30.435216496192652 min
+epoch 466
+Total loss: 2.1684e+05
+exec time: 1.698371740182241 min
+time_remaining: 30 hours 28.50598260092852 min
+epoch 467
+Total loss: 2.3535e+05
+exec time: 1.7070019523302713 min
+time_remaining: 30 hours 26.596766020294353 min
+epoch 468
+Total loss: 1.9438e+05
+exec time: 1.7071324626604716 min
+time_remaining: 30 hours 24.688698662277147 min
+epoch 469
+Total loss: 1.8881e+05
+exec time: 1.7111471096674602 min
+time_remaining: 30 hours 22.790284402574343 min
+epoch 470
+Total loss: 1.9094e+05
+exec time: 1.7101696650187175 min
+time_remaining: 30 hours 20.890529896069893 min
+epoch 471
+Total loss: 1.9612e+05
+exec time: 1.7128777623176574 min
+time_remaining: 30 hours 18.997476859282415 min
+epoch 472
+Total loss: 1.9818e+05
+exec time: 1.7277478416760763 min
+time_remaining: 30 hours 17.137472283488023 min
+epoch 473
+Total loss: 2.0889e+05
+exec time: 1.7307143847147624 min
+time_remaining: 30 hours 15.28444700437376 min
+epoch 474
+Total loss: 1.9903e+05
+exec time: 1.7130241672197977 min
+time_remaining: 30 hours 13.393763091272376 min
+epoch 475
+Total loss: 2.1073e+05
+exec time: 1.715141729513804 min
+time_remaining: 30 hours 11.508381075820353 min
+epoch 476
+Total loss: 1.9436e+05
+exec time: 1.7099067449569703 min
+time_remaining: 30 hours 9.6124856250849 min
+epoch 477
+Total loss: 1.9400e+05
+exec time: 1.7028722127278646 min
+time_remaining: 30 hours 7.702328010068413 min
+epoch 478
+Total loss: 1.8573e+05
+exec time: 1.7291484951972962 min
+time_remaining: 30 hours 5.849044414270793 min
+epoch 479
+Total loss: 1.7910e+05
+exec time: 1.7241225838661194 min
+time_remaining: 30 hours 3.9855979864805704 min
+epoch 480
+Total loss: 1.8042e+05
+exec time: 1.7071742733319601 min
+time_remaining: 30 hours 2.086825819092155 min
+epoch 481
+Total loss: 1.8885e+05
+exec time: 1.715985103448232 min
+time_remaining: 30 hours 0.20745742939379852 min
+epoch 482
+Total loss: 1.9335e+05
+exec time: 1.7160939812660216 min
+time_remaining: 29 hours 58.328994827093766 min
+epoch 483
+Total loss: 1.9247e+05
+exec time: 1.7120577057202657 min
+time_remaining: 29 hours 56.44273032662704 min
+epoch 484
+Total loss: 1.9304e+05
+exec time: 1.7084778587023417 min
+time_remaining: 29 hours 54.549692359905066 min
+epoch 485
+Total loss: 1.8929e+05
+exec time: 1.7127792874972025 min
+time_remaining: 29 hours 52.66638848580533 min
+epoch 486
+Total loss: 1.8019e+05
+exec time: 1.71741042137146 min
+time_remaining: 29 hours 50.793418056854534 min
+epoch 487
+Total loss: 1.8191e+05
+exec time: 1.723441199461619 min
+time_remaining: 29 hours 48.93359161856483 min
+epoch 488
+Total loss: 1.9479e+05
+exec time: 1.7218322555224101 min
+time_remaining: 29 hours 47.070996526194904 min
+epoch 489
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.8916e+05
+exec time: 1.7139453728993734 min
+time_remaining: 29 hours 45.192719340406256 min
+epoch 490
+Total loss: 1.9868e+05
+exec time: 1.7198262850443522 min
+time_remaining: 29 hours 43.327196745208084 min
+epoch 491
+Total loss: 1.8885e+05
+exec time: 1.7122194449106851 min
+time_remaining: 29 hours 41.4466816657939 min
+epoch 492
+Total loss: 1.8371e+05
+exec time: 1.7062575658162435 min
+time_remaining: 29 hours 39.5546716148192 min
+epoch 493
+Total loss: 1.9652e+05
+exec time: 1.70635035832723 min
+time_remaining: 29 hours 37.6636025643229 min
+epoch 494
+Total loss: 2.0771e+05
+exec time: 1.7089052557945252 min
+time_remaining: 29 hours 35.77846706804712 min
+epoch 495
+Total loss: 1.6867e+05
+exec time: 1.7144939422607421 min
+time_remaining: 29 hours 33.90535476066816 min
+epoch 496
+Total loss: 1.9270e+05
+exec time: 1.7118483066558838 min
+time_remaining: 29 hours 32.027541576465865 min
+epoch 497
+Total loss: 1.7804e+05
+exec time: 1.717831007639567 min
+time_remaining: 29 hours 30.162432400577927 min
+epoch 498
+Total loss: 1.7934e+05
+exec time: 1.7086704095204672 min
+time_remaining: 29 hours 28.279537247974986 min
+epoch 499
+Total loss: 1.9128e+05
+exec time: 1.7203341921170552 min
+time_remaining: 29 hours 26.42066655953795 min
+epoch 500
+Total loss: 1.8039e+05
+exec time: 1.7204373240470887 min
+time_remaining: 29 hours 24.56255455731025 min
+epoch 501
+Total loss: 1.8813e+05
+exec time: 1.7139264702796937 min
+time_remaining: 29 hours 22.69204717121056 min
+epoch 502
+Total loss: 1.9162e+05
+exec time: 1.708761783440908 min
+time_remaining: 29 hours 20.81192540947177 min
+epoch 503
+Total loss: 1.6679e+05
+exec time: 1.7151392102241516 min
+time_remaining: 29 hours 18.945086657718548 min
+epoch 504
+Total loss: 1.7800e+05
+exec time: 1.7165896972020467 min
+time_remaining: 29 hours 17.081706586412338 min
+epoch 505
+Total loss: 1.7641e+05
+exec time: 1.7163392663002015 min
+time_remaining: 29 hours 15.218414761018721 min
+epoch 506
+Total loss: 1.6578e+05
+exec time: 1.717529535293579 min
+time_remaining: 29 hours 13.358033867043105 min
+epoch 507
+Total loss: 1.8343e+05
+exec time: 1.7048762917518616 min
+time_remaining: 29 hours 11.47350668394165 min
+epoch 508
+Total loss: 1.6641e+05
+exec time: 1.713223429520925 min
+time_remaining: 29 hours 9.605936898308755 min
+epoch 509
+Total loss: 1.7557e+05
+exec time: 1.7113320350646972 min
+time_remaining: 29 hours 7.735300862088934 min
+epoch 510
+Total loss: 1.6893e+05
+exec time: 1.7136122822761535 min
+time_remaining: 29 hours 5.869701562648743 min
+epoch 511
+Total loss: 1.7427e+05
+exec time: 1.6981093605359396 min
+time_remaining: 29 hours 3.974780168199004 min
+epoch 512
+Total loss: 1.6618e+05
+exec time: 1.7084911743799844 min
+time_remaining: 29 hours 2.1006004391135775 min
+epoch 513
+Total loss: 1.7332e+05
+exec time: 1.7121148546536764 min
+time_remaining: 29 hours 0.23401667473444832 min
+epoch 514
+Total loss: 1.6363e+05
+exec time: 1.710699478785197 min
+time_remaining: 28 hours 58.365325711499736 min
+epoch 515
+Total loss: 1.7429e+05
+exec time: 1.7144157449404398 min
+time_remaining: 28 hours 56.5043339514923 min
+epoch 516
+Total loss: 1.6694e+05
+exec time: 1.7101784825325013 min
+time_remaining: 28 hours 54.63585268100769 min
+epoch 517
+Total loss: 1.6775e+05
+exec time: 1.7200192054112753 min
+time_remaining: 28 hours 52.78663819709209 min
+epoch 518
+Total loss: 1.6786e+05
+exec time: 1.7192611932754516 min
+time_remaining: 28 hours 50.93648880113801 min
+epoch 519
+Total loss: 1.6374e+05
+exec time: 1.7170635342597962 min
+time_remaining: 28 hours 49.082701079356866 min
+epoch 520
+Total loss: 1.5715e+05
+exec time: 1.7166420459747314 min
+time_remaining: 28 hours 47.228646200846015 min
+epoch 521
+Total loss: 1.6224e+05
+exec time: 1.7134910106658936 min
+time_remaining: 28 hours 45.36921414442941 min
+epoch 522
+Total loss: 1.5369e+05
+exec time: 1.7158457279205321 min
+time_remaining: 28 hours 43.51473895388153 min
+epoch 523
+Total loss: 1.6761e+05
+exec time: 1.7109703461329142 min
+time_remaining: 28 hours 41.651712019632214 min
+epoch 524
+Total loss: 1.5814e+05
+exec time: 1.7112359007199605 min
+time_remaining: 28 hours 39.789757521380125 min
+epoch 525
+Total loss: 1.6746e+05
+exec time: 1.717742415269216 min
+time_remaining: 28 hours 37.9404242823789 min
+epoch 526
+Total loss: 1.6359e+05
+exec time: 1.7276107907295226 min
+time_remaining: 28 hours 36.10981041903324 min
+epoch 527
+Total loss: 1.6372e+05
+exec time: 1.7191411892573039 min
+time_remaining: 28 hours 34.26399495249507 min
+epoch 528
+Total loss: 1.6640e+05
+exec time: 1.7222917437553407 min
+time_remaining: 28 hours 32.424441370592376 min
+epoch 529
+Total loss: 1.5403e+05
+exec time: 1.7211474498112997 min
+time_remaining: 28 hours 30.583236012369525 min
+epoch 530
+Total loss: 1.5303e+05
+exec time: 1.7249914169311524 min
+time_remaining: 28 hours 28.749497546719113 min
+epoch 531
+Total loss: 1.6160e+05
+exec time: 1.7188812057177225 min
+time_remaining: 28 hours 26.905050076637963 min
+epoch 532
+Total loss: 1.4195e+05
+exec time: 1.7203810612360637 min
+time_remaining: 28 hours 25.063794900769153 min
+epoch 533
+Total loss: 1.5366e+05
+exec time: 1.7161818583806356 min
+time_remaining: 28 hours 23.21539612615652 min
+epoch 534
+Total loss: 1.6074e+05
+exec time: 1.7239177624384563 min
+time_remaining: 28 hours 21.38144516696093 min
+epoch 535
+Total loss: 1.5248e+05
+exec time: 1.7134787678718566 min
+time_remaining: 28 hours 19.529130169764358 min
+epoch 536
+Total loss: 1.4920e+05
+exec time: 1.7066287676493326 min
+time_remaining: 28 hours 17.665048174885214 min
+epoch 537
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.4937e+05
+exec time: 1.7185341040293376 min
+time_remaining: 28 hours 15.822839488653017 min
+epoch 538
+Total loss: 1.5970e+05
+exec time: 1.709463393688202 min
+time_remaining: 28 hours 13.964917252376836 min
+epoch 539
+Total loss: 1.4983e+05
+exec time: 1.7090751926104228 min
+time_remaining: 28 hours 12.106854728416693 min
+epoch 540
+Total loss: 1.4619e+05
+exec time: 1.723181164264679 min
+time_remaining: 28 hours 10.27434784489833 min
+epoch 541
+Total loss: 1.3963e+05
+exec time: 1.7201509912808737 min
+time_remaining: 28 hours 8.436888462708794 min
+epoch 542
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.4308e+05
+exec time: 1.7112408757209778 min
+time_remaining: 28 hours 6.584157692288954 min
+epoch 543
+Total loss: 1.5195e+05
+exec time: 1.7180431365966797 min
+time_remaining: 28 hours 4.743901078461931 min
+epoch 544
+Total loss: 1.5376e+05
+exec time: 1.7134063323338826 min
+time_remaining: 28 hours 2.8959679121276167 min
+epoch 545
+Total loss: 1.4793e+05
+exec time: 1.7253003676732381 min
+time_remaining: 28 hours 1.0693094040011601 min
+epoch 546
+Total loss: 1.4812e+05
+exec time: 1.7095702091852825 min
+time_remaining: 27 hours 59.21561593288061 min
+epoch 547
+Total loss: 1.3946e+05
+exec time: 1.699813187122345 min
+time_remaining: 27 hours 57.345498303949626 min
+epoch 548
+Total loss: 1.4681e+05
+exec time: 1.7039172331492105 min
+time_remaining: 27 hours 55.483110286412284 min
+epoch 549
+Total loss: 1.4881e+05
+exec time: 1.7093014081319173 min
+time_remaining: 27 hours 53.63059846487931 min
+epoch 550
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.3930e+05
+exec time: 1.7061340928077697 min
+time_remaining: 27 hours 51.77315132317244 min
+epoch 551
+Total loss: 1.3972e+05
+exec time: 1.7109848896662394 min
+time_remaining: 27 hours 49.924583133494025 min
+epoch 552
+Total loss: 1.3678e+05
+exec time: 1.7195422371228537 min
+time_remaining: 27 hours 48.09116679669319 min
+epoch 553
+Total loss: 1.3678e+05
+exec time: 1.7121793389320374 min
+time_remaining: 27 hours 46.24558881099483 min
+epoch 554
+Total loss: 1.4229e+05
+exec time: 1.716398553053538 min
+time_remaining: 27 hours 44.407675608429145 min
+epoch 555
+Total loss: 1.3988e+05
+exec time: 1.7128294626871745 min
+time_remaining: 27 hours 42.56413975836858 min
+epoch 556
+Total loss: 1.3849e+05
+exec time: 1.702902865409851 min
+time_remaining: 27 hours 40.70426751969512 min
+epoch 557
+Total loss: 1.4464e+05
+exec time: 1.707346828778585 min
+time_remaining: 27 hours 38.85246006998136 min
+epoch 558
+Total loss: 1.3380e+05
+exec time: 1.7091093858083088 min
+time_remaining: 27 hours 37.004136497561376 min
+epoch 559
+Total loss: 1.4316e+05
+exec time: 1.7034662048021951 min
+time_remaining: 27 hours 35.14683763626135 min
+epoch 560
+Total loss: 1.4612e+05
+exec time: 1.7006767352422079 min
+time_remaining: 27 hours 33.285418192779616 min
+epoch 561
+Total loss: 1.2772e+05
+exec time: 1.706955623626709 min
+time_remaining: 27 hours 31.435050497912243 min
+epoch 562
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.2997e+05
+exec time: 1.6995893001556397 min
+time_remaining: 27 hours 29.572932499404033 min
+epoch 563
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.3138e+05
+exec time: 1.7065654714902243 min
+time_remaining: 27 hours 27.722968319629217 min
+epoch 564
+Total loss: 1.2803e+05
+exec time: 1.708382515112559 min
+time_remaining: 27 hours 25.87651871189655 min
+epoch 565
+Total loss: 1.3130e+05
+exec time: 1.7017392992973328 min
+time_remaining: 27 hours 24.019594493940303 min
+epoch 566
+Total loss: 1.3333e+05
+exec time: 1.710005017121633 min
+time_remaining: 27 hours 22.176818926015358 min
+epoch 567
+Total loss: 1.3863e+05
+exec time: 1.6992857535680135 min
+time_remaining: 27 hours 20.316922209268796 min
+epoch 568
+Total loss: 1.3244e+05
+exec time: 1.7002124627431234 min
+time_remaining: 27 hours 18.459106315313875 min
+epoch 569
+Total loss: 1.3319e+05
+exec time: 1.7108261426289877 min
+time_remaining: 27 hours 16.61916047251043 min
+epoch 570
+Total loss: 1.2598e+05
+exec time: 1.7160757064819336 min
+time_remaining: 27 hours 14.788207771948237 min
+epoch 571
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.2987e+05
+exec time: 1.7107659300168356 min
+time_remaining: 27 hours 12.949042276680302 min
+epoch 572
+Total loss: 1.2465e+05
+exec time: 1.712091867129008 min
+time_remaining: 27 hours 11.112470049883314 min
+epoch 573
+Total loss: 1.2510e+05
+exec time: 1.7096794803937276 min
+time_remaining: 27 hours 9.272439792776822 min
+epoch 574
+Total loss: 1.2422e+05
+exec time: 1.7077153325080872 min
+time_remaining: 27 hours 7.429703213512312 min
+epoch 575
+Total loss: 1.1969e+05
+exec time: 1.7122600237528482 min
+time_remaining: 27 hours 5.594725900226422 min
+epoch 576
+Total loss: 1.2093e+05
+exec time: 1.7106146375338236 min
+time_remaining: 27 hours 3.757541902536559 min
+epoch 577
+Total loss: 1.2297e+05
+exec time: 1.7018083373705546 min
+time_remaining: 27 hours 1.9067484411264104 min
+epoch 578
+Total loss: 1.2727e+05
+exec time: 1.702794897556305 min
+time_remaining: 27 hours 0.0580389040328555 min
+epoch 579
+Total loss: 1.2824e+05
+exec time: 1.7107480684916179 min
+time_remaining: 26 hours 58.22244789545539 min
+epoch 580
+Total loss: 1.3055e+05
+exec time: 1.7041957298914592 min
+time_remaining: 26 hours 56.376922440590306 min
+epoch 581
+Total loss: 1.3050e+05
+exec time: 1.7044387380282084 min
+time_remaining: 26 hours 54.532265956377614 min
+epoch 582
+Total loss: 1.2592e+05
+exec time: 1.7128766099611918 min
+time_remaining: 26 hours 52.701362412223716 min
+epoch 583
+Total loss: 1.2296e+05
+exec time: 1.7073206981023152 min
+time_remaining: 26 hours 50.86214866020396 min
+epoch 584
+Total loss: 1.2467e+05
+exec time: 1.7075791041056314 min
+time_remaining: 26 hours 49.02378999809957 min
+epoch 585
+Total loss: 1.2038e+05
+exec time: 1.7093314131100972 min
+time_remaining: 26 hours 47.18861080621036 min
+epoch 586
+Total loss: 1.1956e+05
+exec time: 1.7060316602389018 min
+time_remaining: 26 hours 45.34872807290071 min
+epoch 587
+Total loss: 1.2534e+05
+exec time: 1.7029086073239645 min
+time_remaining: 26 hours 43.504456696542775 min
+epoch 588
+Total loss: 1.2507e+05
+exec time: 1.7083942532539367 min
+time_remaining: 26 hours 41.66914991947283 min
+epoch 589
+Total loss: 1.1838e+05
+exec time: 1.7004538893699646 min
+time_remaining: 26 hours 39.82202635242493 min
+epoch 590
+Total loss: 1.1570e+05
+exec time: 1.7025489528973898 min
+time_remaining: 26 hours 37.978621486056454 min
+epoch 591
+Total loss: 1.1758e+05
+exec time: 1.7016560912132264 min
+time_remaining: 26 hours 36.13432302748856 min
+epoch 592
+Total loss: 1.1329e+05
+exec time: 1.6947655399640402 min
+time_remaining: 26 hours 34.279966482498594 min
+epoch 593
+Total loss: 1.1081e+05
+exec time: 1.7022064646085104 min
+time_remaining: 26 hours 32.43749657006424 min
+epoch 594
+Total loss: 1.1787e+05
+exec time: 1.7018644332885742 min
+time_remaining: 26 hours 30.594977898891557 min
+epoch 595
+Total loss: 1.2266e+05
+exec time: 1.6997412284215292 min
+time_remaining: 26 hours 28.749710790263407 min
+epoch 596
+Total loss: 1.1120e+05
+exec time: 1.7106719613075256 min
+time_remaining: 26 hours 26.921464625615272 min
+epoch 597
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.1819e+05
+exec time: 1.7098942915598552 min
+time_remaining: 26 hours 25.092438678850613 min
+epoch 598
+Total loss: 1.0907e+05
+exec time: 1.6989416480064392 min
+time_remaining: 26 hours 23.247335823019057 min
+epoch 599
+Total loss: 1.1887e+05
+exec time: 1.693712298075358 min
+time_remaining: 26 hours 21.39487614631662 min
+epoch 600
+Total loss: 1.1411e+05
+exec time: 1.7059940457344056 min
+time_remaining: 26 hours 19.561316279768562 min
+epoch 601
+Total loss: 1.1579e+05
+exec time: 1.7018537441889445 min
+time_remaining: 26 hours 17.722004155502646 min
+epoch 602
+Total loss: 1.1549e+05
+exec time: 1.7063146392504374 min
+time_remaining: 26 hours 15.88978380508479 min
+epoch 603
+Total loss: 1.1517e+05
+exec time: 1.7033568739891052 min
+time_remaining: 26 hours 14.05359268272673 min
+epoch 604
+Total loss: 1.0887e+05
+exec time: 1.7008249243100484 min
+time_remaining: 26 hours 12.21409507034241 min
+epoch 605
+Total loss: 1.1479e+05
+exec time: 1.7015570878982544 min
+time_remaining: 26 hours 10.376135246116291 min
+epoch 606
+Total loss: 1.1340e+05
+exec time: 1.7144465684890746 min
+time_remaining: 26 hours 8.557587467426174 min
+epoch 607
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.1392e+05
+exec time: 1.7159482677777609 min
+time_remaining: 26 hours 6.741585277857666 min
+epoch 608
+Total loss: 1.1376e+05
+exec time: 1.7146646658579507 min
+time_remaining: 26 hours 4.924033693433557 min
+epoch 609
+Total loss: 1.0873e+05
+exec time: 1.7159870505332946 min
+time_remaining: 26 hours 3.108748824088707 min
+epoch 610
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.2357e+05
+exec time: 1.7146161556243897 min
+time_remaining: 26 hours 1.2917943476463734 min
+epoch 611
+Total loss: 1.1078e+05
+exec time: 1.7194043040275573 min
+time_remaining: 25 hours 59.48212181960844 min
+epoch 612
+Total loss: 1.0765e+05
+exec time: 1.7127328952153524 min
+time_remaining: 25 hours 57.663090395700465 min
+epoch 613
+Total loss: 1.1871e+05
+exec time: 1.7149407784144084 min
+time_remaining: 25 hours 55.847591189336526 min
+epoch 614
+Total loss: 1.1398e+05
+exec time: 1.713873318831126 min
+time_remaining: 25 hours 54.03088290187384 min
+epoch 615
+Total loss: 1.0840e+05
+exec time: 1.715479040145874 min
+time_remaining: 25 hours 52.216812808534314 min
+epoch 616
+Total loss: 1.0254e+05
+exec time: 1.7098949631055196 min
+time_remaining: 25 hours 50.39507082229329 min
+epoch 617
+Total loss: 1.1160e+05
+exec time: 1.7166206200917562 min
+time_remaining: 25 hours 48.5832895537028 min
+epoch 618
+Total loss: 1.0916e+05
+exec time: 1.7196001609166462 min
+time_remaining: 25 hours 46.77605642204867 min
+epoch 619
+Total loss: 1.1449e+05
+exec time: 1.7165268381436667 min
+time_remaining: 25 hours 44.964743841848076 min
+epoch 620
+Total loss: 1.1285e+05
+exec time: 1.716727896531423 min
+time_remaining: 25 hours 43.154021119630215 min
+epoch 621
+Total loss: 1.0281e+05
+exec time: 1.71981893380483 min
+time_remaining: 25 hours 41.347963864256826 min
+epoch 622
+Total loss: 1.0401e+05
+exec time: 1.716982897122701 min
+time_remaining: 25 hours 39.53819115538886 min
+epoch 623
+Total loss: 1.0993e+05
+exec time: 1.7095657348632813 min
+time_remaining: 25 hours 37.71830329505315 min
+epoch 624
+Total loss: 1.1038e+05
+exec time: 1.716046929359436 min
+time_remaining: 25 hours 35.90784213781376 min
+epoch 625
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.0379e+05
+exec time: 1.7076724569002788 min
+time_remaining: 25 hours 34.08599046863583 min
+epoch 626
+Total loss: 1.1173e+05
+exec time: 1.7145056247711181 min
+time_remaining: 25 hours 32.274017131157734 min
+epoch 627
+Total loss: 1.0342e+05
+exec time: 1.7098494529724122 min
+time_remaining: 25 hours 30.45588894275147 min
+epoch 628
+Total loss: 9.8776e+04
+exec time: 1.7008071700731913 min
+time_remaining: 25 hours 28.62558385301827 min
+epoch 629
+Total loss: 1.0554e+05
+exec time: 1.7075088938077292 min
+time_remaining: 25 hours 26.804944629139754 min
+epoch 630
+Total loss: 1.0175e+05
+exec time: 1.71483523050944 min
+time_remaining: 25 hours 24.994753657644196 min
+epoch 631
+Total loss: 9.8332e+04
+exec time: 1.700947916507721 min
+time_remaining: 25 hours 23.165791361668653 min
+epoch 632
+Total loss: 1.0726e+05
+exec time: 1.6988975008328755 min
+time_remaining: 25 hours 21.334425145265186 min
+epoch 633
+Total loss: 1.0777e+05
+exec time: 1.7034888943036397 min
+time_remaining: 25 hours 19.50974833608052 min
+epoch 634
+Total loss: 1.0156e+05
+exec time: 1.7014063517252604 min
+time_remaining: 25 hours 17.682616371776703 min
+epoch 635
+Total loss: 1.0194e+05
+exec time: 1.6984530727068583 min
+time_remaining: 25 hours 15.851867769349383 min
+epoch 636
+Total loss: 1.0379e+05
+exec time: 1.703304076194763 min
+time_remaining: 25 hours 14.028106619149867 min
+epoch 637
+Total loss: 1.0760e+05
+exec time: 1.704770302772522 min
+time_remaining: 25 hours 12.206704091925758 min
+epoch 638
+Total loss: 9.8838e+04
+exec time: 1.7029066642125448 min
+time_remaining: 25 hours 10.38315551094388 min
+epoch 639
+Total loss: 1.0519e+05
+exec time: 1.7025477528572082 min
+time_remaining: 25 hours 8.559501648818468 min
+epoch 640
+Total loss: 9.9160e+04
+exec time: 1.7026975671450297 min
+time_remaining: 25 hours 6.736426418036899 min
+epoch 641
+Total loss: 1.0356e+05
+exec time: 1.702832249800364 min
+time_remaining: 25 hours 4.913906191999558 min
+epoch 642
+Total loss: 9.5632e+04
+exec time: 1.710203969478607 min
+time_remaining: 25 hours 3.101583383873276 min
+epoch 643
+Total loss: 9.4324e+04
+exec time: 1.7024737477302552 min
+time_remaining: 25 hours 1.2793027618656652 min
+epoch 644
+Total loss: 9.5504e+04
+exec time: 1.7040354490280152 min
+time_remaining: 24 hours 59.45946379622728 min
+epoch 645
+Total loss: 1.0056e+05
+exec time: 1.70597589413325 min
+time_remaining: 24 hours 57.642548587792135 min
+epoch 646
+Total loss: 9.6910e+04
+exec time: 1.6949835658073424 min
+time_remaining: 24 hours 55.81148410975311 min
+epoch 647
+Total loss: 1.0249e+05
+exec time: 1.6971000194549561 min
+time_remaining: 24 hours 53.9836223791408 min
+epoch 648
+Total loss: 9.9706e+04
+exec time: 1.7006547689437865 min
+time_remaining: 24 hours 52.16082477061991 min
+epoch 649
+Total loss: 1.0169e+05
+exec time: 1.6983924428621928 min
+time_remaining: 24 hours 50.33544455980632 min
+epoch 650
+Total loss: 9.8188e+04
+exec time: 1.696031598250071 min
+time_remaining: 24 hours 48.50737559086724 min
+epoch 651
+Total loss: 9.9418e+04
+exec time: 1.7021030982335408 min
+time_remaining: 24 hours 46.68760831936197 min
+epoch 652
+Total loss: 9.7330e+04
+exec time: 1.6997108817100526 min
+time_remaining: 24 hours 44.865098507200855 min
+epoch 653
+Total loss: 9.3765e+04
+exec time: 1.6972950537999472 min
+time_remaining: 24 hours 43.039839165144485 min
+epoch 654
+Total loss: 1.0018e+05
+exec time: 1.7066256165504456 min
+time_remaining: 24 hours 41.227007691944664 min
+epoch 655
+Total loss: 9.8735e+04
+exec time: 1.6983427047729491 min
+time_remaining: 24 hours 39.403843344008465 min
+epoch 656
+Total loss: 9.8778e+04
+exec time: 1.6965338905652365 min
+time_remaining: 24 hours 37.57873807203782 min
+epoch 657
+Total loss: 9.3308e+04
+exec time: 1.7143851041793823 min
+time_remaining: 24 hours 35.77686663688428 min
+epoch 658
+Total loss: 9.7939e+04
+exec time: 1.7121874531110128 min
+time_remaining: 24 hours 33.972456124513656 min
+epoch 659
+Total loss: 9.2783e+04
+exec time: 1.7121360063552857 min
+time_remaining: 24 hours 32.16825959826906 min
+epoch 660
+Total loss: 9.5639e+04
+exec time: 1.7256264130274455 min
+time_remaining: 24 hours 30.38146484545564 min
+epoch 661
+Total loss: 9.0334e+04
+exec time: 1.7079185724258423 min
+time_remaining: 24 hours 28.572439225958078 min
+epoch 662
+Total loss: 9.3761e+04
+exec time: 1.7000039537747702 min
+time_remaining: 24 hours 26.753726846707195 min
+epoch 663
+Total loss: 9.0135e+04
+exec time: 1.7042922854423523 min
+time_remaining: 24 hours 24.94077118752398 min
+epoch 664
+Total loss: 9.1325e+04
+exec time: 1.7006555239359538 min
+time_remaining: 24 hours 23.12357587554311 min
+epoch 665
+Total loss: 9.3443e+04
+exec time: 1.704240882396698 min
+time_remaining: 24 hours 21.311220306103905 min
+epoch 666
+Total loss: 9.2622e+04
+exec time: 1.7110317786534628 min
+time_remaining: 24 hours 19.50766990301463 min
+epoch 667
+Total loss: 8.9428e+04
+exec time: 1.699311045805613 min
+time_remaining: 24 hours 17.689798223757407 min
+epoch 668
+Total loss: 9.2665e+04
+exec time: 1.6975308338801065 min
+time_remaining: 24 hours 15.870069691221943 min
+epoch 669
+Total loss: 9.1197e+04
+exec time: 1.7041947722434998 min
+time_remaining: 24 hours 14.058961254565247 min
+epoch 670
+Total loss: 8.3890e+04
+exec time: 1.698615880807241 min
+time_remaining: 24 hours 12.241278937622837 min
+epoch 671
+Total loss: 8.9399e+04
+exec time: 1.6984216968218486 min
+time_remaining: 24 hours 10.423711722663029 min
+epoch 672
+Total loss: 9.2110e+04
+exec time: 1.7056356946627298 min
+time_remaining: 24 hours 8.61536332976948 min
+epoch 673
+Total loss: 9.4321e+04
+exec time: 1.7116531213124593 min
+time_remaining: 24 hours 6.814694194753201 min
+epoch 674
+Total loss: 9.2366e+04
+exec time: 1.7118317802747092 min
+time_remaining: 24 hours 5.014507171842752 min
+epoch 675
+Total loss: 9.1743e+04
+exec time: 1.7077784260114035 min
+time_remaining: 24 hours 3.2096407799556346 min
+epoch 676
+Total loss: 8.8054e+04
+exec time: 1.7043739358584087 min
+time_remaining: 24 hours 1.4009225129375409 min
+epoch 677
+Total loss: 9.0012e+04
+exec time: 1.7180961449941 min
+time_remaining: 23 hours 59.60914870693955 min
+epoch 678
+Total loss: 8.7415e+04
+exec time: 1.725334878762563 min
+time_remaining: 23 hours 57.82634449703278 min
+epoch 679
+Total loss: 8.6129e+04
+exec time: 1.7096535086631774 min
+time_remaining: 23 hours 56.024799427097605 min
+epoch 680
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 9.2250e+04
+exec time: 1.7113408287366232 min
+time_remaining: 23 hours 54.22555347355433 min
+epoch 681
+Total loss: 9.0001e+04
+exec time: 1.710254462560018 min
+time_remaining: 23 hours 52.425262304053604 min
+epoch 682
+Total loss: 8.7333e+04
+exec time: 1.7082404375076294 min
+time_remaining: 23 hours 50.62282562202881 min
+epoch 683
+Total loss: 9.1220e+04
+exec time: 1.7143408934275308 min
+time_remaining: 23 hours 48.82794210450675 min
+epoch 684
+Total loss: 8.8563e+04
+exec time: 1.7236691872278849 min
+time_remaining: 23 hours 47.04439237486099 min
+epoch 685
+Total loss: 8.3256e+04
+exec time: 1.7224719683329264 min
+time_remaining: 23 hours 45.259596617378975 min
+epoch 686
+Total loss: 1.0307e+05
+exec time: 1.7185560186704 min
+time_remaining: 23 hours 43.470348138649115 min
+epoch 687
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 7.9357e+04
+exec time: 1.7191584666570028 min
+time_remaining: 23 hours 41.68201618998546 min
+epoch 688
+Total loss: 9.4241e+04
+exec time: 1.7154343843460083 min
+time_remaining: 23 hours 39.88950153625569 min
+epoch 689
+Total loss: 8.9418e+04
+exec time: 1.7138159036636353 min
+time_remaining: 23 hours 38.09531034801307 min
+epoch 690
+Total loss: 8.1801e+04
+exec time: 1.7186282873153687 min
+time_remaining: 23 hours 36.306985974449844 min
+epoch 691
+Total loss: 8.9664e+04
+exec time: 1.7166317343711852 min
+time_remaining: 23 hours 34.51653179943219 min
+epoch 692
+Total loss: 8.6844e+04
+exec time: 1.7151088913281758 min
+time_remaining: 23 hours 32.72451732217132 min
+epoch 693
+Total loss: 8.6822e+04
+exec time: 1.712097454071045 min
+time_remaining: 23 hours 30.929227041946206 min
+epoch 694
+Total loss: 9.0134e+04
+exec time: 1.7109562834103902 min
+time_remaining: 23 hours 29.132854377937747 min
+epoch 695
+Total loss: 8.7189e+04
+exec time: 1.7183198571205138 min
+time_remaining: 23 hours 27.345233360515522 min
+epoch 696
+Total loss: 8.1947e+04
+exec time: 1.7199541648228964 min
+time_remaining: 23 hours 25.559694052426494 min
+epoch 697
+Total loss: 8.5959e+04
+exec time: 1.7070568084716797 min
+time_remaining: 23 hours 23.7595236418922 min
+epoch 698
+Total loss: 8.2924e+04
+exec time: 1.7014147480328878 min
+time_remaining: 23 hours 21.953154285424716 min
+epoch 699
+Total loss: 8.0780e+04
+exec time: 1.6927894790967306 min
+time_remaining: 23 hours 20.137227349054 min
+epoch 700
+Total loss: 8.4630e+04
+exec time: 1.6976675232251486 min
+time_remaining: 23 hours 18.32721172819447 min
+epoch 701
+Total loss: 8.1577e+04
+exec time: 1.714730974038442 min
+time_remaining: 23 hours 16.53691310155773 min
+epoch 702
+Total loss: 7.8339e+04
+exec time: 1.7200327475865682 min
+time_remaining: 23 hours 14.752840148922132 min
+epoch 703
+Total loss: 8.4326e+04
+exec time: 1.7260669589042663 min
+time_remaining: 23 hours 12.975771901711823 min
+epoch 704
+Total loss: 8.2136e+04
+exec time: 1.706974705060323 min
+time_remaining: 23 hours 11.177318776160973 min
+epoch 705
+Total loss: 7.9377e+04
+exec time: 1.7148139039675394 min
+time_remaining: 23 hours 9.387941119128527 min
+epoch 706
+Total loss: 8.7687e+04
+exec time: 1.7069998462994893 min
+time_remaining: 23 hours 7.590009826700225 min
+epoch 707
+Total loss: 8.4044e+04
+exec time: 1.710438891251882 min
+time_remaining: 23 hours 5.7961824699984845 min
+epoch 708
+Total loss: 7.7905e+04
+exec time: 1.7088280161221823 min
+time_remaining: 23 hours 4.0007931594232105 min
+epoch 709
+Total loss: 8.7228e+04
+exec time: 1.7118329803148906 min
+time_remaining: 23 hours 2.208991235186886 min
+epoch 710
+Total loss: 7.8994e+04
+exec time: 1.7117112239201864 min
+time_remaining: 23 hours 0.4172791451176181 min
+epoch 711
+Total loss: 8.4133e+04
+exec time: 1.7092294653256734 min
+time_remaining: 22 hours 58.62304511117168 min
+epoch 712
+Total loss: 7.7409e+04
+exec time: 1.7109871705373128 min
+time_remaining: 22 hours 56.83098965105273 min
+epoch 713
+Total loss: 7.8905e+04
+exec time: 1.7118691245714823 min
+time_remaining: 22 hours 55.0401321635527 min
+epoch 714
+Total loss: 8.1695e+04
+exec time: 1.7135808746019998 min
+time_remaining: 22 hours 53.25137495647232 min
+epoch 715
+Total loss: 8.1229e+04
+exec time: 1.7150025526682535 min
+time_remaining: 22 hours 51.464384436918635 min
+epoch 716
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 8.3338e+04
+exec time: 1.7138268272082011 min
+time_remaining: 22 hours 49.6763107693846 min
+epoch 717
+Total loss: 8.0360e+04
+exec time: 1.7168828010559083 min
+time_remaining: 22 hours 47.891772290192876 min
+epoch 718
+Total loss: 8.0905e+04
+exec time: 1.7159809708595275 min
+time_remaining: 22 hours 46.106442409015926 min
+epoch 719
+Total loss: 8.4959e+04
+exec time: 1.7163249810536703 min
+time_remaining: 22 hours 44.32167784141211 min
+epoch 720
+Total loss: 7.7457e+04
+exec time: 1.7101898709932963 min
+time_remaining: 22 hours 42.5304744782959 min
+epoch 721
+Total loss: 7.9036e+04
+exec time: 1.714205261071523 min
+time_remaining: 22 hours 40.74382236236147 min
+epoch 722
+Total loss: 7.5802e+04
+exec time: 1.7036918640136718 min
+time_remaining: 22 hours 38.94607202263137 min
+epoch 723
+Total loss: 7.8858e+04
+exec time: 1.6995519161224366 min
+time_remaining: 22 hours 37.14414422072991 min
+epoch 724
+Total loss: 8.0334e+04
+exec time: 1.6939456899960836 min
+time_remaining: 22 hours 35.33650597265432 min
+epoch 725
+Total loss: 8.0334e+04
+exec time: 1.7021837989489237 min
+time_remaining: 22 hours 33.53796370453142 min
+epoch 726
+Total loss: 7.8261e+04
+exec time: 1.6979984680811564 min
+time_remaining: 22 hours 31.73523636925188 min
+epoch 727
+Total loss: 7.7125e+04
+exec time: 1.7015343149503073 min
+time_remaining: 22 hours 29.93654630254059 min
+epoch 728
+Total loss: 8.2972e+04
+exec time: 1.7008368770281475 min
+time_remaining: 22 hours 28.13738516157059 min
+epoch 729
+Total loss: 7.6137e+04
+exec time: 1.7020684639612833 min
+time_remaining: 22 hours 26.339792473294892 min
+epoch 730
+Total loss: 7.5289e+04
+exec time: 1.7031009912490844 min
+time_remaining: 22 hours 24.5435473389623 min
+epoch 731
+Total loss: 7.8634e+04
+exec time: 1.6987447500228883 min
+time_remaining: 22 hours 22.742986214225994 min
+epoch 732
+Total loss: 7.7645e+04
+exec time: 1.7054304361343384 min
+time_remaining: 22 hours 20.94969869658007 min
+epoch 733
+Total loss: 7.8849e+04
+exec time: 1.7106631755828858 min
+time_remaining: 22 hours 19.16211144130557 min
+epoch 734
+Total loss: 7.7970e+04
+exec time: 1.7029645164807639 min
+time_remaining: 22 hours 17.366720613168127 min
+epoch 735
+Total loss: 7.8042e+04
+exec time: 1.7028924226760864 min
+time_remaining: 22 hours 15.571506106982724 min
+epoch 736
+Total loss: 8.1341e+04
+exec time: 1.6999887426694233 min
+time_remaining: 22 hours 13.77353601914524 min
+epoch 737
+Total loss: 7.8051e+04
+exec time: 1.7036866346995037 min
+time_remaining: 22 hours 11.97964961208936 min
+epoch 738
+Total loss: 7.6596e+04
+exec time: 1.7019665837287903 min
+time_remaining: 22 hours 10.184236061266802 min
+epoch 739
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 8.0345e+04
+exec time: 1.7054145336151123 min
+time_remaining: 22 hours 8.392616207535411 min
+epoch 740
+Total loss: 7.9457e+04
+exec time: 1.7000076174736023 min
+time_remaining: 22 hours 6.595690768498571 min
+epoch 741
+Total loss: 7.6012e+04
+exec time: 1.7040140986442567 min
+time_remaining: 22 hours 4.80311943777815 min
+epoch 742
+Total loss: 8.0140e+04
+exec time: 1.6937006791432698 min
+time_remaining: 22 hours 3.0002787341124986 min
+epoch 743
+Total loss: 7.9279e+04
+exec time: 1.6924060106277465 min
+time_remaining: 22 hours 1.196415867344058 min
+epoch 744
+Total loss: 7.5647e+04
+exec time: 1.6902822256088257 min
+time_remaining: 21 hours 59.39069992141185 min
+epoch 745
+Total loss: 7.6352e+04
+exec time: 1.7103111823399861 min
+time_remaining: 21 hours 57.60553719373161 min
+epoch 746
+Total loss: 7.4877e+04
+exec time: 1.7133569200833638 min
+time_remaining: 21 hours 55.82364507329521 min
+epoch 747
+Total loss: 7.9295e+04
+exec time: 1.7115146001180013 min
+time_remaining: 21 hours 54.04008403011426 min
+epoch 748
+Total loss: 7.8128e+04
+exec time: 1.7071235140164693 min
+time_remaining: 21 hours 52.25231255599033 min
+epoch 749
+Total loss: 7.4799e+04
+exec time: 1.7079891602198283 min
+time_remaining: 21 hours 50.46562178929685 min
+epoch 750
+Total loss: 7.9599e+04
+exec time: 1.7117698470751443 min
+time_remaining: 21 hours 48.682911232546985 min
+epoch 751
+Total loss: 7.6086e+04
+exec time: 1.7080673535664876 min
+time_remaining: 21 hours 46.896706548502834 min
+epoch 752
+Total loss: 7.5639e+04
+exec time: 1.7010589480400085 min
+time_remaining: 21 hours 45.10375683887128 min
+epoch 753
+Total loss: 7.8390e+04
+exec time: 1.7062830527623494 min
+time_remaining: 21 hours 43.31621954786806 min
+epoch 754
+Total loss: 7.0860e+04
+exec time: 1.711800718307495 min
+time_remaining: 21 hours 41.53434208376302 min
+epoch 755
+Total loss: 7.9136e+04
+exec time: 1.7148698012034098 min
+time_remaining: 21 hours 39.75567037516839 min
+epoch 756
+Total loss: 7.2696e+04
+exec time: 1.7097253799438477 min
+time_remaining: 21 hours 37.97211795167141 min
+epoch 757
+Total loss: 9.9188e+04
+exec time: 1.719477931658427 min
+time_remaining: 21 hours 36.19830701558817 min
+epoch 758
+Total loss: 7.9388e+04
+exec time: 1.7224904855092367 min
+time_remaining: 21 hours 34.42758035936254 min
+epoch 759
+Total loss: 1.3524e+05
+exec time: 1.7143032948176067 min
+time_remaining: 21 hours 32.649008902124024 min
+epoch 760
+Total loss: 9.5494e+04
+exec time: 1.711497155825297 min
+time_remaining: 21 hours 30.86788133399068 min
+epoch 761
+Total loss: 8.1380e+04
+exec time: 1.7139889280001321 min
+time_remaining: 21 hours 29.089349814006255 min
+epoch 762
+Total loss: 8.6836e+04
+exec time: 1.7092328071594238 min
+time_remaining: 21 hours 27.306393423936697 min
+epoch 763
+Total loss: 8.1488e+04
+exec time: 1.7073623100916544 min
+time_remaining: 21 hours 25.521828082719594 min
+epoch 764
+Total loss: 7.3209e+04
+exec time: 1.7022755781809489 min
+time_remaining: 21 hours 23.732577327264835 min
+epoch 765
+Total loss: 7.4807e+04
+exec time: 1.701083775361379 min
+time_remaining: 21 hours 21.942411646333085 min
+epoch 766
+Total loss: 8.0177e+04
+exec time: 1.70306769212087 min
+time_remaining: 21 hours 20.154374224587855 min
+epoch 767
+Total loss: 6.9834e+04
+exec time: 1.7063174605369569 min
+time_remaining: 21 hours 18.3696555137019 min
+epoch 768
+Total loss: 7.3950e+04
+exec time: 1.6932753443717956 min
+time_remaining: 21 hours 16.572743064953556 min
+epoch 769
+Total loss: 7.6480e+04
+exec time: 1.6973015864690144 min
+time_remaining: 21 hours 14.779916890153117 min
+epoch 770
+Total loss: 7.0475e+04
+exec time: 1.6949674169222513 min
+time_remaining: 21 hours 12.985131493014478 min
+epoch 771
+Total loss: 7.1467e+04
+exec time: 1.6969638387362163 min
+time_remaining: 21 hours 11.19248732779397 min
+epoch 772
+Total loss: 7.2369e+04
+exec time: 1.7024324576059977 min
+time_remaining: 21 hours 9.405233908461014 min
+epoch 773
+Total loss: 7.0063e+04
+exec time: 1.7020795941352844 min
+time_remaining: 21 hours 7.617868684274981 min
+epoch 774
+Total loss: 6.9224e+04
+exec time: 1.70071146885554 min
+time_remaining: 21 hours 5.829443692905215 min
+epoch 775
+Total loss: 7.4214e+04
+exec time: 1.6985381801923116 min
+time_remaining: 21 hours 4.039217111396965 min
+epoch 776
+Total loss: 7.4573e+04
+exec time: 1.6967833320299783 min
+time_remaining: 21 hours 2.247593646467294 min
+epoch 777
+Total loss: 7.2266e+04
+exec time: 1.6944628715515138 min
+time_remaining: 21 hours 0.45406055146054314 min
+epoch 778
+Total loss: 7.1316e+04
+exec time: 1.6960428873697917 min
+time_remaining: 20 hours 58.66224418540378 min
+epoch 779
+Total loss: 7.3194e+04
+exec time: 1.6912750601768494 min
+time_remaining: 20 hours 56.86627232111459 min
+epoch 780
+Total loss: 7.1465e+04
+exec time: 1.6937950015068055 min
+time_remaining: 20 hours 55.072888461209914 min
+epoch 781
+Total loss: 7.3915e+04
+exec time: 1.6961972912152607 min
+time_remaining: 20 hours 53.28196498714556 min
+epoch 782
+Total loss: 7.2812e+04
+exec time: 1.6938851316769918 min
+time_remaining: 20 hours 51.48916620526143 min
+epoch 783
+Total loss: 6.8480e+04
+exec time: 1.6936785022417704 min
+time_remaining: 20 hours 49.69643104662282 min
+epoch 784
+Total loss: 7.5143e+04
+exec time: 1.6974886814753214 min
+time_remaining: 20 hours 47.907418679659486 min
+epoch 785
+Total loss: 6.7180e+04
+exec time: 1.7008476893107096 min
+time_remaining: 20 hours 46.12169050985335 min
+epoch 786
+Total loss: 8.3208e+04
+exec time: 1.6986318786938985 min
+time_remaining: 20 hours 44.3341705840005 min
+epoch 787
+Total loss: 7.0307e+04
+exec time: 1.7057941516240438 min
+time_remaining: 20 hours 42.55334775766573 min
+epoch 788
+Total loss: 6.8967e+04
+exec time: 1.7028068820635478 min
+time_remaining: 20 hours 40.7700231679496 min
+epoch 789
+Total loss: 7.7971e+04
+exec time: 1.7028862158457438 min
+time_remaining: 20 hours 38.986973720512424 min
+epoch 790
+Total loss: 7.1576e+04
+exec time: 1.7046330451965332 min
+time_remaining: 20 hours 37.20569270350916 min
+epoch 791
+Total loss: 6.8548e+04
+exec time: 1.7035876989364624 min
+time_remaining: 20 hours 35.42367076578762 min
+epoch 792
+Total loss: 7.1553e+04
+exec time: 1.7049726923306783 min
+time_remaining: 20 hours 33.64308143690323 min
+epoch 793
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 6.9115e+04
+exec time: 1.7046874523162843 min
+time_remaining: 20 hours 31.86242895162377 min
+epoch 794
+Total loss: 6.7396e+04
+exec time: 1.704468047618866 min
+time_remaining: 20 hours 30.081773006915682 min
+epoch 795
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 7.2176e+04
+exec time: 1.7028433402379355 min
+time_remaining: 20 hours 28.29987156195466 min
+epoch 796
+Total loss: 6.8518e+04
+exec time: 1.6981743415196737 min
+time_remaining: 20 hours 26.514050179866672 min
+epoch 797
+Total loss: 6.5673e+04
+exec time: 1.695157519976298 min
+time_remaining: 20 hours 24.725794568904348 min
+epoch 798
+Total loss: 7.2315e+04
+exec time: 1.6988819440205891 min
+time_remaining: 20 hours 22.941039605547076 min
+epoch 799
+Total loss: 6.7656e+04
+exec time: 1.7007665514945984 min
+time_remaining: 20 hours 21.15814835627816 min
+epoch 800
+Total loss: 6.7692e+04
+exec time: 1.6960615158081054 min
+time_remaining: 20 hours 19.371356269869466 min
+epoch 801
+Total loss: 6.8482e+04
+exec time: 1.701607088247935 min
+time_remaining: 20 hours 17.58961689007424 min
+epoch 802
+Total loss: 6.8087e+04
+exec time: 1.6943963885307312 min
+time_remaining: 20 hours 15.80181824113879 min
+epoch 803
+Total loss: 6.6806e+04
+exec time: 1.6978142579396567 min
+time_remaining: 20 hours 14.017210688757132 min
+epoch 804
+Total loss: 6.8483e+04
+exec time: 1.6965971310933432 min
+time_remaining: 20 hours 12.23176796051257 min
+epoch 805
+Total loss: 7.2991e+04
+exec time: 1.699492343266805 min
+time_remaining: 20 hours 10.449038592619445 min
+epoch 806
+Total loss: 7.0507e+04
+exec time: 1.697502851486206 min
+time_remaining: 20 hours 8.664807063939634 min
+epoch 807
+Total loss: 7.2581e+04
+exec time: 1.7029237190882365 min
+time_remaining: 20 hours 6.8854328344361875 min
+epoch 808
+Total loss: 6.8551e+04
+exec time: 1.702909803390503 min
+time_remaining: 20 hours 5.106235718992366 min
+epoch 809
+Total loss: 6.7595e+04
+exec time: 1.6992572625478108 min
+time_remaining: 20 hours 3.324115543600783 min
+epoch 810
+Total loss: 6.8449e+04
+exec time: 1.6980612476666768 min
+time_remaining: 20 hours 1.5411836192236024 min
+epoch 811
+Total loss: 6.6673e+04
+exec time: 1.7042726834615072 min
+time_remaining: 19 hours 59.763723627334684 min
+epoch 812
+Total loss: 6.8674e+04
+exec time: 1.699668331940969 min
+time_remaining: 19 hours 57.98255291603846 min
+epoch 813
+Total loss: 6.6823e+04
+exec time: 1.7024610718091329 min
+time_remaining: 19 hours 56.20393604295964 min
+epoch 814
+Total loss: 6.9818e+04
+exec time: 1.693347982565562 min
+time_remaining: 19 hours 54.41784658763527 min
+epoch 815
+Total loss: 6.8255e+04
+exec time: 1.694903564453125 min
+time_remaining: 19 hours 52.633288383484114 min
+epoch 816
+Total loss: 6.5266e+04
+exec time: 1.6977702816327414 min
+time_remaining: 19 hours 50.8513461855905 min
+epoch 817
+Total loss: 6.8481e+04
+exec time: 1.7109512686729431 min
+time_remaining: 19 hours 49.08059931409571 min
+epoch 818
+Total loss: 6.9708e+04
+exec time: 1.7156904458999633 min
+time_remaining: 19 hours 47.313939098153014 min
+epoch 819
+Total loss: 6.4378e+04
+exec time: 1.7139323155085247 min
+time_remaining: 19 hours 45.54594523693504 min
+epoch 820
+Total loss: 6.8029e+04
+exec time: 1.7100050926208497 min
+time_remaining: 19 hours 43.77483510135676 min
+epoch 821
+Total loss: 7.1447e+04
+exec time: 1.7138615369796752 min
+time_remaining: 19 hours 42.007054502714254 min
+epoch 822
+Total loss: 6.6520e+04
+exec time: 1.7141804575920105 min
+time_remaining: 19 hours 40.239667278772004 min
+epoch 823
+Total loss: 6.6967e+04
+exec time: 1.7126510938008626 min
+time_remaining: 19 hours 38.47115452522985 min
+epoch 824
+Total loss: 6.8595e+04
+exec time: 1.7156751473744711 min
+time_remaining: 19 hours 36.705251419543856 min
+epoch 825
+Total loss: 6.6387e+04
+exec time: 1.7104814012845357 min
+time_remaining: 19 hours 34.93523193498686 min
+epoch 826
+Total loss: 6.7572e+04
+exec time: 1.7153284390767416 min
+time_remaining: 19 hours 33.16930088162758 min
+epoch 827
+Total loss: 6.7620e+04
+exec time: 1.7096551060676575 min
+time_remaining: 19 hours 31.398887612623867 min
+epoch 828
+Total loss: 6.3856e+04
+exec time: 1.696336603164673 min
+time_remaining: 19 hours 29.617840810300322 min
+epoch 829
+Total loss: 6.5397e+04
+exec time: 1.7070584893226624 min
+time_remaining: 19 hours 27.845653145476035 min
+epoch 830
+Total loss: 6.6943e+04
+exec time: 1.7102229952812196 min
+time_remaining: 19 hours 26.07616982822924 min
+epoch 831
+Total loss: 6.4747e+04
+exec time: 1.7082078218460084 min
+time_remaining: 19 hours 24.305211011931306 min
+epoch 832
+Total loss: 6.6703e+04
+exec time: 1.7023909449577332 min
+time_remaining: 19 hours 22.52974516694735 min
+epoch 833
+Total loss: 6.9559e+04
+exec time: 1.7036800503730773 min
+time_remaining: 19 hours 20.75548399103627 min
+epoch 834
+Total loss: 6.2938e+04
+exec time: 1.6954155802726745 min
+time_remaining: 19 hours 18.97480998833953 min
+epoch 835
+Total loss: 6.9243e+04
+exec time: 1.6983273426691692 min
+time_remaining: 19 hours 17.19665264482478 min
+epoch 836
+Total loss: 6.7286e+04
+exec time: 1.6986838738123575 min
+time_remaining: 19 hours 15.418968467558443 min
+epoch 837
+Total loss: 6.6212e+04
+exec time: 1.6965721209843954 min
+time_remaining: 19 hours 13.63980460083485 min
+epoch 838
+Total loss: 6.4426e+04
+exec time: 1.6921063939730325 min
+time_remaining: 19 hours 11.857319325215485 min
+epoch 839
+Total loss: 6.3957e+04
+exec time: 1.7136051098505656 min
+time_remaining: 19 hours 10.091941085599956 min
+epoch 840
+Total loss: 6.7452e+04
+exec time: 1.7085481405258178 min
+time_remaining: 19 hours 8.322723373301642 min
+epoch 841
+Total loss: 6.8035e+04
+exec time: 1.705612063407898 min
+time_remaining: 19 hours 6.551355305184416 min
+epoch 842
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 6.2153e+04
+exec time: 1.7126641074816387 min
+time_remaining: 19 hours 4.785639318876747 min
+epoch 843
+Total loss: 7.3213e+04
+exec time: 1.7064495444297791 min
+time_remaining: 19 hours 3.0152187714265892 min
+epoch 844
+Total loss: 6.5063e+04
+exec time: 1.7070780237515768 min
+time_remaining: 19 hours 1.2454367990792434 min
+epoch 845
+Total loss: 7.2389e+04
+exec time: 1.70318394502004 min
+time_remaining: 18 hours 59.47279274683456 min
+epoch 846
+Total loss: 6.8169e+04
+exec time: 1.7059361020723978 min
+time_remaining: 18 hours 57.70243450187422 min
+epoch 847
+Total loss: 6.1819e+04
+exec time: 1.7040740609169007 min
+time_remaining: 18 hours 55.93079653221116 min
+epoch 848
+Total loss: 6.7874e+04
+exec time: 1.7141800006230672 min
+time_remaining: 18 hours 54.16706680114203 min
+epoch 849
+Total loss: 6.3576e+04
+exec time: 1.7048998514811198 min
+time_remaining: 18 hours 52.39635707303614 min
+epoch 850
+Total loss: 6.4627e+04
+exec time: 1.7022262334823608 min
+time_remaining: 18 hours 50.6237630225703 min
+epoch 851
+Total loss: 6.8786e+04
+exec time: 1.7077937126159668 min
+time_remaining: 18 hours 48.85556857552342 min
+epoch 852
+Total loss: 6.0342e+04
+exec time: 1.7059052268664041 min
+time_remaining: 18 hours 47.08608333268353 min
+epoch 853
+Total loss: 6.8941e+04
+exec time: 1.6995823899904887 min
+time_remaining: 18 hours 45.31196414067517 min
+epoch 854
+Total loss: 6.1638e+04
+exec time: 1.7064712961514792 min
+time_remaining: 18 hours 43.543216197881065 min
+epoch 855
+Total loss: 6.4307e+04
+exec time: 1.7044422427813213 min
+time_remaining: 18 hours 41.77308723046394 min
+epoch 856
+Total loss: 6.4368e+04
+exec time: 1.7005560239156088 min
+time_remaining: 18 hours 40.0001957598015 min
+epoch 857
+Total loss: 6.0810e+04
+exec time: 1.7069857080777486 min
+time_remaining: 18 hours 38.23228392564897 min
+epoch 858
+Total loss: 6.6940e+04
+exec time: 1.7061753431955973 min
+time_remaining: 18 hours 36.46390923743661 min
+epoch 859
+Total loss: 6.2583e+04
+exec time: 1.7034910678863526 min
+time_remaining: 18 hours 34.693681598633475 min
+epoch 860
+Total loss: 6.7272e+04
+exec time: 1.703581957022349 min
+time_remaining: 18 hours 32.92367643520788 min
+epoch 861
+Total loss: 5.9575e+04
+exec time: 1.698040493329366 min
+time_remaining: 18 hours 31.149723931384415 min
+epoch 862
+Total loss: 7.5254e+04
+exec time: 1.7236142834027608 min
+time_remaining: 18 hours 29.394823951659646 min
+epoch 863
+Total loss: 6.0655e+04
+exec time: 1.7483256578445434 min
+time_remaining: 18 hours 27.65818670982617 min
+epoch 864
+Total loss: 6.1430e+04
+exec time: 1.7671956539154052 min
+time_remaining: 18 hours 25.93537498322098 min
+epoch 865
+Total loss: 6.8337e+04
+exec time: 1.7496576070785523 min
+time_remaining: 18 hours 24.199621120877737 min
+epoch 866
+Total loss: 6.1750e+04
+exec time: 1.7535297274589539 min
+time_remaining: 18 hours 22.466662235133526 min
+epoch 867
+Total loss: 6.1810e+04
+exec time: 1.7341450214385987 min
+time_remaining: 18 hours 20.719541741222884 min
+epoch 868
+Total loss: 6.1303e+04
+exec time: 1.7378320654233297 min
+time_remaining: 18 hours 18.97512835398652 min
+epoch 869
+Total loss: 5.8677e+04
+exec time: 1.7494703531265259 min
+time_remaining: 18 hours 17.239157821803246 min
+epoch 870
+Total loss: 6.1376e+04
+exec time: 1.755453884601593 min
+time_remaining: 18 hours 15.507477348926614 min
+epoch 871
+Total loss: 5.9565e+04
+exec time: 1.7844903866449993 min
+time_remaining: 18 hours 13.79665395914617 min
+epoch 872
+Total loss: 6.7354e+04
+exec time: 1.7459755738576253 min
+time_remaining: 18 hours 12.057999960417646 min
+epoch 873
+Total loss: 5.9329e+04
+exec time: 1.7540566802024842 min
+time_remaining: 18 hours 10.325117276816854 min
+epoch 874
+Total loss: 7.0047e+04
+exec time: 1.752962871392568 min
+time_remaining: 18 hours 8.591404903502962 min
+epoch 875
+Total loss: 5.9569e+04
+exec time: 1.7661619782447815 min
+time_remaining: 18 hours 6.867050682790477 min
+epoch 876
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 6.0463e+04
+exec time: 1.7858259638150533 min
+time_remaining: 18 hours 5.156569948390597 min
+epoch 877
+Total loss: 6.1457e+04
+exec time: 1.7776291290918986 min
+time_remaining: 18 hours 3.4401107155199497 min
+epoch 878
+Total loss: 6.0371e+04
+exec time: 1.7681315143903096 min
+time_remaining: 18 hours 1.7168023830793118 min
+epoch 879
+Total loss: 6.0996e+04
+exec time: 1.74259463151296 min
+time_remaining: 17 hours 59.97540028501612 min
+epoch 880
+Total loss: 5.7372e+04
+exec time: 1.7352726618448893 min
+time_remaining: 17 hours 58.228850985714416 min
+epoch 881
+Total loss: 6.3892e+04
+exec time: 1.7271066546440124 min
+time_remaining: 17 hours 56.47660549687134 min
+epoch 882
+Total loss: 5.8375e+04
+exec time: 1.7263668735822042 min
+time_remaining: 17 hours 54.72390002247175 min
+epoch 883
+Total loss: 6.0141e+04
+exec time: 1.7411888559659323 min
+time_remaining: 17 hours 52.98158257787918 min
+epoch 884
+Total loss: 5.7806e+04
+exec time: 1.8327472805976868 min
+time_remaining: 17 hours 51.302893029700954 min
+epoch 885
+Total loss: 6.2552e+04
+exec time: 1.7971634229024251 min
+time_remaining: 17 hours 49.59919602769605 min
+epoch 886
+Total loss: 6.1935e+04
+exec time: 1.8011626958847047 min
+time_remaining: 17 hours 47.89805215026445 min
+epoch 887
+Total loss: 6.1467e+04
+exec time: 1.752917969226837 min
+time_remaining: 17 hours 46.16343326117567 min
+epoch 888
+Total loss: 5.9628e+04
+exec time: 1.769753090540568 min
+time_remaining: 17 hours 44.4403437994913 min
+epoch 889
+Total loss: 6.0490e+04
+exec time: 1.7791898926099141 min
+time_remaining: 17 hours 42.72361739623875 min
+epoch 890
+Total loss: 5.9485e+04
+exec time: 1.778663976987203 min
+time_remaining: 17 hours 41.00639131892035 min
+epoch 891
+Total loss: 5.6167e+04
+exec time: 1.7997912049293519 min
+time_remaining: 17 hours 39.3034281102 min
+epoch 892
+Total loss: 6.0203e+04
+exec time: 1.8167592644691468 min
+time_remaining: 17 hours 37.61178176166777 min
+epoch 893
+Total loss: 5.6748e+04
+exec time: 1.7790672699610393 min
+time_remaining: 17 hours 35.89430591145333 min
+epoch 894
+Total loss: 6.0322e+04
+exec time: 1.7863405466079711 min
+time_remaining: 17 hours 34.18160899926397 min
+epoch 895
+Total loss: 5.6075e+04
+exec time: 1.8137896060943604 min
+time_remaining: 17 hours 32.487251311026284 min
+epoch 896
+Total loss: 5.9247e+04
+exec time: 1.8171515186627707 min
+time_remaining: 17 hours 30.794887345690313 min
+epoch 897
+Total loss: 5.2485e+04
+exec time: 1.7704395254453023 min
+time_remaining: 17 hours 29.070930735562115 min
+epoch 898
+Total loss: 5.5052e+04
+exec time: 1.789207390944163 min
+time_remaining: 17 hours 27.35941741946499 min
+epoch 899
+Total loss: 5.8446e+04
+exec time: 1.771380356947581 min
+time_remaining: 17 hours 25.63584676053756 min
+epoch 900
+Total loss: 5.4791e+04
+exec time: 1.7528048515319825 min
+time_remaining: 17 hours 23.89982066638254 min
+epoch 901
+Total loss: 5.9550e+04
+exec time: 1.7741518894831338 min
+time_remaining: 17 hours 22.177909839611175 min
+epoch 902
+Total loss: 5.6018e+04
+exec time: 1.7751911997795105 min
+time_remaining: 17 hours 20.456570426041708 min
+epoch 903
+Total loss: 6.1312e+04
+exec time: 1.803378176689148 min
+time_remaining: 17 hours 18.75369532073114 min
+epoch 904
+Total loss: 5.5599e+04
+exec time: 1.7880048513412476 min
+time_remaining: 17 hours 17.040490784785334 min
+epoch 905
+Total loss: 6.2143e+04
+exec time: 1.7803616921106975 min
+time_remaining: 17 hours 15.32211004882447 min
+epoch 906
+Total loss: 5.5408e+04
+exec time: 1.7622195959091187 min
+time_remaining: 17 hours 13.591731269908678 min
+epoch 907
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 5.7916e+04
+exec time: 1.7937355279922484 min
+time_remaining: 17 hours 11.8818301894064 min
+epoch 908
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 5.6088e+04
+exec time: 1.7699294606844584 min
+time_remaining: 17 hours 10.15626678253011 min
+epoch 909
+Total loss: 5.7064e+04
+exec time: 1.8101457238197327 min
+time_remaining: 17 hours 8.456680148337227 min
+epoch 910
+Total loss: 5.7831e+04
+exec time: 1.7860397497812908 min
+time_remaining: 17 hours 6.741265262895922 min
+epoch 911
+Total loss: 5.7116e+04
+exec time: 1.788813845316569 min
+time_remaining: 17 hours 5.0274840599606705 min
+epoch 912
+Total loss: 5.4612e+04
+exec time: 1.7750109553337097 min
+time_remaining: 17 hours 3.304664125695581 min
+epoch 913
+Total loss: 5.5816e+04
+exec time: 1.7829893151919047 min
+time_remaining: 17 hours 1.5868452164133942 min
+epoch 914
+Total loss: 5.6134e+04
+exec time: 1.7822251756985983 min
+time_remaining: 16 hours 59.86839530995621 min
+epoch 915
+Total loss: 5.5196e+04
+exec time: 1.7449516932169595 min
+time_remaining: 16 hours 58.12604227652491 min
+epoch 916
+Total loss: 5.6611e+04
+exec time: 1.7431145429611206 min
+time_remaining: 16 hours 56.38251557251738 min
+epoch 917
+Total loss: 5.4169e+04
+exec time: 1.751956284046173 min
+time_remaining: 16 hours 54.644595314733806 min
+epoch 918
+Total loss: 5.6101e+04
+exec time: 1.8226357460021974 min
+time_remaining: 16 hours 52.95132869715076 min
+epoch 919
+Total loss: 5.6613e+04
+exec time: 1.800864326953888 min
+time_remaining: 16 hours 51.244055382496754 min
+epoch 920
+Total loss: 5.9212e+04
+exec time: 1.8001259525616964 min
+time_remaining: 16 hours 49.53611464026653 min
+epoch 921
+Total loss: 5.2627e+04
+exec time: 1.7959904313087462 min
+time_remaining: 16 hours 47.825381379918326 min
+epoch 922
+Total loss: 5.4097e+04
+exec time: 1.776467259724935 min
+time_remaining: 16 hours 46.10225875408196 min
+epoch 923
+Total loss: 5.4039e+04
+exec time: 1.8037209431330363 min
+time_remaining: 16 hours 44.39600997280718 min
+epoch 924
+Total loss: 5.4460e+04
+exec time: 1.7697625160217285 min
+time_remaining: 16 hours 42.668441148383636 min
+epoch 925
+Total loss: 5.7781e+04
+exec time: 1.7769582231839498 min
+time_remaining: 16 hours 40.945241598828716 min
+epoch 926
+Total loss: 5.4528e+04
+exec time: 1.7738617777824401 min
+time_remaining: 16 hours 39.22001208102938 min
+epoch 927
+Total loss: 5.6736e+04
+exec time: 1.7525864879290263 min
+time_remaining: 16 hours 37.48156410383763 min
+epoch 928
+Total loss: 5.3793e+04
+exec time: 1.7318197210629782 min
+time_remaining: 16 hours 35.7303216154487 min
+epoch 929
+Total loss: 5.4623e+04
+exec time: 1.7548445542653401 min
+time_remaining: 16 hours 33.993232890995614 min
+epoch 930
+Total loss: 5.2066e+04
+exec time: 1.7827714800834655 min
+time_remaining: 16 hours 32.27317414412664 min
+epoch 931
+Total loss: 5.4842e+04
+exec time: 1.7599228739738464 min
+time_remaining: 16 hours 30.539055918998883 min
+epoch 932
+Total loss: 5.3160e+04
+exec time: 1.7207425793011983 min
+time_remaining: 16 hours 28.781071845664655 min
+epoch 933
+Total loss: 5.6322e+04
+exec time: 1.7372135758399962 min
+time_remaining: 16 hours 27.03314887193369 min
+epoch 934
+Total loss: 5.5202e+04
+exec time: 1.7270364085833232 min
+time_remaining: 16 hours 25.279098966967013 min
+epoch 935
+Total loss: 5.6628e+04
+exec time: 1.7173123637835184 min
+time_remaining: 16 hours 23.519247422819262 min
+epoch 936
+Total loss: 5.2192e+04
+exec time: 1.7259222428003946 min
+time_remaining: 16 hours 21.764659955776324 min
+epoch 937
+Total loss: 5.5169e+04
+exec time: 1.730645509560903 min
+time_remaining: 16 hours 20.01296354029796 min
+epoch 938
+Total loss: 5.3924e+04
+exec time: 1.7193273226420085 min
+time_remaining: 16 hours 18.25454997780207 min
+epoch 939
+Total loss: 5.4020e+04
+exec time: 1.7158896923065186 min
+time_remaining: 16 hours 16.494171627531614 min
+epoch 940
+Total loss: 5.8066e+04
+exec time: 1.7331167380015056 min
+time_remaining: 16 hours 14.744121540660899 min
+epoch 941
+Total loss: 5.1813e+04
+exec time: 1.7329786658287047 min
+time_remaining: 16 hours 12.994025617723537 min
+epoch 942
+Total loss: 5.5757e+04
+exec time: 1.7241219838460287 min
+time_remaining: 16 hours 11.238734639272252 min
+epoch 943
+Total loss: 5.3792e+04
+exec time: 1.7290039221445719 min
+time_remaining: 16 hours 9.486385075739236 min
+epoch 944
+Total loss: 5.3617e+04
+exec time: 1.726945205529531 min
+time_remaining: 16 hours 7.732875833435401 min
+epoch 945
+Total loss: 5.3070e+04
+exec time: 1.7395536780357361 min
+time_remaining: 16 hours 5.986806571936995 min
+epoch 946
+Total loss: 5.5822e+04
+exec time: 1.7221825440724692 min
+time_remaining: 16 hours 4.230607209156005 min
+epoch 947
+Total loss: 5.3935e+04
+exec time: 1.7377008279164632 min
+time_remaining: 16 hours 2.4835155745597604 min
+epoch 948
+Total loss: 5.2837e+04
+exec time: 1.7335843642552693 min
+time_remaining: 16 hours 0.7340536661345141 min
+epoch 949
+Total loss: 5.1961e+04
+exec time: 1.7485045750935873 min
+time_remaining: 15 hours 58.99326320091859 min
+epoch 950
+Total loss: 5.3113e+04
+exec time: 1.719291615486145 min
+time_remaining: 15 hours 57.235592248800685 min
+epoch 951
+Total loss: 5.1721e+04
+exec time: 1.7131046692530314 min
+time_remaining: 15 hours 55.47444053212098 min
+epoch 952
+Total loss: 5.2234e+04
+exec time: 1.7091654340426128 min
+time_remaining: 15 hours 53.71112861862639 min
+epoch 953
+Total loss: 5.1509e+04
+exec time: 1.7128801306088766 min
+time_remaining: 15 hours 51.95005624106807 min
+epoch 954
+Total loss: 5.3007e+04
+exec time: 1.7228088219960531 min
+time_remaining: 15 hours 50.19475090152105 min
+epoch 955
+Total loss: 5.0644e+04
+exec time: 1.7251033147176107 min
+time_remaining: 15 hours 48.44081919908217 min
+epoch 956
+Total loss: 5.4320e+04
+exec time: 1.723705271879832 min
+time_remaining: 15 hours 46.68615449718027 min
+epoch 957
+Total loss: 5.1204e+04
+exec time: 1.7415474692980448 min
+time_remaining: 15 hours 44.941648866114974 min
+epoch 958
+Total loss: 5.3087e+04
+exec time: 1.7310742219289144 min
+time_remaining: 15 hours 43.191241138591295 min
+epoch 959
+Total loss: 5.1027e+04
+exec time: 1.7261929670969645 min
+time_remaining: 15 hours 41.43812798336148 min
+epoch 960
+Total loss: 5.0683e+04
+exec time: 1.7253662824630738 min
+time_remaining: 15 hours 39.68460718750589 min
+epoch 961
+Total loss: 5.0636e+04
+exec time: 1.7308358510335287 min
+time_remaining: 15 hours 37.93420378969381 min
+epoch 962
+Total loss: 5.5032e+04
+exec time: 1.7246601978937786 min
+time_remaining: 15 hours 36.18039728633312 min
+epoch 963
+Total loss: 4.9118e+04
+exec time: 1.7251198252042135 min
+time_remaining: 15 hours 34.42690681290014 min
+epoch 964
+Total loss: 4.9985e+04
+exec time: 1.7189475337664286 min
+time_remaining: 15 hours 32.67005319477994 min
+epoch 965
+Total loss: 5.0905e+04
+exec time: 1.7257565975189209 min
+time_remaining: 15 hours 30.917042073774383 min
+epoch 966
+Total loss: 5.6781e+04
+exec time: 1.711374282836914 min
+time_remaining: 15 hours 29.156159944828005 min
+epoch 967
+Total loss: 5.2818e+04
+exec time: 1.7235713044802348 min
+time_remaining: 15 hours 27.40208342663186 min
+epoch 968
+Total loss: 5.3178e+04
+exec time: 1.7158718744913737 min
+time_remaining: 15 hours 25.643850678408626 min
+epoch 969
+Total loss: 4.8927e+04
+exec time: 1.7162733197212219 min
+time_remaining: 15 hours 23.88592461855569 min
+epoch 970
+Total loss: 5.1524e+04
+exec time: 1.714549688498179 min
+time_remaining: 15 hours 22.127145319323972 min
+epoch 971
+Total loss: 5.2570e+04
+exec time: 1.7210028608640036 min
+time_remaining: 15 hours 20.37196245448581 min
+epoch 972
+Total loss: 4.9283e+04
+exec time: 1.7329981843630473 min
+time_remaining: 15 hours 18.623346799814044 min
+epoch 973
+Total loss: 5.4017e+04
+exec time: 1.7349408626556397 min
+time_remaining: 15 hours 16.875812339929325 min
+epoch 974
+Total loss: 4.9784e+04
+exec time: 1.7310680429140726 min
+time_remaining: 15 hours 15.126218348588736 min
+epoch 975
+Total loss: 5.4559e+04
+exec time: 1.7278255820274353 min
+time_remaining: 15 hours 13.37492149084619 min
+epoch 976
+Total loss: 5.0803e+04
+exec time: 1.7280245820681255 min
+time_remaining: 15 hours 11.623779207897087 min
+epoch 977
+Total loss: 5.1974e+04
+exec time: 1.7269210418065388 min
+time_remaining: 15 hours 9.872095194257781 min
+epoch 978
+Total loss: 4.9387e+04
+exec time: 1.7262320121129353 min
+time_remaining: 15 hours 8.120095084064133 min
+epoch 979
+Total loss: 5.0200e+04
+exec time: 1.732895600795746 min
+time_remaining: 15 hours 6.371683343575569 min
+epoch 980
+Total loss: 5.0037e+04
+exec time: 1.7209680517514547 min
+time_remaining: 15 hours 4.616992942868592 min
+epoch 981
+Total loss: 4.8124e+04
+exec time: 1.7216033021608987 min
+time_remaining: 15 hours 2.862706314473371 min
+epoch 982
+Total loss: 5.2949e+04
+exec time: 1.7203427275021872 min
+time_remaining: 15 hours 1.1078231952881197 min
+epoch 983
+Total loss: 7.6227e+04
+exec time: 1.7288452665011087 min
+time_remaining: 14 hours 59.35746892865086 min
+epoch 984
+Total loss: 7.0413e+04
+exec time: 1.7092342734336854 min
+time_remaining: 14 hours 57.596904871729976 min
+epoch 985
+Total loss: 8.3021e+04
+exec time: 1.7282622456550598 min
+time_remaining: 14 hours 55.84636417919887 min
+epoch 986
+Total loss: 8.4784e+04
+exec time: 1.7417250196139018 min
+time_remaining: 14 hours 54.10286599926667 min
+epoch 987
+Total loss: 1.0312e+05
+exec time: 1.7208454807599385 min
+time_remaining: 14 hours 52.34855124284354 min
+epoch 988
+Total loss: 9.2671e+04
+exec time: 1.7135493556658428 min
+time_remaining: 14 hours 50.59053438189903 min
+epoch 989
+Total loss: 1.0336e+05
+exec time: 1.7278995076815287 min
+time_remaining: 14 hours 48.83999985685227 min
+epoch 990
+Total loss: 8.8496e+04
+exec time: 1.730871311823527 min
+time_remaining: 14 hours 47.091037398750814 min
+epoch 991
+Total loss: 7.7005e+04
+exec time: 1.735693903764089 min
+time_remaining: 14 hours 45.34458104851092 min
+epoch 992
+Total loss: 5.4443e+04
+exec time: 1.7501239776611328 min
+time_remaining: 14 hours 43.60551399571159 min
+epoch 993
+Total loss: 5.2337e+04
+exec time: 1.7225943366686503 min
+time_remaining: 14 hours 41.852410612739504 min
+epoch 994
+Total loss: 6.6012e+04
+exec time: 1.7232878764470418 min
+time_remaining: 14 hours 40.099720552059125 min
+epoch 995
+Total loss: 5.1406e+04
+exec time: 1.7250420133272806 min
+time_remaining: 14 hours 38.34797716743947 min
+epoch 996
+Total loss: 5.1200e+04
+exec time: 1.7241983930269877 min
+time_remaining: 14 hours 36.59586172838817 min
+epoch 997
+Total loss: 5.6146e+04
+exec time: 1.720460025469462 min
+time_remaining: 14 hours 34.841921813963836 min
+epoch 998
+Total loss: 4.9244e+04
+exec time: 1.7267834862073264 min
+time_remaining: 14 hours 33.091220151399284 min
+epoch 999
+Total loss: 4.9605e+04
+exec time: 1.7333795428276062 min
+time_remaining: 14 hours 31.343864353497338 min
+epoch 1000
+Total loss: 4.4705e+04
+exec time: 1.7299825549125671 min
+time_remaining: 14 hours 29.594843076615234 min
+epoch 1001
+Total loss: 4.8021e+04
+exec time: 1.7278191804885865 min
+time_remaining: 14 hours 27.844784591130974 min
+epoch 1002
+Total loss: 4.4208e+04
+exec time: 1.7178245067596436 min
+time_remaining: 14 hours 26.089817955862827 min
+epoch 1003
+Total loss: 4.8378e+04
+exec time: 1.7143086791038513 min
+time_remaining: 14 hours 24.333188405992814 min
+epoch 1004
+Total loss: 4.3888e+04
+exec time: 1.7213101863861084 min
+time_remaining: 14 hours 22.580091580347926 min
+epoch 1005
+Total loss: 4.2519e+04
+exec time: 1.714863379796346 min
+time_remaining: 14 hours 20.82389222072993 min
+epoch 1006
+Total loss: 4.6949e+04
+exec time: 1.7282174348831176 min
+time_remaining: 14 hours 19.074312743055998 min
+epoch 1007
+Total loss: 4.8727e+04
+exec time: 1.714915410677592 min
+time_remaining: 14 hours 17.318282995715663 min
+epoch 1008
+Total loss: 6.7948e+04
+exec time: 1.7304360151290894 min
+time_remaining: 14 hours 15.56988738659038 min
+epoch 1009
+Total loss: 6.1219e+04
+exec time: 1.721820306777954 min
+time_remaining: 14 hours 13.817347442906566 min
+epoch 1010
+Total loss: 6.5032e+04
+exec time: 1.7357185045878092 min
+time_remaining: 14 hours 12.071590543735965 min
+epoch 1011
+Total loss: 4.7856e+04
+exec time: 1.7186288356781005 min
+time_remaining: 14 hours 10.317612615278222 min
+epoch 1012
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.5825e+04
+exec time: 1.7167886972427369 min
+time_remaining: 14 hours 8.562819830717672 min
+epoch 1013
+Total loss: 5.5088e+04
+exec time: 1.7151883323987325 min
+time_remaining: 14 hours 6.807334966137432 min
+epoch 1014
+Total loss: 5.0618e+04
+exec time: 1.7135370175043743 min
+time_remaining: 14 hours 5.051140451646461 min
+epoch 1015
+Total loss: 5.2096e+04
+exec time: 1.705244282881419 min
+time_remaining: 14 hours 3.2910794326637642 min
+epoch 1016
+Total loss: 4.6103e+04
+exec time: 1.7223263025283813 min
+time_remaining: 14 hours 1.5392389141350122 min
+epoch 1017
+Total loss: 4.4998e+04
+exec time: 1.7280064463615417 min
+time_remaining: 13 hours 59.790145800085384 min
+epoch 1018
+Total loss: 5.1880e+04
+exec time: 1.727591633796692 min
+time_remaining: 13 hours 58.04089826846143 min
+epoch 1019
+Total loss: 4.4701e+04
+exec time: 1.7253312548001607 min
+time_remaining: 13 hours 56.290629491619256 min
+epoch 1020
+Total loss: 4.4361e+04
+exec time: 1.726857320467631 min
+time_remaining: 13 hours 54.541125514481564 min
+epoch 1021
+Total loss: 4.6250e+04
+exec time: 1.720842190583547 min
+time_remaining: 13 hours 52.78885251702013 min
+epoch 1022
+Total loss: 4.6351e+04
+exec time: 1.7304651657740275 min
+time_remaining: 13 hours 51.04112792696765 min
+epoch 1023
+Total loss: 4.6887e+04
+exec time: 1.7170590043067933 min
+time_remaining: 13 hours 49.28720527635869 min
+epoch 1024
+Total loss: 4.3987e+04
+exec time: 1.7216676553090413 min
+time_remaining: 13 hours 47.535490271133995 min
+epoch 1025
+Total loss: 4.5431e+04
+exec time: 1.7030300060908 min
+time_remaining: 13 hours 45.775223461786936 min
+epoch 1026
+Total loss: 4.4981e+04
+exec time: 1.708738374710083 min
+time_remaining: 13 hours 44.01769718989158 min
+epoch 1027
+Total loss: 4.3858e+04
+exec time: 1.7052104791005454 min
+time_remaining: 13 hours 42.25864602409297 min
+epoch 1028
+Total loss: 4.4914e+04
+exec time: 1.71155127286911 min
+time_remaining: 13 hours 40.50260185075126 min
+epoch 1029
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.4007e+04
+exec time: 1.7043176571528116 min
+time_remaining: 13 hours 38.74334329528688 min
+epoch 1030
+Total loss: 4.5162e+04
+exec time: 1.703292473157247 min
+time_remaining: 13 hours 36.98372496339516 min
+epoch 1031
+Total loss: 4.5562e+04
+exec time: 1.7059736172358195 min
+time_remaining: 13 hours 35.225431657807576 min
+epoch 1032
+Total loss: 4.4719e+04
+exec time: 1.7009458899497987 min
+time_remaining: 13 hours 33.46496670723877 min
+epoch 1033
+Total loss: 4.5991e+04
+exec time: 1.6964896122614543 min
+time_remaining: 13 hours 31.70260853879563 min
+epoch 1034
+Total loss: 4.4739e+04
+exec time: 1.723366951942444 min
+time_remaining: 13 hours 29.952452979110603 min
+epoch 1035
+Total loss: 4.6393e+04
+exec time: 1.729899255434672 min
+time_remaining: 13 hours 28.205274799769086 min
+epoch 1036
+Total loss: 4.4529e+04
+exec time: 1.7169912099838256 min
+time_remaining: 13 hours 26.452366758136122 min
+epoch 1037
+Total loss: 4.4206e+04
+exec time: 1.7131483991940817 min
+time_remaining: 13 hours 24.69781753642451 min
+epoch 1038
+Total loss: 4.5730e+04
+exec time: 1.7310579538345336 min
+time_remaining: 13 hours 22.951294403581414 min
+epoch 1039
+Total loss: 4.2814e+04
+exec time: 1.7320011377334594 min
+time_remaining: 13 hours 21.205218188961453 min
+epoch 1040
+Total loss: 4.3726e+04
+exec time: 1.7322940508524576 min
+time_remaining: 13 hours 19.459298167688985 min
+epoch 1041
+Total loss: 4.2814e+04
+exec time: 1.7221118609110515 min
+time_remaining: 13 hours 17.708928826788906 min
+epoch 1042
+Total loss: 4.2840e+04
+exec time: 1.7314043442408245 min
+time_remaining: 13 hours 15.962685257549083 min
+epoch 1043
+Total loss: 4.2631e+04
+exec time: 1.719774556159973 min
+time_remaining: 13 hours 14.211390438390481 min
+epoch 1044
+Total loss: 4.2962e+04
+exec time: 1.734266424179077 min
+time_remaining: 13 hours 12.466465801504455 min
+epoch 1045
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.2040e+04
+exec time: 1.7230507373809814 min
+time_remaining: 13 hours 10.716693549531556 min
+epoch 1046
+Total loss: 4.2766e+04
+exec time: 1.7246238430341085 min
+time_remaining: 13 hours 8.967652968896118 min
+epoch 1047
+Total loss: 4.2889e+04
+exec time: 1.7213468233744302 min
+time_remaining: 13 hours 7.217245614013109 min
+epoch 1048
+Total loss: 4.3438e+04
+exec time: 1.7228878657023112 min
+time_remaining: 13 hours 5.467556210658131 min
+epoch 1049
+Total loss: 4.1100e+04
+exec time: 1.7351417342821758 min
+time_remaining: 13 hours 3.7231695158141065 min
+epoch 1050
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.2881e+04
+exec time: 1.7399942278862 min
+time_remaining: 13 hours 1.980873458029464 min
+epoch 1051
+Total loss: 4.3562e+04
+exec time: 1.7267628947893778 min
+time_remaining: 13 hours 0.23294714019925777 min
+epoch 1052
+Total loss: 4.2584e+04
+exec time: 1.7363983869552613 min
+time_remaining: 12 hours 58.489151298954766 min
+epoch 1053
+Total loss: 4.2952e+04
+exec time: 1.7355569799741108 min
+time_remaining: 12 hours 56.745013453340334 min
+epoch 1054
+Total loss: 4.2054e+04
+exec time: 1.7216500560442607 min
+time_remaining: 12 hours 54.99502592107501 min
+epoch 1055
+Total loss: 4.1791e+04
+exec time: 1.7299827178319296 min
+time_remaining: 12 hours 53.24859556379647 min
+epoch 1056
+Total loss: 4.1007e+04
+exec time: 1.7231935143470765 min
+time_remaining: 12 hours 51.49935090011786 min
+epoch 1057
+Total loss: 4.2258e+04
+exec time: 1.7289001146952312 min
+time_remaining: 12 hours 49.752539525335806 min
+epoch 1058
+Total loss: 4.4966e+04
+exec time: 1.7334555546442667 min
+time_remaining: 12 hours 48.007659001863885 min
+epoch 1059
+Total loss: 4.1439e+04
+exec time: 1.7334655245145163 min
+time_remaining: 12 hours 46.26280417337375 min
+epoch 1060
+Total loss: 4.0914e+04
+exec time: 1.7262871265411377 min
+time_remaining: 12 hours 44.5150006756071 min
+epoch 1061
+Total loss: 4.2086e+04
+exec time: 1.733438523610433 min
+time_remaining: 12 hours 42.77018714456244 min
+epoch 1062
+Total loss: 3.9289e+04
+exec time: 1.7395972967147828 min
+time_remaining: 12 hours 41.02792689090393 min
+epoch 1063
+Total loss: 4.1268e+04
+exec time: 1.7320764183998107 min
+time_remaining: 12 hours 39.28258977913333 min
+epoch 1064
+Total loss: 4.1347e+04
+exec time: 1.7412545243899027 min
+time_remaining: 12 hours 37.54102637392816 min
+epoch 1065
+Total loss: 4.0925e+04
+exec time: 1.7281266768773398 min
+time_remaining: 12 hours 35.79411881482156 min
+epoch 1066
+Total loss: 4.2731e+04
+exec time: 1.7276362816492716 min
+time_remaining: 12 hours 34.04704745124582 min
+epoch 1067
+Total loss: 4.0580e+04
+exec time: 1.7208146532376607 min
+time_remaining: 12 hours 32.297253172585215 min
+epoch 1068
+Total loss: 4.2535e+04
+exec time: 1.7257785042126974 min
+time_remaining: 12 hours 30.549514440249368 min
+epoch 1069
+Total loss: 4.1043e+04
+exec time: 1.7237584789594014 min
+time_remaining: 12 hours 28.801004969219548 min
+epoch 1070
+Total loss: 4.2009e+04
+exec time: 1.736688001950582 min
+time_remaining: 12 hours 27.057720771156255 min
+epoch 1071
+Total loss: 4.1728e+04
+exec time: 1.7501859704653422 min
+time_remaining: 12 hours 25.319837993724377 min
+epoch 1072
+Total loss: 4.2695e+04
+exec time: 1.7364545265833538 min
+time_remaining: 12 hours 23.576467860352523 min
+epoch 1073
+Total loss: 4.2541e+04
+exec time: 1.7187015851338705 min
+time_remaining: 12 hours 21.826068935691637 min
+epoch 1074
+Total loss: 4.5689e+04
+exec time: 1.7171703497568767 min
+time_remaining: 12 hours 20.07512361069962 min
+epoch 1075
+Total loss: 4.4340e+04
+exec time: 1.7182235598564148 min
+time_remaining: 12 hours 18.324656084065282 min
+epoch 1076
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 4.5993e+04
+exec time: 1.7222671151161193 min
+time_remaining: 12 hours 16.575836572108983 min
+epoch 1077
+Total loss: 4.3073e+04
+exec time: 1.726161770025889 min
+time_remaining: 12 hours 14.828590946206305 min
+epoch 1078
+Total loss: 4.5620e+04
+exec time: 1.720741581916809 min
+time_remaining: 12 hours 13.079269572868725 min
+epoch 1079
+Total loss: 4.3489e+04
+exec time: 1.715110226472219 min
+time_remaining: 12 hours 11.327811153508947 min
+epoch 1080
+Total loss: 4.5843e+04
+exec time: 1.7278368155161539 min
+time_remaining: 12 hours 9.581352861064488 min
+epoch 1081
+Total loss: 4.1417e+04
+exec time: 1.7172499259312948 min
+time_remaining: 12 hours 7.830839044689355 min
+epoch 1082
+Total loss: 4.1225e+04
+exec time: 1.7139112114906312 min
+time_remaining: 12 hours 6.079101113687329 min
+epoch 1083
+Total loss: 3.9418e+04
+exec time: 1.7271090547243755 min
+time_remaining: 12 hours 4.332497828648684 min
+epoch 1084
+Total loss: 4.1780e+04
+exec time: 1.7102598031361897 min
+time_remaining: 12 hours 2.579485833058925 min
+epoch 1085
+Total loss: 4.0142e+04
+exec time: 1.7199052850405374 min
+time_remaining: 12 hours 0.8302295777023119 min
+epoch 1086
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.1098e+04
+exec time: 1.7200978477795918 min
+time_remaining: 11 hours 59.08110048918206 min
+epoch 1087
+Total loss: 3.9465e+04
+exec time: 1.7164769172668457 min
+time_remaining: 11 hours 57.33065360572709 min
+epoch 1088
+Total loss: 3.9444e+04
+exec time: 1.7171623349189757 min
+time_remaining: 11 hours 55.580527793518286 min
+epoch 1089
+Total loss: 3.9648e+04
+exec time: 1.7400822639465332 min
+time_remaining: 11 hours 53.83908372246151 min
+epoch 1090
+Total loss: 3.9310e+04
+exec time: 1.72952751715978 min
+time_remaining: 11 hours 52.09368532709573 min
+epoch 1091
+Total loss: 3.8822e+04
+exec time: 1.7317338109016418 min
+time_remaining: 11 hours 50.34914032880215 min
+epoch 1092
+Total loss: 4.0322e+04
+exec time: 1.73089892466863 min
+time_remaining: 11 hours 48.60430788648114 min
+epoch 1093
+Total loss: 3.7597e+04
+exec time: 1.7223570068677267 min
+time_remaining: 11 hours 46.856330881461645 min
+epoch 1094
+Total loss: 3.8495e+04
+exec time: 1.7185776829719543 min
+time_remaining: 11 hours 45.10700283883375 min
+epoch 1095
+Total loss: 3.7956e+04
+exec time: 1.7225820223490398 min
+time_remaining: 11 hours 43.35920696210724 min
+epoch 1096
+Total loss: 3.8162e+04
+exec time: 1.715248135725657 min
+time_remaining: 11 hours 41.60876283688367 min
+epoch 1097
+Total loss: 3.8576e+04
+exec time: 1.7277920842170715 min
+time_remaining: 11 hours 39.86297541409476 min
+epoch 1098
+Total loss: 4.0683e+04
+exec time: 1.7371673385302226 min
+time_remaining: 11 hours 38.12064155605253 min
+epoch 1099
+Total loss: 4.0897e+04
+exec time: 1.7296253760655722 min
+time_remaining: 11 hours 36.37557455987667 min
+epoch 1100
+Total loss: 4.3188e+04
+exec time: 1.7279203176498412 min
+time_remaining: 11 hours 34.62991770442045 min
+epoch 1101
+Total loss: 4.3666e+04
+exec time: 1.7516253232955932 min
+time_remaining: 11 hours 32.892854374665376 min
+epoch 1102
+Total loss: 4.6154e+04
+exec time: 1.7618468801180522 min
+time_remaining: 11 hours 31.15944365966243 min
+epoch 1103
+Total loss: 4.5276e+04
+exec time: 1.735106114546458 min
+time_remaining: 11 hours 29.416389633520794 min
+epoch 1104
+Total loss: 4.8983e+04
+exec time: 1.7254559636116027 min
+time_remaining: 11 hours 27.66990039127495 min
+epoch 1105
+Total loss: 5.2985e+04
+exec time: 1.72461040019989 min
+time_remaining: 11 hours 25.923147961481163 min
+epoch 1106
+Total loss: 7.5611e+04
+exec time: 1.724347678820292 min
+time_remaining: 11 hours 24.176342265705216 min
+epoch 1107
+Total loss: 1.2306e+05
+exec time: 1.7418592850367227 min
+time_remaining: 11 hours 22.435772549776402 min
+epoch 1108
+Total loss: 2.4991e+06
+exec time: 1.72252223889033 min
+time_remaining: 11 hours 20.68838284811136 min
+epoch 1109
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 5.3872e+05
+exec time: 1.7215320547421773 min
+time_remaining: 11 hours 18.94069005014694 min
+epoch 1110
+Total loss: 2.3501e+05
+exec time: 1.7251411875089009 min
+time_remaining: 11 hours 17.194308029979766 min
+epoch 1111
+Total loss: 4.0701e+05
+exec time: 1.7163141012191772 min
+time_remaining: 11 hours 15.444884258180082 min
+epoch 1112
+Total loss: 5.6211e+05
+exec time: 1.7186057527860006 min
+time_remaining: 11 hours 13.69631681027795 min
+epoch 1113
+Total loss: 2.6529e+05
+exec time: 1.730020566781362 min
+time_remaining: 11 hours 11.951758376372482 min
+epoch 1114
+Total loss: 1.2946e+05
+exec time: 1.7442382176717122 min
+time_remaining: 11 hours 10.212135253073939 min
+epoch 1115
+Total loss: 1.4070e+05
+exec time: 1.7319406032562257 min
+time_remaining: 11 hours 8.468272421779147 min
+epoch 1116
+Total loss: 2.7293e+05
+exec time: 1.7391505757967631 min
+time_remaining: 11 hours 6.726903112363516 min
+epoch 1117
+Total loss: 1.2620e+06
+exec time: 1.728408940633138 min
+time_remaining: 11 hours 4.981867553246957 min
+epoch 1118
+Total loss: 2.9653e+06
+exec time: 1.7239830136299132 min
+time_remaining: 11 hours 3.2353547600364436 min
+epoch 1119
+Total loss: 5.3391e+06
+exec time: 1.7266765236854553 min
+time_remaining: 11 hours 1.48979606805824 min
+epoch 1120
+Total loss: 1.0643e+07
+exec time: 1.7096784353256225 min
+time_remaining: 10 hours 59.73852416363479 min
+epoch 1121
+Total loss: 3.1928e+07
+exec time: 1.7155360261599222 min
+time_remaining: 10 hours 57.98929981382162 min
+epoch 1122
+Total loss: 4.8259e+07
+exec time: 1.7094788630803426 min
+time_remaining: 10 hours 56.23810202337313 min
+epoch 1123
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.5191e+07
+exec time: 1.7148458997408549 min
+time_remaining: 10 hours 54.48877384470347 min
+epoch 1124
+Total loss: 4.4149e+06
+exec time: 1.7184274951616922 min
+time_remaining: 10 hours 52.74070083300285 min
+epoch 1125
+Total loss: 6.8667e+06
+exec time: 1.724808943271637 min
+time_remaining: 10 hours 50.994800070526935 min
+epoch 1126
+Total loss: 3.4777e+06
+exec time: 1.69168674548467 min
+time_remaining: 10 hours 49.237974378027275 min
+epoch 1127
+Total loss: 4.7661e+06
+exec time: 1.7104217608769734 min
+time_remaining: 10 hours 47.487442749020374 min
+epoch 1128
+Total loss: 1.2575e+07
+exec time: 1.7046963214874267 min
+time_remaining: 10 hours 45.73510074067144 min
+epoch 1129
+Total loss: 6.7819e+05
+exec time: 1.7100235184033712 min
+time_remaining: 10 hours 43.98458736438715 min
+epoch 1130
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 3.8921e+06
+exec time: 1.71583833694458 min
+time_remaining: 10 hours 42.23604273059391 min
+epoch 1131
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.7016e+06
+exec time: 1.707113214333852 min
+time_remaining: 10 hours 40.4847194461579 min
+epoch 1132
+Total loss: 1.0337e+06
+exec time: 1.7052546421686807 min
+time_remaining: 10 hours 38.73287217598158 min
+epoch 1133
+Total loss: 3.4378e+06
+exec time: 1.7025809685389202 min
+time_remaining: 10 hours 36.9802441480515 min
+epoch 1134
+Total loss: 1.1126e+06
+exec time: 1.7060865441958109 min
+time_remaining: 10 hours 35.22883165248595 min
+epoch 1135
+Total loss: 2.3860e+05
+exec time: 1.707070283095042 min
+time_remaining: 10 hours 33.47781416824205 min
+epoch 1136
+Total loss: 6.9190e+05
+exec time: 1.7061379233996072 min
+time_remaining: 10 hours 31.72657632149435 min
+epoch 1137
+Total loss: 3.5694e+05
+exec time: 1.7183767278989157 min
+time_remaining: 10 hours 29.97931092384647 min
+epoch 1138
+Total loss: 3.4184e+05
+exec time: 1.7070255359013875 min
+time_remaining: 10 hours 28.22849855256254 min
+epoch 1139
+Total loss: 6.9764e+05
+exec time: 1.7007042686144511 min
+time_remaining: 10 hours 26.475766810618325 min
+epoch 1140
+Total loss: 1.6165e+05
+exec time: 1.718651537100474 min
+time_remaining: 10 hours 24.728773126810438 min
+epoch 1141
+Total loss: 1.6856e+05
+exec time: 1.703703268369039 min
+time_remaining: 10 hours 22.977143019260893 min
+epoch 1142
+Total loss: 2.2250e+05
+exec time: 1.6981892903645834 min
+time_remaining: 10 hours 21.22387455959506 min
+epoch 1143
+Total loss: 1.0459e+05
+exec time: 1.7326417922973634 min
+time_remaining: 10 hours 19.481423625301886 min
+epoch 1144
+Total loss: 1.0289e+05
+exec time: 1.7244656483332317 min
+time_remaining: 10 hours 17.736454863215613 min
+epoch 1145
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.3460e+05
+exec time: 1.7170567353566488 min
+time_remaining: 10 hours 15.989233266080191 min
+epoch 1146
+Total loss: 1.1607e+05
+exec time: 1.7178026994069417 min
+time_remaining: 10 hours 14.242293844213691 min
+epoch 1147
+Total loss: 8.9147e+04
+exec time: 1.7170559604962667 min
+time_remaining: 10 hours 12.495176217946891 min
+epoch 1148
+Total loss: 7.0917e+04
+exec time: 1.7149536689122518 min
+time_remaining: 10 hours 10.747468703938921 min
+epoch 1149
+Total loss: 7.3310e+04
+exec time: 1.7255403518676757 min
+time_remaining: 10 hours 9.003040187082888 min
+epoch 1150
+Total loss: 7.4109e+04
+exec time: 1.7289804498354593 min
+time_remaining: 10 hours 7.259687578585499 min
+epoch 1151
+Total loss: 7.0940e+04
+exec time: 1.7076086719830832 min
+time_remaining: 10 hours 5.509903863859336 min
+epoch 1152
+Total loss: 7.2419e+04
+exec time: 1.7149409572283427 min
+time_remaining: 10 hours 3.7623999870047555 min
+epoch 1153
+Total loss: 7.6428e+04
+exec time: 1.7071005940437316 min
+time_remaining: 10 hours 2.012601794879174 min
+epoch 1154
+Total loss: 7.4715e+04
+exec time: 1.7074949383735656 min
+time_remaining: 10 hours 0.2629953291516358 min
+epoch 1155
+Total loss: 7.3036e+04
+exec time: 1.7225275357564291 min
+time_remaining: 9 hours 58.51793508881701 min
+epoch 1156
+Total loss: 7.1381e+04
+exec time: 1.7294899384180704 min
+time_remaining: 9 hours 56.77497784720549 min
+epoch 1157
+Total loss: 6.8747e+04
+exec time: 1.7220640977223713 min
+time_remaining: 9 hours 55.02985074124854 min
+epoch 1158
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 6.9819e+04
+exec time: 1.7213860909144083 min
+time_remaining: 9 hours 53.28456395081798 min
+epoch 1159
+Total loss: 7.2502e+04
+exec time: 1.7189912796020508 min
+time_remaining: 9 hours 51.538616441036766 min
+epoch 1160
+Total loss: 7.1432e+04
+exec time: 1.7174230972925821 min
+time_remaining: 9 hours 49.792257474457074 min
+epoch 1161
+Total loss: 6.9157e+04
+exec time: 1.718780811627706 min
+time_remaining: 9 hours 48.04634324039398 min
+epoch 1162
+Total loss: 7.1766e+04
+exec time: 1.7242725650469461 min
+time_remaining: 9 hours 46.30206700095391 min
+epoch 1163
+Total loss: 6.9561e+04
+exec time: 1.7144498586654664 min
+time_remaining: 9 hours 44.55498971169004 min
+epoch 1164
+Total loss: 7.0138e+04
+exec time: 1.7053659240404764 min
+time_remaining: 9 hours 42.80535631664202 min
+epoch 1165
+Total loss: 6.8980e+04
+exec time: 1.7076858202616374 min
+time_remaining: 9 hours 41.05646338495626 min
+epoch 1166
+Total loss: 6.7487e+04
+exec time: 1.7111722668011984 min
+time_remaining: 9 hours 39.30863592106812 min
+epoch 1167
+Total loss: 6.6923e+04
+exec time: 1.711418096224467 min
+time_remaining: 9 hours 37.56094109910032 min
+epoch 1168
+Total loss: 6.5218e+04
+exec time: 1.7190611203511557 min
+time_remaining: 9 hours 35.81547244859348 min
+epoch 1169
+Total loss: 6.7662e+04
+exec time: 1.7030411879221599 min
+time_remaining: 9 hours 34.06553049668332 min
+epoch 1170
+Total loss: 6.9468e+04
+exec time: 1.7157869378725688 min
+time_remaining: 9 hours 32.3192496491813 min
+epoch 1171
+Total loss: 6.6320e+04
+exec time: 1.7195587078730266 min
+time_remaining: 9 hours 30.574076419750327 min
+epoch 1172
+Total loss: 6.5040e+04
+exec time: 1.717865558465322 min
+time_remaining: 9 hours 28.828474860555616 min
+epoch 1173
+Total loss: 6.4223e+04
+exec time: 1.71641925573349 min
+time_remaining: 9 hours 27.082518937911573 min
+epoch 1174
+Total loss: 6.6373e+04
+exec time: 1.7262948115666708 min
+time_remaining: 9 hours 25.339344827165405 min
+epoch 1175
+Total loss: 6.5035e+04
+exec time: 1.716661234696706 min
+time_remaining: 9 hours 23.59354527398068 min
+epoch 1176
+Total loss: 6.5695e+04
+exec time: 1.7112067778905233 min
+time_remaining: 9 hours 21.846298386121816 min
+epoch 1177
+Total loss: 6.5334e+04
+exec time: 1.7097864945729573 min
+time_remaining: 9 hours 20.098724460055564 min
+epoch 1178
+Total loss: 7.0188e+04
+exec time: 1.7217186172803243 min
+time_remaining: 9 hours 18.354463329792907 min
+epoch 1179
+Total loss: 6.7266e+04
+exec time: 1.7256860931714375 min
+time_remaining: 9 hours 16.61131633284458 min
+epoch 1180
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 6.7790e+04
+exec time: 1.7265950004259745 min
+time_remaining: 9 hours 14.868444410597021 min
+epoch 1181
+Total loss: 6.4514e+04
+exec time: 1.71110543012619 min
+time_remaining: 9 hours 13.121432784870649 min
+epoch 1182
+Total loss: 6.5011e+04
+exec time: 1.7118477662404379 min
+time_remaining: 9 hours 11.374680781240386 min
+epoch 1183
+Total loss: 6.3474e+04
+exec time: 1.7181405703226724 min
+time_remaining: 9 hours 9.629667235857596 min
+epoch 1184
+Total loss: 6.5744e+04
+exec time: 1.7214209993680318 min
+time_remaining: 9 hours 7.885571058490768 min
+epoch 1185
+Total loss: 6.6161e+04
+exec time: 1.7212287545204163 min
+time_remaining: 9 hours 6.14146222132149 min
+epoch 1186
+Total loss: 6.4492e+04
+exec time: 1.7235911329587301 min
+time_remaining: 9 hours 4.398014870770567 min
+epoch 1187
+Total loss: 6.4009e+04
+exec time: 1.718214988708496 min
+time_remaining: 9 hours 2.653189031524107 min
+epoch 1188
+Total loss: 6.1557e+04
+exec time: 1.7153672536214193 min
+time_remaining: 9 hours 0.9076630880631456 min
+epoch 1189
+Total loss: 6.1268e+04
+exec time: 1.716867208480835 min
+time_remaining: 8 hours 59.16257857601886 min
+epoch 1190
+Total loss: 6.3687e+04
+exec time: 1.7247543692588807 min
+time_remaining: 8 hours 57.419587739278995 min
+epoch 1191
+Total loss: 6.2004e+04
+exec time: 1.7230051398277282 min
+time_remaining: 8 hours 55.67617551853755 min
+epoch 1192
+Total loss: 6.3433e+04
+exec time: 1.729230852921804 min
+time_remaining: 8 hours 53.93439959962507 min
+epoch 1193
+Total loss: 6.3215e+04
+exec time: 1.7218825062115988 min
+time_remaining: 8 hours 52.19076144958899 min
+epoch 1194
+Total loss: 5.9787e+04
+exec time: 1.7124793728192647 min
+time_remaining: 8 hours 50.44475974775605 min
+epoch 1195
+Total loss: 5.9823e+04
+exec time: 1.706934682528178 min
+time_remaining: 8 hours 48.697404750613714 min
+epoch 1196
+Total loss: 6.1550e+04
+exec time: 1.7156993707021078 min
+time_remaining: 8 hours 46.952335919842426 min
+epoch 1197
+Total loss: 6.0869e+04
+exec time: 1.7300856153170268 min
+time_remaining: 8 hours 45.21094270242111 min
+epoch 1198
+Total loss: 6.2220e+04
+exec time: 1.7311472256978353 min
+time_remaining: 8 hours 43.46983485608325 min
+epoch 1199
+Total loss: 6.1773e+04
+exec time: 1.7244723161061606 min
+time_remaining: 8 hours 41.7270748833821 min
+epoch 1200
+Total loss: 6.0554e+04
+exec time: 1.7222147862116495 min
+time_remaining: 8 hours 39.98378333189203 min
+epoch 1201
+Total loss: 6.2107e+04
+exec time: 1.723789890607198 min
+time_remaining: 8 hours 38.24091734998592 min
+epoch 1202
+Total loss: 6.0832e+04
+exec time: 1.7239641308784486 min
+time_remaining: 8 hours 36.498126099205365 min
+epoch 1203
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 5.9435e+04
+exec time: 1.7181581020355225 min
+time_remaining: 8 hours 34.753938726914384 min
+epoch 1204
+Total loss: 6.0387e+04
+exec time: 1.7262176354726155 min
+time_remaining: 8 hours 33.0117676375321 min
+epoch 1205
+Total loss: 6.0120e+04
+exec time: 1.7257702787717184 min
+time_remaining: 8 hours 31.269513947849646 min
+epoch 1206
+Total loss: 5.9524e+04
+exec time: 1.7308859388033548 min
+time_remaining: 8 hours 29.52852940084358 min
+epoch 1207
+Total loss: 6.0840e+04
+exec time: 1.7200616478919983 min
+time_remaining: 8 hours 27.78494510571727 min
+epoch 1208
+Total loss: 5.7225e+04
+exec time: 1.7154063661893209 min
+time_remaining: 8 hours 26.040279221111177 min
+epoch 1209
+Total loss: 5.9460e+04
+exec time: 1.71768270333608 min
+time_remaining: 8 hours 24.29620726775238 min
+epoch 1210
+Total loss: 5.8855e+04
+exec time: 1.7062997063000997 min
+time_remaining: 8 hours 22.5494623931354 min
+epoch 1211
+Total loss: 5.6865e+04
+exec time: 1.7186312874158223 min
+time_remaining: 8 hours 20.80571453642142 min
+epoch 1212
+Total loss: 5.6841e+04
+exec time: 1.7107021967569986 min
+time_remaining: 8 hours 19.06013204171859 min
+epoch 1213
+Total loss: 5.6964e+04
+exec time: 1.7218526562054952 min
+time_remaining: 8 hours 17.31723388968294 min
+epoch 1214
+Total loss: 5.9105e+04
+exec time: 1.704008169968923 min
+time_remaining: 8 hours 15.570184636753766 min
+epoch 1215
+Total loss: 5.9253e+04
+exec time: 1.7131899118423461 min
+time_remaining: 8 hours 13.825350595056534 min
+epoch 1216
+Total loss: 5.8276e+04
+exec time: 1.7145695726076762 min
+time_remaining: 8 hours 12.080889381836187 min
+epoch 1217
+Total loss: 5.6653e+04
+exec time: 1.734114372730255 min
+time_remaining: 8 hours 10.341002402537015 min
+epoch 1218
+Total loss: 5.6600e+04
+exec time: 1.7226688345273335 min
+time_remaining: 8 hours 8.598486505253732 min
+epoch 1219
+Total loss: 5.6131e+04
+exec time: 1.7220782041549683 min
+time_remaining: 8 hours 6.8558675896279055 min
+epoch 1220
+Total loss: 5.5290e+04
+exec time: 1.7241413672765096 min
+time_remaining: 8 hours 5.113753755028483 min
+epoch 1221
+Total loss: 5.6499e+04
+exec time: 1.7217323859532674 min
+time_remaining: 8 hours 3.371121301875064 min
+epoch 1222
+Total loss: 5.6308e+04
+exec time: 1.715952742099762 min
+time_remaining: 8 hours 1.6272139826437524 min
+epoch 1223
+Total loss: 5.6189e+04
+exec time: 1.7274831374486288 min
+time_remaining: 7 hours 59.88595233193428 min
+epoch 1224
+Total loss: 5.5066e+04
+exec time: 1.7298983653386435 min
+time_remaining: 7 hours 58.1452553707727 min
+epoch 1225
+Total loss: 5.7865e+04
+exec time: 1.7245600461959838 min
+time_remaining: 7 hours 56.4033829591599 min
+epoch 1226
+Total loss: 5.4378e+04
+exec time: 1.71856822570165 min
+time_remaining: 7 hours 54.66020562312633 min
+epoch 1227
+Total loss: 5.5757e+04
+exec time: 1.7181651989618938 min
+time_remaining: 7 hours 52.91697909731056 min
+epoch 1228
+Total loss: 5.3963e+04
+exec time: 1.7158779978752137 min
+time_remaining: 7 hours 51.1732890167018 min
+epoch 1229
+Total loss: 5.4044e+04
+exec time: 1.7166375478108724 min
+time_remaining: 7 hours 49.42981088946544 min
+epoch 1230
+Total loss: 5.6028e+04
+exec time: 1.7063942035039266 min
+time_remaining: 7 hours 47.684137978752005 min
+epoch 1231
+Total loss: 5.4879e+04
+exec time: 1.7115996122360229 min
+time_remaining: 7 hours 45.93966117758009 min
+epoch 1232
+Total loss: 5.4769e+04
+exec time: 1.7173776586850484 min
+time_remaining: 7 hours 44.19648891232055 min
+epoch 1233
+Total loss: 5.3594e+04
+exec time: 1.7279621998469035 min
+time_remaining: 7 hours 42.455640048326586 min
+epoch 1234
+Total loss: 5.5634e+04
+exec time: 1.716444436709086 min
+time_remaining: 7 hours 40.712340630564995 min
+epoch 1235
+Total loss: 5.4204e+04
+exec time: 1.731334114074707 min
+time_remaining: 7 hours 38.9722649869027 min
+epoch 1236
+Total loss: 5.2455e+04
+exec time: 1.7201253612836203 min
+time_remaining: 7 hours 37.22982037078691 min
+epoch 1237
+Total loss: 5.1877e+04
+exec time: 1.7110520839691161 min
+time_remaining: 7 hours 35.485491618849665 min
+epoch 1238
+Total loss: 5.4246e+04
+exec time: 1.7093903303146363 min
+time_remaining: 7 hours 33.740866527632534 min
+epoch 1239
+Total loss: 5.3685e+04
+exec time: 1.7095611810684204 min
+time_remaining: 7 hours 31.996334090220444 min
+epoch 1240
+Total loss: 5.2130e+04
+exec time: 1.7110682725906372 min
+time_remaining: 7 hours 30.252172546616748 min
+epoch 1241
+Total loss: 5.1748e+04
+exec time: 1.7248464385668436 min
+time_remaining: 7 hours 28.510926424401532 min
+epoch 1242
+Total loss: 5.2858e+04
+exec time: 1.7198103109995524 min
+time_remaining: 7 hours 26.768665430571218 min
+epoch 1243
+Total loss: 5.0362e+04
+exec time: 1.7131407697995504 min
+time_remaining: 7 hours 25.025068020999697 min
+epoch 1244
+Total loss: 5.2851e+04
+exec time: 1.7228434761365254 min
+time_remaining: 7 hours 23.283506839055008 min
+epoch 1245
+Total loss: 5.1968e+04
+exec time: 1.722111209233602 min
+time_remaining: 7 hours 21.541826427269825 min
+epoch 1246
+Total loss: 5.2384e+04
+exec time: 1.7191351254781086 min
+time_remaining: 7 hours 19.799573593042624 min
+epoch 1247
+Total loss: 5.1709e+04
+exec time: 1.7237767577171326 min
+time_remaining: 7 hours 18.058295059089687 min
+epoch 1248
+Total loss: 5.1239e+04
+exec time: 1.72733260790507 min
+time_remaining: 7 hours 16.3177591367853 min
+epoch 1249
+Total loss: 4.8715e+04
+exec time: 1.7096994678179422 min
+time_remaining: 7 hours 14.573717711766676 min
+epoch 1250
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.7061e+04
+exec time: 1.7073705355326334 min
+time_remaining: 7 hours 12.829267637488101 min
+epoch 1251
+Total loss: 4.4829e+04
+exec time: 1.7176703333854675 min
+time_remaining: 7 hours 11.086917011247806 min
+epoch 1252
+Total loss: 4.4784e+04
+exec time: 1.715616257985433 min
+time_remaining: 7 hours 9.344200865424682 min
+epoch 1253
+Total loss: 4.6135e+04
+exec time: 1.7201203425725302 min
+time_remaining: 7 hours 7.60241151751552 min
+epoch 1254
+Total loss: 4.5276e+04
+exec time: 1.7103254079818726 min
+time_remaining: 7 hours 5.858744543339981 min
+epoch 1255
+Total loss: 4.6606e+04
+exec time: 1.7075271765391031 min
+time_remaining: 7 hours 4.114587055359152 min
+epoch 1256
+Total loss: 4.6375e+04
+exec time: 1.7086519757906595 min
+time_remaining: 7 hours 2.3707052927884433 min
+epoch 1257
+Total loss: 4.4415e+04
+exec time: 1.7063315153121947 min
+time_remaining: 7 hours 0.6264331551287796 min
+epoch 1258
+Total loss: 4.5753e+04
+exec time: 1.7151979486147562 min
+time_remaining: 6 hours 58.883918516810354 min
+epoch 1259
+Total loss: 4.4616e+04
+exec time: 1.712591274579366 min
+time_remaining: 6 hours 57.140950728976804 min
+epoch 1260
+Total loss: 4.5875e+04
+exec time: 1.7054189642270405 min
+time_remaining: 6 hours 55.39667173642647 min
+epoch 1261
+Total loss: 4.5278e+04
+exec time: 1.708525546391805 min
+time_remaining: 6 hours 53.65304019761015 min
+epoch 1262
+Total loss: 4.0943e+04
+exec time: 1.7020920674006144 min
+time_remaining: 6 hours 51.90825701783069 min
+epoch 1263
+Total loss: 4.2122e+04
+exec time: 1.6994313915570578 min
+time_remaining: 6 hours 50.163044615524086 min
+epoch 1264
+Total loss: 4.1140e+04
+exec time: 1.702691654364268 min
+time_remaining: 6 hours 48.418510255732144 min
+epoch 1265
+Total loss: 4.0823e+04
+exec time: 1.7040188868840536 min
+time_remaining: 6 hours 46.67428731601967 min
+epoch 1266
+Total loss: 4.0206e+04
+exec time: 1.732902725537618 min
+time_remaining: 6 hours 44.93543954798224 min
+epoch 1267
+Total loss: 4.0015e+04
+exec time: 1.726959268252055 min
+time_remaining: 6 hours 43.19551371053967 min
+epoch 1268
+Total loss: 3.9718e+04
+exec time: 1.717739995320638 min
+time_remaining: 6 hours 41.45393009617965 min
+epoch 1269
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 4.0958e+04
+exec time: 1.7172194759051005 min
+time_remaining: 6 hours 39.7122897635295 min
+epoch 1270
+Total loss: 3.9602e+04
+exec time: 1.7067532181739806 min
+time_remaining: 6 hours 37.968802120646615 min
+epoch 1271
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 3.8780e+04
+exec time: 1.7107545812924703 min
+time_remaining: 6 hours 36.226089461757056 min
+epoch 1272
+Total loss: 3.8686e+04
+exec time: 1.7093491156895955 min
+time_remaining: 6 hours 34.48317639082052 min
+epoch 1273
+Total loss: 3.7966e+04
+exec time: 1.710746161142985 min
+time_remaining: 6 hours 32.74056383808056 min
+epoch 1274
+Total loss: 3.7703e+04
+exec time: 1.7090102394421895 min
+time_remaining: 6 hours 30.997694932713785 min
+epoch 1275
+Total loss: 3.9321e+04
+exec time: 1.7045683145523072 min
+time_remaining: 6 hours 29.254099323707578 min
+epoch 1276
+Total loss: 3.6561e+04
+exec time: 1.705628478527069 min
+time_remaining: 6 hours 27.510749972458143 min
+epoch 1277
+Total loss: 3.7471e+04
+exec time: 1.7231872081756592 min
+time_remaining: 6 hours 25.770509760275672 min
+epoch 1278
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 3.7998e+04
+exec time: 1.7390163620313008 min
+time_remaining: 6 hours 24.033031353417755 min
+epoch 1279
+Total loss: 3.6597e+04
+exec time: 1.7289281209309897 min
+time_remaining: 6 hours 22.293816627066008 min
+epoch 1280
+Total loss: 3.5094e+04
+exec time: 1.715019655227661 min
+time_remaining: 6 hours 20.552240167085074 min
+epoch 1281
+Total loss: 3.5656e+04
+exec time: 1.7122310241063436 min
+time_remaining: 6 hours 18.810230939573103 min
+epoch 1282
+Total loss: 3.6614e+04
+exec time: 1.7128228306770326 min
+time_remaining: 6 hours 17.068368226818166 min
+epoch 1283
+Total loss: 3.6203e+04
+exec time: 1.7160828630129497 min
+time_remaining: 6 hours 15.327099164178435 min
+epoch 1284
+Total loss: 3.4229e+04
+exec time: 1.7278603196144104 min
+time_remaining: 6 hours 13.587839849063585 min
+epoch 1285
+Total loss: 3.4334e+04
+exec time: 1.7217709422111511 min
+time_remaining: 6 hours 11.847584943922357 min
+epoch 1286
+Total loss: 3.5484e+04
+exec time: 1.7233862201372783 min
+time_remaining: 6 hours 10.107626093267754 min
+epoch 1287
+Total loss: 3.4529e+04
+exec time: 1.7248196721076965 min
+time_remaining: 6 hours 8.367928917364225 min
+epoch 1288
+Total loss: 3.4381e+04
+exec time: 1.723536781469981 min
+time_remaining: 6 hours 6.6280448253100985 min
+epoch 1289
+Total loss: 3.4234e+04
+exec time: 1.7170942823092143 min
+time_remaining: 6 hours 4.887137298991092 min
+epoch 1290
+Total loss: 3.4334e+04
+exec time: 1.7195924560228983 min
+time_remaining: 6 hours 3.1466710931936177 min
+epoch 1291
+Total loss: 3.2652e+04
+exec time: 1.7165760000546773 min
+time_remaining: 6 hours 1.4057515783088093 min
+epoch 1292
+Total loss: 3.3636e+04
+exec time: 1.7076316595077514 min
+time_remaining: 5 hours 59.663437793150024 min
+epoch 1293
+Total loss: 3.2751e+04
+exec time: 1.7049425403277079 min
+time_remaining: 5 hours 57.920749514715226 min
+epoch 1294
+Total loss: 3.2407e+04
+exec time: 1.6994236389795938 min
+time_remaining: 5 hours 56.17724588237979 min
+epoch 1295
+Total loss: 3.2804e+04
+exec time: 1.7021135449409486 min
+time_remaining: 5 hours 54.434233685849904 min
+epoch 1296
+Total loss: 3.2332e+04
+exec time: 1.7200238903363545 min
+time_remaining: 5 hours 52.694087794191546 min
+epoch 1297
+Total loss: 3.1534e+04
+exec time: 1.7073022405306497 min
+time_remaining: 5 hours 50.95199311265742 min
+epoch 1298
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 3.0923e+04
+exec time: 1.705037037531535 min
+time_remaining: 5 hours 49.209601494309936 min
+epoch 1299
+Total loss: 3.1317e+04
+exec time: 1.7153836488723755 min
+time_remaining: 5 hours 47.46885913090864 min
+epoch 1300
+Total loss: 3.0881e+04
+exec time: 1.7158928990364075 min
+time_remaining: 5 hours 45.72823364545593 min
+epoch 1301
+Total loss: 3.0900e+04
+exec time: 1.721640900770823 min
+time_remaining: 5 hours 43.98852027176736 min
+epoch 1302
+Total loss: 3.0093e+04
+exec time: 1.7257507562637329 min
+time_remaining: 5 hours 42.24945600512228 min
+epoch 1303
+Total loss: 2.8406e+04
+exec time: 1.7109140316645304 min
+time_remaining: 5 hours 40.508182098139514 min
+epoch 1304
+Total loss: 2.7062e+04
+exec time: 1.7205851594607036 min
+time_remaining: 5 hours 38.768399830750695 min
+epoch 1305
+Total loss: 2.7977e+04
+exec time: 1.7287818789482117 min
+time_remaining: 5 hours 37.02986454483016 min
+epoch 1306
+Total loss: 2.6183e+04
+exec time: 1.703568450609843 min
+time_remaining: 5 hours 35.287621007298185 min
+epoch 1307
+Total loss: 2.5585e+04
+exec time: 1.7071679631869 min
+time_remaining: 5 hours 33.545964974803155 min
+epoch 1308
+Total loss: 2.5769e+04
+exec time: 1.722699228922526 min
+time_remaining: 5 hours 31.806627848262906 min
+epoch 1309
+Total loss: 2.5372e+04
+exec time: 1.7298046906789144 min
+time_remaining: 5 hours 30.068346686248333 min
+epoch 1310
+Total loss: 2.6769e+04
+exec time: 1.7190852125485738 min
+time_remaining: 5 hours 28.328533084551054 min
+epoch 1311
+Total loss: 2.6547e+04
+exec time: 1.7167070309321086 min
+time_remaining: 5 hours 26.58841030498388 min
+epoch 1312
+Total loss: 3.3173e+04
+exec time: 1.7131447831789652 min
+time_remaining: 5 hours 24.84781585075325 min
+epoch 1313
+Total loss: 3.7786e+04
+exec time: 1.7175166328748068 min
+time_remaining: 5 hours 23.10788202314825 min
+epoch 1314
+Total loss: 3.3696e+04
+exec time: 1.7339098572731018 min
+time_remaining: 5 hours 21.3702885612488 min
+epoch 1315
+Total loss: 3.2642e+04
+exec time: 1.7208119988441468 min
+time_remaining: 5 hours 19.630869386020095 min
+epoch 1316
+Total loss: 3.1216e+04
+exec time: 1.7253425995508829 min
+time_remaining: 5 hours 17.892108004475176 min
+epoch 1317
+Total loss: 2.6260e+04
+exec time: 1.7175371249516804 min
+time_remaining: 5 hours 16.152289142799418 min
+epoch 1318
+Total loss: 2.9561e+04
+exec time: 1.7083892703056336 min
+time_remaining: 5 hours 14.411248751011954 min
+epoch 1319
+Total loss: 2.9069e+04
+exec time: 1.7066001335779826 min
+time_remaining: 5 hours 12.670013857429694 min
+epoch 1320
+Total loss: 2.5881e+04
+exec time: 1.7099299828211467 min
+time_remaining: 5 hours 10.929282606947709 min
+epoch 1321
+Total loss: 2.4571e+04
+exec time: 1.706325920422872 min
+time_remaining: 5 hours 9.18811268734953 min
+epoch 1322
+Total loss: 2.5741e+04
+exec time: 1.7058707197507224 min
+time_remaining: 5 hours 7.446934542112103 min
+epoch 1323
+Total loss: 2.5262e+04
+exec time: 1.7179144819577534 min
+time_remaining: 5 hours 5.707410714850084 min
+epoch 1324
+Total loss: 2.5792e+04
+exec time: 1.7206745505332948 min
+time_remaining: 5 hours 3.968284042826781 min
+epoch 1325
+Total loss: 2.3881e+04
+exec time: 1.7243189136187236 min
+time_remaining: 5 hours 2.2296634216477287 min
+epoch 1326
+Total loss: 2.3771e+04
+exec time: 1.7249645749727884 min
+time_remaining: 5 hours 0.49114852980528667 min
+epoch 1327
+Total loss: 2.3966e+04
+exec time: 1.7239271799723308 min
+time_remaining: 4 hours 58.75251968366592 min
+epoch 1328
+Total loss: 2.2830e+04
+exec time: 1.7162538806597392 min
+time_remaining: 4 hours 57.01292565253743 min
+epoch 1329
+k exceeds bounds
+reverted to k =  99
+tensor(1., grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 2.2904e+04
+exec time: 1.7130605896313986 min
+time_remaining: 4 hours 55.272958554361594 min
+epoch 1330
+Total loss: 2.3022e+04
+exec time: 1.7130702296892801 min
+time_remaining: 4 hours 53.53303311072068 min
+epoch 1331
+Total loss: 2.2604e+04
+exec time: 1.7238446275393169 min
+time_remaining: 4 hours 51.79450692328646 min
+epoch 1332
+Total loss: 2.3960e+04
+exec time: 1.7133455594380698 min
+time_remaining: 4 hours 50.05468742658468 min
+epoch 1333
+Total loss: 2.2427e+04
+exec time: 1.7295082847277323 min
+time_remaining: 4 hours 48.31691887461511 min
+epoch 1334
+Total loss: 2.1715e+04
+exec time: 1.722538455327352 min
+time_remaining: 4 hours 46.5783012579891 min
+epoch 1335
+Total loss: 2.2872e+04
+exec time: 1.7195703506469726 min
+time_remaining: 4 hours 44.83934336378434 min
+epoch 1336
+Total loss: 2.1822e+04
+exec time: 1.7267792582511903 min
+time_remaining: 4 hours 43.101293343197085 min
+epoch 1337
+Total loss: 2.2251e+04
+exec time: 1.7276593406995138 min
+time_remaining: 4 hours 41.363366726856384 min
+epoch 1338
+Total loss: 2.2652e+04
+exec time: 1.7237078587214152 min
+time_remaining: 4 hours 39.62498032407257 min
+epoch 1339
+Total loss: 2.1366e+04
+exec time: 1.725348917643229 min
+time_remaining: 4 hours 37.88681177689705 min
+epoch 1340
+Total loss: 2.1573e+04
+exec time: 1.7163642724355062 min
+time_remaining: 4 hours 36.14759705572533 min
+epoch 1341
+Total loss: 2.1823e+04
+exec time: 1.7255791902542115 min
+time_remaining: 4 hours 34.40950130468218 min
+epoch 1342
+Total loss: 2.2384e+04
+exec time: 1.7197307030359903 min
+time_remaining: 4 hours 32.670740490816115 min
+epoch 1343
+Total loss: 2.0924e+04
+exec time: 1.722295876344045 min
+time_remaining: 4 hours 30.932305738897867 min
+epoch 1344
+Total loss: 2.1992e+04
+exec time: 1.7177930355072022 min
+time_remaining: 4 hours 29.193376070564227 min
+epoch 1345
+Total loss: 2.0524e+04
+exec time: 1.7192691485087077 min
+time_remaining: 4 hours 27.454646695445717 min
+epoch 1346
+Total loss: 2.0718e+04
+exec time: 1.7145012696584065 min
+time_remaining: 4 hours 25.71540465142516 min
+epoch 1347
+Total loss: 2.0945e+04
+exec time: 1.7204639911651611 min
+time_remaining: 4 hours 23.976871669139655 min
+epoch 1348
+Total loss: 2.0370e+04
+exec time: 1.7152206301689148 min
+time_remaining: 4 hours 22.23777856118386 min
+epoch 1349
+Total loss: 2.1363e+04
+exec time: 1.7149420658747354 min
+time_remaining: 4 hours 20.498689868273686 min
+epoch 1350
+Total loss: 2.0482e+04
+exec time: 1.7230348269144693 min
+time_remaining: 4 hours 18.76052946155869 min
+epoch 1351
+Total loss: 2.1352e+04
+exec time: 1.7268372098604838 min
+time_remaining: 4 hours 17.02280766714739 min
+epoch 1352
+Total loss: 2.0052e+04
+exec time: 1.7238377292950948 min
+time_remaining: 4 hours 15.284776076377511 min
+epoch 1353
+Total loss: 1.9839e+04
+exec time: 1.7235389033953348 min
+time_remaining: 4 hours 13.546733229434267 min
+epoch 1354
+Total loss: 1.9982e+04
+exec time: 1.7225601116816203 min
+time_remaining: 4 hours 11.808607048976683 min
+epoch 1355
+Total loss: 2.0177e+04
+exec time: 1.7194251894950867 min
+time_remaining: 4 hours 10.070170915232666 min
+epoch 1356
+Total loss: 2.0361e+04
+exec time: 1.7185433109601338 min
+time_remaining: 4 hours 8.33166986863489 min
+epoch 1357
+Total loss: 1.9584e+04
+exec time: 1.7180503884951273 min
+time_remaining: 4 hours 6.59314667217086 min
+epoch 1358
+Total loss: 1.9841e+04
+exec time: 1.7057532986005148 min
+time_remaining: 4 hours 4.853377747921968 min
+epoch 1359
+Total loss: 2.0003e+04
+exec time: 1.7100046277046204 min
+time_remaining: 4 hours 3.1140964834712577 min
+epoch 1360
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.)
+Total loss: 1.9878e+04
+exec time: 1.717608102162679 min
+time_remaining: 4 hours 1.3756347900889523 min
+epoch 1361
+Total loss: 1.9358e+04
+exec time: 1.7223347663879394 min
+time_remaining: 3 hours 59.637682631835105 min
+epoch 1362
+Total loss: 1.9764e+04
+exec time: 1.7259730339050292 min
+time_remaining: 3 hours 57.9001190850513 min
+epoch 1363
+Total loss: 1.9897e+04
+exec time: 1.7274367968241373 min
+time_remaining: 3 hours 56.162718480190506 min
+epoch 1364
+Total loss: 1.9871e+04
+exec time: 1.7212188045183818 min
+time_remaining: 3 hours 54.42471750804407 min
+epoch 1365
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.9499e+04
+exec time: 1.717421865463257 min
+time_remaining: 3 hours 52.68636864021755 min
+epoch 1366
+Total loss: 1.8835e+04
+exec time: 1.7179818550745647 min
+time_remaining: 3 hours 50.94810487306631 min
+epoch 1367
+Total loss: 1.8880e+04
+exec time: 1.70824343363444 min
+time_remaining: 3 hours 49.208931085589484 min
+epoch 1368
+Total loss: 1.9621e+04
+exec time: 1.7144978284835815 min
+time_remaining: 3 hours 47.47040096972205 min
+epoch 1369
+Total loss: 1.8888e+04
+exec time: 1.7102794766426086 min
+time_remaining: 3 hours 45.731505655923684 min
+epoch 1370
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.9517e+04
+exec time: 1.701189390818278 min
+time_remaining: 3 hours 43.9917967831193 min
+epoch 1371
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.8533e+04
+exec time: 1.71797087987264 min
+time_remaining: 3 hours 42.253709681134296 min
+epoch 1372
+Total loss: 1.8780e+04
+exec time: 1.7046169638633728 min
+time_remaining: 3 hours 40.51441666881419 min
+epoch 1373
+Total loss: 1.9040e+04
+exec time: 1.7072218894958495 min
+time_remaining: 3 hours 38.775413010735065 min
+epoch 1374
+Total loss: 1.8808e+04
+exec time: 1.7067535122235615 min
+time_remaining: 3 hours 37.03641300093068 min
+epoch 1375
+Total loss: 1.9164e+04
+exec time: 1.7146141330401103 min
+time_remaining: 3 hours 35.29816823093506 min
+epoch 1376
+Total loss: 1.8586e+04
+exec time: 1.7113240400950114 min
+time_remaining: 3 hours 33.55966389655396 min
+epoch 1377
+Total loss: 1.8631e+04
+exec time: 1.7277487556139628 min
+time_remaining: 3 hours 31.822653158604226 min
+epoch 1378
+Total loss: 1.7863e+04
+exec time: 1.7224528908729553 min
+time_remaining: 3 hours 30.085191169262544 min
+epoch 1379
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.8950e+04
+exec time: 1.7210511247316995 min
+time_remaining: 3 hours 28.347629039529693 min
+epoch 1380
+Total loss: 1.8122e+04
+exec time: 1.7207587440808614 min
+time_remaining: 3 hours 26.610065627184667 min
+epoch 1381
+Total loss: 1.8279e+04
+exec time: 1.7211779832839966 min
+time_remaining: 3 hours 24.872562330297114 min
+epoch 1382
+Total loss: 1.8057e+04
+exec time: 1.7137947837511698 min
+time_remaining: 3 hours 23.134458032890507 min
+epoch 1383
+Total loss: 1.7779e+04
+exec time: 1.7109521985054017 min
+time_remaining: 3 hours 21.396150613474674 min
+epoch 1384
+Total loss: 1.8060e+04
+exec time: 1.7160043597221375 min
+time_remaining: 3 hours 19.65830218971314 min
+epoch 1385
+Total loss: 1.7823e+04
+exec time: 1.7190969745318094 min
+time_remaining: 3 hours 17.920739657882677 min
+epoch 1386
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.8492e+04
+exec time: 1.7299168864885965 min
+time_remaining: 3 hours 16.184085259553285 min
+epoch 1387
+Total loss: 1.7759e+04
+exec time: 1.732482119401296 min
+time_remaining: 3 hours 14.447647562310976 min
+epoch 1388
+Total loss: 1.7654e+04
+exec time: 1.7263604005177815 min
+time_remaining: 3 hours 12.71072635200926 min
+epoch 1389
+Total loss: 1.7846e+04
+exec time: 1.7171205163002015 min
+time_remaining: 3 hours 10.973089123258433 min
+epoch 1390
+Total loss: 1.7690e+04
+exec time: 1.7150121768315634 min
+time_remaining: 3 hours 9.23531618237439 min
+epoch 1391
+Total loss: 1.8292e+04
+exec time: 1.7107536951700846 min
+time_remaining: 3 hours 7.497245544298494 min
+epoch 1392
+Total loss: 1.8311e+04
+exec time: 1.7182024598121644 min
+time_remaining: 3 hours 5.759786285764221 min
+epoch 1393
+Total loss: 1.7636e+04
+exec time: 1.7216638763745626 min
+time_remaining: 3 hours 4.022617862060542 min
+epoch 1394
+Total loss: 1.7374e+04
+exec time: 1.7230754256248475 min
+time_remaining: 3 hours 2.285577912741246 min
+epoch 1395
+Total loss: 1.7373e+04
+exec time: 1.716294817129771 min
+time_remaining: 3 hours 0.5480528242837863 min
+epoch 1396
+Total loss: 1.7265e+04
+exec time: 1.714435048898061 min
+time_remaining: 2 hours 58.810421010282425 min
+epoch 1397
+Total loss: 1.7320e+04
+exec time: 1.7126142104466757 min
+time_remaining: 2 hours 57.072689531050855 min
+epoch 1398
+Total loss: 1.6879e+04
+exec time: 1.7164525628089904 min
+time_remaining: 2 hours 55.335271066920086 min
+epoch 1399
+Total loss: 1.7234e+04
+exec time: 1.718724791208903 min
+time_remaining: 2 hours 53.598044856105844 min
+epoch 1400
+Total loss: 1.6976e+04
+exec time: 1.730226457118988 min
+time_remaining: 2 hours 51.86165780857755 min
+epoch 1401
+Total loss: 1.6949e+04
+exec time: 1.7239396691322326 min
+time_remaining: 2 hours 50.12484010196113 min
+epoch 1402
+Total loss: 1.6471e+04
+exec time: 1.7091083685557047 min
+time_remaining: 2 hours 48.38701535323435 min
+epoch 1403
+Total loss: 1.6825e+04
+exec time: 1.7099329590797425 min
+time_remaining: 2 hours 46.649287893289966 min
+epoch 1404
+Total loss: 1.7275e+04
+exec time: 1.714214066664378 min
+time_remaining: 2 hours 44.911889468379286 min
+epoch 1405
+Total loss: 1.6741e+04
+exec time: 1.7208969354629517 min
+time_remaining: 2 hours 43.174970814722656 min
+epoch 1406
+Total loss: 1.7038e+04
+exec time: 1.7221988995869955 min
+time_remaining: 2 hours 41.438160992694065 min
+epoch 1407
+Total loss: 1.7192e+04
+exec time: 1.7204832235972087 min
+time_remaining: 2 hours 39.701259820987616 min
+epoch 1408
+Total loss: 1.6028e+04
+exec time: 1.7185698747634888 min
+time_remaining: 2 hours 37.96425838040386 min
+epoch 1409
+Total loss: 1.6559e+04
+exec time: 1.712920641899109 min
+time_remaining: 2 hours 36.226922494553946 min
+epoch 1410
+Total loss: 1.6844e+04
+exec time: 1.7080832997957864 min
+time_remaining: 2 hours 34.48931609632973 min
+epoch 1411
+Total loss: 1.6309e+04
+exec time: 1.7121845404307048 min
+time_remaining: 2 hours 32.75200711692469 min
+epoch 1412
+Total loss: 1.5411e+04
+exec time: 1.7133543769518533 min
+time_remaining: 2 hours 31.01480572750961 min
+epoch 1413
+Total loss: 1.6338e+04
+exec time: 1.7157923539479574 min
+time_remaining: 2 hours 29.277786346613993 min
+epoch 1414
+Total loss: 1.5352e+04
+exec time: 1.7107404987017314 min
+time_remaining: 2 hours 27.540493500247067 min
+epoch 1415
+Total loss: 2.8914e+04
+exec time: 1.7245522578557333 min
+time_remaining: 2 hours 25.804057498840393 min
+epoch 1416
+Total loss: 2.9151e+04
+exec time: 1.7197855869928995 min
+time_remaining: 2 hours 24.067359065398705 min
+epoch 1417
+Total loss: 2.7630e+04
+exec time: 1.7216965238253275 min
+time_remaining: 2 hours 22.330794991979474 min
+epoch 1418
+Total loss: 2.2508e+04
+exec time: 1.7246154308319093 min
+time_remaining: 2 hours 20.594418491898978 min
+epoch 1419
+Total loss: 2.3849e+04
+exec time: 1.7145841360092162 min
+time_remaining: 2 hours 18.857493413334396 min
+epoch 1420
+Total loss: 1.7584e+04
+exec time: 1.7195605595906576 min
+time_remaining: 2 hours 17.120876441277687 min
+epoch 1421
+Total loss: 2.1044e+04
+exec time: 1.7220314224561055 min
+time_remaining: 2 hours 15.384418991111943 min
+epoch 1422
+Total loss: 1.7397e+04
+exec time: 1.7267434159914652 min
+time_remaining: 2 hours 13.64823678729681 min
+epoch 1423
+Total loss: 1.9049e+04
+exec time: 1.708008348941803 min
+time_remaining: 2 hours 11.911067934942821 min
+epoch 1424
+Total loss: 1.7495e+04
+exec time: 1.712595522403717 min
+time_remaining: 2 hours 10.174181439793301 min
+epoch 1425
+Total loss: 1.7850e+04
+exec time: 1.7065063953399657 min
+time_remaining: 2 hours 8.437013027772991 min
+epoch 1426
+Total loss: 1.6792e+04
+exec time: 1.70532519419988 min
+time_remaining: 2 hours 6.699827164000908 min
+epoch 1427
+Total loss: 1.6356e+04
+exec time: 1.7059918522834778 min
+time_remaining: 2 hours 4.962719536028089 min
+epoch 1428
+Total loss: 1.6554e+04
+exec time: 1.7082203348477683 min
+time_remaining: 2 hours 3.225766179443326 min
+epoch 1429
+Total loss: 1.5941e+04
+exec time: 1.7085854609807332 min
+time_remaining: 2 hours 1.4888708822099943 min
+epoch 1430
+Total loss: 1.6309e+04
+exec time: 1.7168084422747294 min
+time_remaining: 1 hours 59.75241164743784 min
+epoch 1431
+Total loss: 1.5164e+04
+exec time: 1.7160617152849833 min
+time_remaining: 1 hours 58.01594439880364 min
+epoch 1432
+Total loss: 1.5601e+04
+exec time: 1.710250230630239 min
+time_remaining: 1 hours 56.27923391332024 min
+epoch 1433
+Total loss: 1.5382e+04
+exec time: 1.7085098028182983 min
+time_remaining: 1 hours 54.542480228585646 min
+epoch 1434
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.5313e+04
+exec time: 1.7097842772801717 min
+time_remaining: 1 hours 52.80582363695521 min
+epoch 1435
+Total loss: 1.5336e+04
+exec time: 1.7067318002382914 min
+time_remaining: 1 hours 51.0690684284009 min
+epoch 1436
+Total loss: 1.4913e+04
+exec time: 1.7274206002553305 min
+time_remaining: 1 hours 49.333262030715105 min
+epoch 1437
+Total loss: 1.4995e+04
+exec time: 1.7222796122233073 min
+time_remaining: 1 hours 47.59724564021735 min
+epoch 1438
+Total loss: 1.5028e+04
+exec time: 1.7254943251609802 min
+time_remaining: 1 hours 45.86138461528344 min
+epoch 1439
+Total loss: 1.5066e+04
+exec time: 1.7092446366945901 min
+time_remaining: 1 hours 44.124860918190734 min
+epoch 1440
+Total loss: 1.4795e+04
+exec time: 1.7236004114151 min
+time_remaining: 1 hours 42.38896286220097 min
+epoch 1441
+Total loss: 1.4775e+04
+exec time: 1.725273589293162 min
+time_remaining: 1 hours 40.65314916100078 min
+epoch 1442
+Total loss: 1.4473e+04
+exec time: 1.7204181830088296 min
+time_remaining: 1 hours 38.91715827481448 min
+epoch 1443
+Total loss: 1.5040e+04
+exec time: 1.7279671947161357 min
+time_remaining: 1 hours 37.181481716925646 min
+epoch 1444
+Total loss: 1.5034e+04
+exec time: 1.7203537543614706 min
+time_remaining: 1 hours 35.445526044508824 min
+epoch 1445
+Total loss: 1.4684e+04
+exec time: 1.7220423698425293 min
+time_remaining: 1 hours 33.709655011838095 min
+epoch 1446
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.4588e+04
+exec time: 1.7199917356173198 min
+time_remaining: 1 hours 31.97372798311426 min
+epoch 1447
+Total loss: 1.4283e+04
+exec time: 1.714533269405365 min
+time_remaining: 1 hours 30.237626942196584 min
+epoch 1448
+Total loss: 1.4654e+04
+exec time: 1.720015815893809 min
+time_remaining: 1 hours 28.50174863793427 min
+epoch 1449
+Total loss: 1.4380e+04
+exec time: 1.7346009731292724 min
+time_remaining: 1 hours 26.766395149422806 min
+epoch 1450
+Total loss: 1.4083e+04
+exec time: 1.725320533911387 min
+time_remaining: 1 hours 25.03072929944301 min
+epoch 1451
+Total loss: 1.4476e+04
+exec time: 1.7158233086268107 min
+time_remaining: 1 hours 23.294763741349016 min
+epoch 1452
+Total loss: 1.4131e+04
+exec time: 1.7211652716000876 min
+time_remaining: 1 hours 21.55899870407984 min
+epoch 1453
+Total loss: 1.4516e+04
+exec time: 1.706158995628357 min
+time_remaining: 1 hours 19.822778997509886 min
+epoch 1454
+Total loss: 1.3678e+04
+exec time: 1.7230669617652894 min
+time_remaining: 1 hours 18.087123538292417 min
+epoch 1455
+Total loss: 1.4002e+04
+exec time: 1.731282941500346 min
+time_remaining: 1 hours 16.351733656069428 min
+epoch 1456
+Total loss: 1.4036e+04
+exec time: 1.714562745889028 min
+time_remaining: 1 hours 14.615855953304163 min
+epoch 1457
+Total loss: 1.3846e+04
+exec time: 1.7080034136772155 min
+time_remaining: 1 hours 12.87981853720612 min
+epoch 1458
+Total loss: 1.3872e+04
+exec time: 1.725276517868042 min
+time_remaining: 1 hours 11.144304949261823 min
+epoch 1459
+Total loss: 1.4156e+04
+exec time: 1.7241520841916402 min
+time_remaining: 1 hours 9.408774578299472 min
+epoch 1460
+Total loss: 1.3661e+04
+exec time: 1.7238770047823588 min
+time_remaining: 1 hours 7.6732524403805655 min
+epoch 1461
+Total loss: 1.3218e+04
+exec time: 1.724579898516337 min
+time_remaining: 1 hours 5.937764502343725 min
+epoch 1462
+Total loss: 1.3438e+04
+exec time: 1.7137178579966228 min
+time_remaining: 1 hours 4.202016769761485 min
+epoch 1463
+Total loss: 1.3221e+04
+exec time: 1.7108662009239197 min
+time_remaining: 1 hours 2.466229009921335 min
+epoch 1464
+Total loss: 1.3492e+04
+exec time: 1.7097529212633769 min
+time_remaining: 1 hours 0.7304486755624566 min
+epoch 1465
+Total loss: 1.3295e+04
+exec time: 1.7169901172320048 min
+time_remaining: 0 hours 58.99487169692611 min
+epoch 1466
+Total loss: 1.3336e+04
+exec time: 1.7084439078966775 min
+time_remaining: 0 hours 57.25912781223269 min
+epoch 1467
+Total loss: 1.3024e+04
+exec time: 1.7204880714416504 min
+time_remaining: 0 hours 55.52368366404289 min
+epoch 1468
+Total loss: 1.3052e+04
+exec time: 1.7161383549372355 min
+time_remaining: 0 hours 53.78816808695046 min
+epoch 1469
+Total loss: 1.2782e+04
+exec time: 1.7143959124883017 min
+time_remaining: 0 hours 52.052643313375484 min
+epoch 1470
+Total loss: 1.3184e+04
+exec time: 1.7182737827301025 min
+time_remaining: 0 hours 50.31722371720298 min
+epoch 1471
+k exceeds bounds
+reverted to k =  99
+tensor(1.0000, grad_fn=<SelectBackward>) <= tensor(1.0000)
+Total loss: 1.2718e+04
+exec time: 1.7214391072591146 min
+time_remaining: 0 hours 48.58188762695045 min
+epoch 1472
+Total loss: 1.3021e+04
+exec time: 1.7217079758644105 min
+time_remaining: 0 hours 46.84657533399468 min
+epoch 1473
+Total loss: 1.2944e+04
+exec time: 1.73075612783432 min
+time_remaining: 0 hours 45.11144110113719 min
+epoch 1474
+Total loss: 1.2751e+04
+exec time: 1.7297863046328226 min
+time_remaining: 0 hours 43.3762963670124 min
+epoch 1475
+Total loss: 1.2554e+04
+exec time: 1.718657664457957 min
+time_remaining: 0 hours 41.64097794013287 min
+epoch 1476
+Total loss: 1.2301e+04
+exec time: 1.7325533986091615 min
+time_remaining: 0 hours 39.90589845936756 min
+epoch 1477
+Total loss: 1.2363e+04
+exec time: 1.7209661205609639 min
+time_remaining: 0 hours 38.17064992044743 min
+epoch 1478
+Total loss: 1.2844e+04
+exec time: 1.7175374150276184 min
+time_remaining: 0 hours 36.43537201169693 min
+epoch 1479
+Total loss: 1.2623e+04
+exec time: 1.721410350004832 min
+time_remaining: 0 hours 34.70017041354549 min
+epoch 1480
+Total loss: 1.2752e+04
+exec time: 1.7149292786916097 min
+time_remaining: 0 hours 32.96490429286996 min
+epoch 1481
+Total loss: 1.2420e+04
+exec time: 1.7109872619311015 min
+time_remaining: 0 hours 31.22961773857878 min
+epoch 1482
+Total loss: 1.2251e+04
+exec time: 1.7264749566713968 min
+time_remaining: 0 hours 29.49454149406256 min
+epoch 1483
+Total loss: 1.2308e+04
+exec time: 1.7209765632947287 min
+time_remaining: 0 hours 27.75941755970871 min
+epoch 1484
+Total loss: 1.2428e+04
+exec time: 1.7133694370587667 min
+time_remaining: 0 hours 26.02423583939435 min
+epoch 1485
+Total loss: 1.2092e+04
+exec time: 1.727397119998932 min
+time_remaining: 0 hours 24.28921563464337 min
+epoch 1486
+Total loss: 1.2087e+04
+exec time: 1.730873199303945 min
+time_remaining: 0 hours 22.55423607226021 min
+epoch 1487
+Total loss: 1.2080e+04
+exec time: 1.7170308788617452 min
+time_remaining: 0 hours 20.819150397566318 min
+epoch 1488
+Total loss: 1.2006e+04
+exec time: 1.730197024345398 min
+time_remaining: 0 hours 19.08418623878333 min
+epoch 1489
+Total loss: 1.1869e+04
+exec time: 1.7266090989112854 min
+time_remaining: 0 hours 17.349204398801703 min
+epoch 1490
+Total loss: 1.1883e+04
+exec time: 1.7266727805137634 min
+time_remaining: 0 hours 15.61423417425749 min
+epoch 1491
+Total loss: 1.2133e+04
+exec time: 1.7331576625506082 min
+time_remaining: 0 hours 13.879309843777719 min
+epoch 1492
+Total loss: 1.1723e+04
+exec time: 1.7262780904769897 min
+time_remaining: 0 hours 12.144355624704986 min
+epoch 1493
+Total loss: 1.1718e+04
+exec time: 1.7268878142038981 min
+time_remaining: 0 hours 10.40941546895283 min
+epoch 1494
+Total loss: 1.1554e+04
+exec time: 1.7283429980278016 min
+time_remaining: 0 hours 8.674490952398628 min
+epoch 1495
+Total loss: 1.1776e+04
+exec time: 1.726313292980194 min
+time_remaining: 0 hours 6.939569807647786 min
+epoch 1496
+Total loss: 1.1787e+04
+exec time: 1.7250533819198608 min
+time_remaining: 0 hours 5.20465763816037 min
+epoch 1497
+Total loss: 1.1574e+04
+exec time: 1.7277504364649454 min
+time_remaining: 0 hours 3.4697622321477866 min
+epoch 1498
+Total loss: 1.1379e+04
+exec time: 1.7109121799468994 min
+time_remaining: 0 hours 1.734865126123168 min
+epoch 1499
+Total loss: 1.1527e+04
+exec time: 1.7117021997769675 min
+time_remaining: 0 hours 0.0 min
+
+Process finished with exit code 0

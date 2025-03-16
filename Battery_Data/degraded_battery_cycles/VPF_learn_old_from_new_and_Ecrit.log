@@ -1,0 +1,2507 @@
+/usr/bin/python3.6 "/home/chris/Dropbox/Doctorado/Publications/Reliability Engineering & System Safety/VPF/VPF_old_from_new_learn_Ecrit.py"
+Loading prior from:
+	 ./Battery_Data/new_battery_cycles/Battery_RNN_from_prior_v4_part_10.mdl
+Saving graph "n" to:
+	 ./Battery_Data/degraded_battery_cycles/Battery_RNN_from_new_vpf_learn_Ecrit_v1_part_{n}.mdl
+epoch 0
+Current Ecrit 26191.034937826673 grad: -678.1839599609375
+Total loss: -5.8659e+03
+exec time: 0.7167143185933431 min
+time_remaining: 5 hours 57.64044497807822 min
+epoch 1
+Current Ecrit 26132.06765362256 grad: -485.869873046875
+Total loss: -8.0409e+03
+exec time: 0.7271515965461731 min
+time_remaining: 5 hours 59.52261286973959 min
+epoch 2
+Current Ecrit 26072.486026207793 grad: -775.592529296875
+Total loss: -9.9522e+03
+exec time: 0.7849093159039815 min
+time_remaining: 6 hours 9.233763276206162 min
+epoch 3
+Current Ecrit 26005.64442572186 grad: -352.9298095703125
+Total loss: -1.1191e+04
+exec time: 0.739735746383667 min
+time_remaining: 6 hours 8.095361200968398 min
+epoch 4
+Current Ecrit 25938.277484594877 grad: -407.25469970703125
+Total loss: -8.9628e+03
+exec time: 0.7796169400215149 min
+time_remaining: 6 hours 11.064663827419281 min
+epoch 5
+Current Ecrit 25869.31777877594 grad: -782.7139282226562
+Total loss: -1.1251e+04
+exec time: 0.6389138102531433 min
+time_remaining: 6 hours 1.1997689141167598 min
+epoch 6
+Current Ecrit 25801.01077913315 grad: -165.08843994140625
+Total loss: -1.1404e+04
+exec time: 0.5888405164082845 min
+time_remaining: 5 hours 50.444278049469006 min
+epoch 7
+Current Ecrit 25734.896884199567 grad: -651.9526977539062
+Total loss: -1.1448e+04
+exec time: 0.6267611940701803 min
+time_remaining: 5 hours 44.56257144808774 min
+epoch 8
+Current Ecrit 25664.965066606568 grad: -547.3911743164062
+Total loss: -1.0559e+04
+exec time: 0.6799218932787577 min
+time_remaining: 5 hours 42.748841971821264 min
+epoch 9
+Current Ecrit 25599.402913297454 grad: -608.2571411132812
+Total loss: -1.1556e+04
+exec time: 0.6300986806551615 min
+time_remaining: 5 hours 38.720536593596194 min
+epoch 10
+Current Ecrit 25531.44107269826 grad: -814.879150390625
+Total loss: -1.1705e+04
+exec time: 0.5969358007113139 min
+time_remaining: 5 hours 33.83584622469823 min
+epoch 11
+Current Ecrit 25458.005109463447 grad: -767.6959228515625
+Total loss: -1.1363e+04
+exec time: 0.6379674593607585 min
+time_remaining: 5 hours 31.33440240224212 min
+epoch 12
+Current Ecrit 25382.832287383655 grad: -643.8729248046875
+Total loss: -1.1124e+04
+exec time: 0.6666997114817301 min
+time_remaining: 5 hours 30.196001618947776 min
+epoch 13
+Current Ecrit 25309.7067603329 grad: -548.786376953125
+Total loss: -1.1672e+04
+exec time: 0.638108766078949 min
+time_remaining: 5 hours 28.132472455501556 min
+epoch 14
+Current Ecrit 25238.98439483301 grad: -547.567626953125
+Total loss: -1.1668e+04
+exec time: 0.6225166241327922 min
+time_remaining: 5 hours 25.754853422111978 min
+epoch 15
+Current Ecrit 25170.073550809586 grad: -257.4015197753906
+Total loss: -1.1306e+04
+exec time: 0.6511278788248698 min
+time_remaining: 5 hours 24.4621126443148 min
+epoch 16
+Current Ecrit 25103.239528664144 grad: -675.8018798828125
+Total loss: -1.1546e+04
+exec time: 0.6373704314231873 min
+time_remaining: 5 hours 22.853982378454816 min
+epoch 17
+Current Ecrit 25035.160814040013 grad: -417.2340393066406
+Total loss: -1.1690e+04
+exec time: 0.6330021659533183 min
+time_remaining: 5 hours 21.236741874394625 min
+epoch 18
+Current Ecrit 24970.61083609976 grad: -712.49609375
+Total loss: -1.1499e+04
+exec time: 0.6417187571525573 min
+time_remaining: 5 hours 19.943772793652784 min
+epoch 19
+Current Ecrit 24906.519557306656 grad: -762.106201171875
+Total loss: -1.1506e+04
+exec time: 0.6482704917589823 min
+time_remaining: 5 hours 18.87317037582403 min
+epoch 20
+Current Ecrit 24841.045210571632 grad: -689.3639526367188
+Total loss: -1.1669e+04
+exec time: 0.6462451974550883 min
+time_remaining: 5 hours 17.79659404754642 min
+epoch 21
+Current Ecrit 24778.19880002452 grad: -388.88238525390625
+Total loss: -1.1580e+04
+exec time: 0.6403895537058513 min
+time_remaining: 5 hours 16.6319115624284 min
+epoch 22
+Current Ecrit 24717.20276488921 grad: -671.2715454101562
+Total loss: -1.1539e+04
+exec time: 0.6417218844095866 min
+time_remaining: 5 hours 15.540451147245335 min
+epoch 23
+Current Ecrit 24657.505115594882 grad: -411.01300048828125
+Total loss: -1.1644e+04
+exec time: 0.6421323180198669 min
+time_remaining: 5 hours 14.494609209563976 min
+epoch 24
+Current Ecrit 24595.42631957607 grad: -629.0541381835938
+Total loss: -1.1592e+04
+exec time: 0.62745467821757 min
+time_remaining: 5 hours 13.202188885212024 min
+epoch 25
+Current Ecrit 24533.92702556391 grad: -419.9041442871094
+Total loss: -1.1525e+04
+exec time: 0.6680071910222372 min
+time_remaining: 5 hours 12.700223267078457 min
+epoch 26
+Current Ecrit 24471.082034555766 grad: -621.3278198242188
+Total loss: -1.1615e+04
+exec time: 0.6471389055252075 min
+time_remaining: 5 hours 11.820376827245866 min
+epoch 27
+Current Ecrit 24409.929107275715 grad: -372.5137023925781
+Total loss: -1.1601e+04
+exec time: 0.6518938223520915 min
+time_remaining: 5 hours 11.037306666374207 min
+epoch 28
+Current Ecrit 24350.095487684095 grad: -585.9998779296875
+Total loss: -1.1566e+04
+exec time: 0.6508229970932007 min
+time_remaining: 5 hours 10.245891470333675 min
+epoch 29
+Current Ecrit 24290.846358652114 grad: -850.4962158203125
+Total loss: -1.1608e+04
+exec time: 0.6646496852238973 min
+time_remaining: 5 hours 9.680467201603733 min
+epoch 30
+Current Ecrit 24229.99030795466 grad: -454.3735046386719
+Total loss: -1.1575e+04
+exec time: 0.6451782345771789 min
+time_remaining: 5 hours 8.814057088154584 min
+epoch 31
+Current Ecrit 24170.676559989242 grad: -563.9027099609375
+Total loss: -1.1560e+04
+exec time: 0.6480084896087647 min
+time_remaining: 5 hours 8.002866446971893 min
+epoch 32
+Current Ecrit 24110.159219526937 grad: -242.50599670410156
+Total loss: -1.1601e+04
+exec time: 0.6847939491271973 min
+time_remaining: 5 hours 7.722135620887855 min
+epoch 33
+Current Ecrit 24054.302410396765 grad: -292.8156433105469
+Total loss: -1.1587e+04
+exec time: 0.6512058655420939 min
+time_remaining: 5 hours 6.95728205372302 min
+epoch 34
+Current Ecrit 23998.09742718192 grad: -343.9593200683594
+Total loss: -1.1604e+04
+exec time: 0.645913294951121 min
+time_remaining: 5 hours 6.128607060228035 min
+epoch 35
+Current Ecrit 23943.507342582765 grad: -614.7249145507812
+Total loss: -1.1568e+04
+exec time: 0.6812547604242961 min
+time_remaining: 5 hours 5.765597716084187 min
+epoch 36
+Current Ecrit 23888.996705289974 grad: -303.59954833984375
+Total loss: -1.1576e+04
+exec time: 0.6745376825332642 min
+time_remaining: 5 hours 5.301331672045535 min
+epoch 37
+Current Ecrit 23835.275141423346 grad: -660.6334228515625
+Total loss: -1.1618e+04
+exec time: 0.641187059879303 min
+time_remaining: 5 hours 4.4205253400300535 min
+epoch 38
+Current Ecrit 23779.464258655145 grad: -414.2572937011719
+Total loss: -1.1580e+04
+exec time: 0.6293604214986165 min
+time_remaining: 5 hours 3.4122102452138847 min
+epoch 39
+Current Ecrit 23723.722560471204 grad: -481.1921691894531
+Total loss: -1.1580e+04
+exec time: 0.6308247089385987 min
+time_remaining: 5 hours 2.439682189623511 min
+epoch 40
+Current Ecrit 23665.41232485595 grad: -631.239990234375
+Total loss: -1.1588e+04
+exec time: 0.6415366013844808 min
+time_remaining: 5 hours 1.60374353222727 min
+epoch 41
+Current Ecrit 23609.81636224138 grad: -365.1592102050781
+Total loss: -1.1584e+04
+exec time: 0.6913270910580953 min
+time_remaining: 5 hours 1.320015550605774 min
+epoch 42
+Current Ecrit 23555.656938077333 grad: -567.4977416992188
+Total loss: -1.1632e+04
+exec time: 0.6548455595970154 min
+time_remaining: 5 hours 0.6296071481334025 min
+epoch 43
+Current Ecrit 23505.154987894744 grad: -283.4002380371094
+Total loss: -1.1574e+04
+exec time: 0.7351710041364033 min
+time_remaining: 5 hours 0.7732789364727637 min
+epoch 44
+Current Ecrit 23458.487369235896 grad: -252.71417236328125
+Total loss: -1.1623e+04
+exec time: 0.6318908015886943 min
+time_remaining: 4 hours 59.83361344160852 min
+epoch 45
+Current Ecrit 23413.25600439676 grad: -678.663330078125
+Total loss: -1.1607e+04
+exec time: 0.6368708968162536 min
+time_remaining: 4 hours 58.95648082978482 min
+epoch 46
+Current Ecrit 23364.972475839353 grad: -671.6552124023438
+Total loss: -1.1580e+04
+exec time: 0.680461589495341 min
+time_remaining: 4 hours 58.50971220123006 min
+epoch 47
+Current Ecrit 23318.118974527944 grad: -558.0513305664062
+Total loss: -1.1612e+04
+exec time: 0.6995068192481995 min
+time_remaining: 4 hours 58.232548946142174 min
+epoch 48
+Current Ecrit 23269.09131458208 grad: -589.8012084960938
+Total loss: -1.1581e+04
+exec time: 0.7206324974695841 min
+time_remaining: 4 hours 58.132589645126245 min
+epoch 49
+Current Ecrit 23222.25651153361 grad: -478.38201904296875
+Total loss: -1.1605e+04
+exec time: 0.7782505909601848 min
+time_remaining: 4 hours 58.52636625766752 min
+epoch 50
+Current Ecrit 23172.55353778301 grad: -527.9840698242188
+Total loss: -1.1609e+04
+exec time: 0.6442947506904602 min
+time_remaining: 4 hours 57.69484430769688 min
+epoch 51
+Current Ecrit 23126.71296400897 grad: -316.5956115722656
+Total loss: -1.1574e+04
+exec time: 0.6345921556154887 min
+time_remaining: 4 hours 56.78693181551415 min
+epoch 52
+Current Ecrit 23085.30697321083 grad: -541.2869873046875
+Total loss: -1.1669e+04
+exec time: 0.6690861821174622 min
+time_remaining: 4 hours 56.180254616152524 min
+epoch 53
+Current Ecrit 23044.32854551597 grad: -391.34197998046875
+Total loss: -1.1557e+04
+exec time: 0.6272935032844543 min
+time_remaining: 4 hours 55.22608940336431 min
+epoch 54
+Current Ecrit 23001.156506422773 grad: -325.33123779296875
+Total loss: -1.1613e+04
+exec time: 0.7173921942710877 min
+time_remaining: 4 hours 55.01279075254081 min
+epoch 55
+Current Ecrit 22960.849261707142 grad: -430.5111083984375
+Total loss: -1.1618e+04
+exec time: 0.7137544830640157 min
+time_remaining: 4 hours 54.75264690773821 min
+epoch 56
+Current Ecrit 22922.55721373309 grad: -562.74365234375
+Total loss: -1.1616e+04
+exec time: 0.7424570282300313 min
+time_remaining: 4 hours 54.699661067006105 min
+epoch 57
+Current Ecrit 22882.631668422386 grad: -780.0768432617188
+Total loss: -1.1602e+04
+exec time: 0.6608906269073487 min
+time_remaining: 4 hours 54.00130812697023 min
+epoch 58
+Current Ecrit 22838.722869939247 grad: -480.2477111816406
+Total loss: -1.1581e+04
+exec time: 0.6344701488812764 min
+time_remaining: 4 hours 53.10674321772683 min
+epoch 59
+Current Ecrit 22795.805291044173 grad: -320.6492919921875
+Total loss: -1.1640e+04
+exec time: 0.8432747046152751 min
+time_remaining: 4 hours 53.75208154254477 min
+epoch 60
+Current Ecrit 22748.663029300504 grad: -797.5720825195312
+Total loss: -1.1576e+04
+exec time: 0.7273982524871826 min
+time_remaining: 4 hours 53.51468235026289 min
+epoch 61
+Current Ecrit 22698.08593307216 grad: -590.615234375
+Total loss: -1.1566e+04
+exec time: 0.6359489520390829 min
+time_remaining: 4 hours 52.61543167867961 min
+epoch 62
+Current Ecrit 22647.942738346595 grad: -372.9954833984375
+Total loss: -1.1632e+04
+exec time: 0.6551399906476338 min
+time_remaining: 4 hours 51.857658583461784 min
+epoch 63
+Current Ecrit 22598.931453719317 grad: -571.8212890625
+Total loss: -1.1605e+04
+exec time: 0.8493655920028687 min
+time_remaining: 4 hours 52.426254681994465 min
+epoch 64
+Current Ecrit 22552.55988685553 grad: -465.93896484375
+Total loss: -1.1620e+04
+exec time: 0.8197582165400187 min
+time_remaining: 4 hours 52.75307952348993 min
+epoch 65
+Current Ecrit 22507.100091295688 grad: -482.21258544921875
+Total loss: -1.1596e+04
+exec time: 0.6871943394343059 min
+time_remaining: 4 hours 52.17345150468316 min
+epoch 66
+Current Ecrit 22463.467352808282 grad: -460.17230224609375
+Total loss: -1.1629e+04
+exec time: 0.6452192664146423 min
+time_remaining: 4 hours 51.31934081037235 min
+epoch 67
+Current Ecrit 22420.258961909043 grad: -429.9310302734375
+Total loss: -1.1583e+04
+exec time: 0.7477157870928447 min
+time_remaining: 4 hours 51.12252834824943 min
+epoch 68
+Current Ecrit 22378.170976379686 grad: -482.5131530761719
+Total loss: -1.1637e+04
+exec time: 0.6984665870666504 min
+time_remaining: 4 hours 50.602118612775314 min
+epoch 69
+Current Ecrit 22333.605480357066 grad: -544.0562744140625
+Total loss: -1.1583e+04
+exec time: 0.6960416316986084 min
+time_remaining: 4 hours 50.061725384280635 min
+epoch 70
+Current Ecrit 22287.638963028512 grad: -675.7156982421875
+Total loss: -1.1621e+04
+exec time: 0.6958466529846191 min
+time_remaining: 4 hours 49.51576958290275 min
+epoch 71
+Current Ecrit 22241.61431127092 grad: -357.5220031738281
+Total loss: -1.1597e+04
+exec time: 0.6494981090227763 min
+time_remaining: 4 hours 48.69013380209594 min
+epoch 72
+Current Ecrit 22196.758686863086 grad: -422.00616455078125
+Total loss: -1.1592e+04
+exec time: 0.6466388463973999 min
+time_remaining: 4 hours 47.85259898296766 min
+epoch 73
+Current Ecrit 22154.91899534162 grad: -442.25830078125
+Total loss: -1.1611e+04
+exec time: 0.6431702891985576 min
+time_remaining: 4 hours 47.00025587436306 min
+epoch 74
+Current Ecrit 22116.887968284485 grad: -270.12493896484375
+Total loss: -1.1612e+04
+exec time: 0.6360619346300761 min
+time_remaining: 4 hours 46.11321003172122 min
+epoch 75
+Current Ecrit 22077.45201603665 grad: -398.1844482421875
+Total loss: -1.1627e+04
+exec time: 0.634214989344279 min
+time_remaining: 4 hours 45.22246501822218 min
+epoch 76
+Current Ecrit 22041.064147487425 grad: -296.167724609375
+Total loss: -1.1594e+04
+exec time: 0.631132698059082 min
+time_remaining: 4 hours 44.321450535043425 min
+epoch 77
+Current Ecrit 22005.312457839547 grad: -360.187744140625
+Total loss: -1.1623e+04
+exec time: 0.6339173833529155 min
+time_remaining: 4 hours 43.44242195909851 min
+epoch 78
+Current Ecrit 21970.138768691268 grad: -584.1080932617188
+Total loss: -1.1601e+04
+exec time: 0.64767454067866 min
+time_remaining: 4 hours 42.64291218846154 min
+epoch 79
+Current Ecrit 21931.71946474684 grad: -427.57330322265625
+Total loss: -1.1630e+04
+exec time: 0.6342744946479797 min
+time_remaining: 4 hours 41.77684805691234 min
+epoch 80
+Current Ecrit 21897.71617714458 grad: -344.54986572265625
+Total loss: -1.1598e+04
+exec time: 0.637126084168752 min
+time_remaining: 4 hours 40.93125794120277 min
+epoch 81
+Current Ecrit 21865.106892087024 grad: -405.5708312988281
+Total loss: -1.1636e+04
+exec time: 0.7489240288734436 min
+time_remaining: 4 hours 40.66064915414739 min
+epoch 82
+Current Ecrit 21829.63348963848 grad: -246.836181640625
+Total loss: -1.1570e+04
+exec time: 0.8033335367838542 min
+time_remaining: 4 hours 40.651873310646295 min
+epoch 83
+Current Ecrit 21795.708616411546 grad: -323.38031005859375
+Total loss: -1.1665e+04
+exec time: 0.6830457131067912 min
+time_remaining: 4 hours 40.02846830004728 min
+epoch 84
+Current Ecrit 21763.436604622708 grad: -787.239013671875
+Total loss: -1.1587e+04
+exec time: 0.7991358876228333 min
+time_remaining: 4 hours 39.970453183791165 min
+epoch 85
+Current Ecrit 21726.537388559464 grad: -365.0107727050781
+Total loss: -1.1603e+04
+exec time: 0.6981756488482157 min
+time_remaining: 4 hours 39.40918480712304 min
+epoch 86
+Current Ecrit 21687.790483489578 grad: -558.9513549804688
+Total loss: -1.1604e+04
+exec time: 0.6473659038543701 min
+time_remaining: 4 hours 38.6035688531353 min
+epoch 87
+Current Ecrit 21645.230176238227 grad: -411.82281494140625
+Total loss: -1.1575e+04
+exec time: 0.6524519244829814 min
+time_remaining: 4 hours 37.82536131504804 min
+epoch 88
+Current Ecrit 21604.47812990875 grad: -504.7637634277344
+Total loss: -1.1632e+04
+exec time: 0.6440242886543274 min
+time_remaining: 4 hours 37.01106111293427 min
+epoch 89
+Current Ecrit 21566.93332777253 grad: -313.48486328125
+Total loss: -1.1568e+04
+exec time: 0.7185350179672241 min
+time_remaining: 4 hours 36.539982586878295 min
+epoch 90
+Current Ecrit 21532.08971252325 grad: -473.48944091796875
+Total loss: -1.1674e+04
+exec time: 0.6318139235178629 min
+time_remaining: 4 hours 35.673697021112275 min
+epoch 91
+Current Ecrit 21495.917732154823 grad: -494.44879150390625
+Total loss: -1.1571e+04
+exec time: 0.6604657014211018 min
+time_remaining: 4 hours 34.93957307131393 min
+epoch 92
+Current Ecrit 21458.107424441463 grad: -297.5381164550781
+Total loss: -1.1633e+04
+exec time: 0.6347494482994079 min
+time_remaining: 4 hours 34.094489997603944 min
+epoch 93
+Current Ecrit 21423.333082967667 grad: -255.5129852294922
+Total loss: -1.1611e+04
+exec time: 0.6674843470255534 min
+time_remaining: 4 hours 33.395269010422055 min
+epoch 94
+Current Ecrit 21393.10690339854 grad: -525.385498046875
+Total loss: -1.1637e+04
+exec time: 0.647826365629832 min
+time_remaining: 4 hours 32.612911084451184 min
+epoch 95
+Current Ecrit 21363.036316602407 grad: -411.8514709472656
+Total loss: -1.1595e+04
+exec time: 0.6629018068313599 min
+time_remaining: 4 hours 31.896798381043766 min
+epoch 96
+Current Ecrit 21331.333942608086 grad: -328.2928771972656
+Total loss: -1.1624e+04
+exec time: 0.6355025013287862 min
+time_remaining: 4 hours 31.067948581508745 min
+epoch 97
+Current Ecrit 21300.709742453775 grad: -228.70391845703125
+Total loss: -1.1615e+04
+exec time: 0.6320249478022257 min
+time_remaining: 4 hours 30.22877957869548 min
+epoch 98
+Current Ecrit 21268.584260632164 grad: -498.18109130859375
+Total loss: -1.1612e+04
+exec time: 0.6362253705660502 min
+time_remaining: 4 hours 29.410809137885394 min
+epoch 99
+Current Ecrit 21234.16724502669 grad: -491.1286926269531
+Total loss: -1.1611e+04
+exec time: 0.6459467689196269 min
+time_remaining: 4 hours 28.63535919189451 min
+epoch 100
+Current Ecrit 21200.202070113668 grad: -603.18310546875
+Total loss: -1.1606e+04
+exec time: 0.6568861643473307 min
+time_remaining: 4 hours 27.90568969273329 min
+epoch 101
+Current Ecrit 21166.485674380798 grad: -532.385498046875
+Total loss: -1.1600e+04
+exec time: 0.6298313856124877 min
+time_remaining: 4 hours 27.071880632132434 min
+epoch 102
+Current Ecrit 21134.453332216857 grad: -204.98570251464844
+Total loss: -1.1638e+04
+exec time: 0.6347041447957357 min
+time_remaining: 4 hours 26.260813714693995 min
+epoch 103
+Current Ecrit 21104.007375375393 grad: -246.84146118164062
+Total loss: -1.1620e+04
+exec time: 0.6353985269864401 min
+time_remaining: 4 hours 25.455782382763346 min
+epoch 104
+Current Ecrit 21073.80420464245 grad: -571.475830078125
+Total loss: -1.1612e+04
+exec time: 0.6623738050460816 min
+time_remaining: 4 hours 24.75546057886544 min
+epoch 105
+Current Ecrit 21044.919406326306 grad: -357.1641845703125
+Total loss: -1.1621e+04
+exec time: 0.688166332244873 min
+time_remaining: 4 hours 24.151725111892347 min
+epoch 106
+Current Ecrit 21018.094294639603 grad: -365.6361999511719
+Total loss: -1.1604e+04
+exec time: 0.6821096499760946 min
+time_remaining: 4 hours 23.524165926581247 min
+epoch 107
+Current Ecrit 20988.710130087897 grad: -264.032470703125
+Total loss: -1.1604e+04
+exec time: 0.619924795627594 min
+time_remaining: 4 hours 22.66988855762247 min
+epoch 108
+Current Ecrit 20961.34604547603 grad: -379.2381286621094
+Total loss: -1.1623e+04
+exec time: 0.624369990825653 min
+time_remaining: 4 hours 21.83585684434354 min
+epoch 109
+Current Ecrit 20931.605222960836 grad: -633.1727294921875
+Total loss: -1.1585e+04
+exec time: 0.6181538701057434 min
+time_remaining: 4 hours 20.98359818892044 min
+epoch 110
+Current Ecrit 20902.150919534342 grad: -345.3344421386719
+Total loss: -1.1613e+04
+exec time: 0.6141533255577087 min
+time_remaining: 4 hours 20.121537711348253 min
+epoch 111
+Current Ecrit 20879.298384575555 grad: -231.43789672851562
+Total loss: -1.1633e+04
+exec time: 0.6147447983423869 min
+time_remaining: 4 hours 19.26595317792328 min
+epoch 112
+Current Ecrit 20853.021843567632 grad: -344.18060302734375
+Total loss: -1.1624e+04
+exec time: 0.6150469183921814 min
+time_remaining: 4 hours 18.415665989006527 min
+epoch 113
+Current Ecrit 20826.596789538053 grad: -410.2840881347656
+Total loss: -1.1645e+04
+exec time: 0.6135077118873596 min
+time_remaining: 4 hours 17.56429412316163 min
+epoch 114
+Current Ecrit 20798.972234414916 grad: -64.65056610107422
+Total loss: -1.1618e+04
+exec time: 0.6196112712224324 min
+time_remaining: 4 hours 16.737492680376874 min
+epoch 115
+Current Ecrit 20771.775282721974 grad: -342.20343017578125
+Total loss: -1.1613e+04
+exec time: 0.6218661427497864 min
+time_remaining: 4 hours 15.921727884226925 min
+epoch 116
+Current Ecrit 20751.909367731325 grad: -133.7599639892578
+Total loss: -1.1631e+04
+exec time: 0.6127765893936157 min
+time_remaining: 4 hours 15.079522903216883 min
+epoch 117
+Current Ecrit 20732.23356856938 grad: -422.86724853515625
+Total loss: -1.1604e+04
+exec time: 0.6162043491999308 min
+time_remaining: 4 hours 14.252303185166625 min
+epoch 118
+Current Ecrit 20708.51493651605 grad: -314.63922119140625
+Total loss: -1.1625e+04
+exec time: 0.6123678008715312 min
+time_remaining: 4 hours 13.416346541272503 min
+epoch 119
+Current Ecrit 20685.802032595835 grad: -340.19854736328125
+Total loss: -1.1634e+04
+exec time: 0.6137478470802307 min
+time_remaining: 4 hours 12.58848652442299 min
+epoch 120
+Current Ecrit 20665.078729960358 grad: -172.4521026611328
+Total loss: -1.1634e+04
+exec time: 0.6146354715029398 min
+time_remaining: 4 hours 11.766945796794516 min
+epoch 121
+Current Ecrit 20644.938497705854 grad: -199.74163818359375
+Total loss: -1.1615e+04
+exec time: 0.6154601732889812 min
+time_remaining: 4 hours 10.951352182177288 min
+epoch 122
+Current Ecrit 20623.52866391141 grad: -274.1054992675781
+Total loss: -1.1630e+04
+exec time: 0.6129171053568522 min
+time_remaining: 4 hours 10.131218163269352 min
+epoch 123
+Current Ecrit 20602.076507376707 grad: -258.62457275390625
+Total loss: -1.1629e+04
+exec time: 0.6102056503295898 min
+time_remaining: 4 hours 9.306204521271525 min
+epoch 124
+Current Ecrit 20580.84962823659 grad: -227.8759765625
+Total loss: -1.1603e+04
+exec time: 0.6089063803354899 min
+time_remaining: 4 hours 8.48072999715805 min
+epoch 125
+Current Ecrit 20561.089963687766 grad: -425.7353210449219
+Total loss: -1.1636e+04
+exec time: 0.6107634663581848 min
+time_remaining: 4 hours 7.664205365584678 min
+epoch 126
+Current Ecrit 20540.583108882838 grad: -169.28912353515625
+Total loss: -1.1617e+04
+exec time: 0.609968900680542 min
+time_remaining: 4 hours 6.848587421670061 min
+epoch 127
+Current Ecrit 20519.541929332776 grad: -310.2796325683594
+Total loss: -1.1654e+04
+exec time: 0.6041654427846272 min
+time_remaining: 4 hours 6.019316444545979 min
+epoch 128
+Current Ecrit 20499.688057191906 grad: -608.7059936523438
+Total loss: -1.1616e+04
+exec time: 0.6044721961021423 min
+time_remaining: 4 hours 5.194417688735712 min
+epoch 129
+Current Ecrit 20478.610628879924 grad: -338.3364562988281
+Total loss: -1.1626e+04
+exec time: 0.6070677081743876 min
+time_remaining: 4 hours 4.380297337434229 min
+epoch 130
+Current Ecrit 20459.12648717061 grad: -151.04344177246094
+Total loss: -1.1630e+04
+exec time: 0.6134215871493022 min
+time_remaining: 4 hours 3.587235662682332 min
+epoch 131
+Current Ecrit 20443.919787989427 grad: -245.17892456054688
+Total loss: -1.1639e+04
+exec time: 0.6154685854911804 min
+time_remaining: 4 hours 2.8026025906957557 min
+epoch 132
+Current Ecrit 20427.23005852478 grad: -175.7078399658203
+Total loss: -1.1628e+04
+exec time: 0.6141608794530232 min
+time_remaining: 4 hours 2.016904863498553 min
+epoch 133
+Current Ecrit 20409.7980982637 grad: -499.9046630859375
+Total loss: -1.1633e+04
+exec time: 0.6166112224260966 min
+time_remaining: 4 hours 1.2404601155821808 min
+epoch 134
+Current Ecrit 20392.965835148145 grad: -390.3368225097656
+Total loss: -1.1596e+04
+exec time: 0.6147460381189982 min
+time_remaining: 4 hours 0.46134036602794026 min
+epoch 135
+Current Ecrit 20372.093999259287 grad: -417.2899475097656
+Total loss: -1.1620e+04
+exec time: 0.6173667470614116 min
+time_remaining: 3 hours 59.69165212734072 min
+epoch 136
+Current Ecrit 20352.764924489493 grad: -159.12130737304688
+Total loss: -1.1613e+04
+exec time: 0.6125225385030111 min
+time_remaining: 3 hours 58.911352175343666 min
+epoch 137
+Current Ecrit 20336.165451291145 grad: 1.8110216856002808
+Total loss: -1.1617e+04
+exec time: 0.6152722517649333 min
+time_remaining: 3 hours 58.140696796011866 min
+epoch 138
+Current Ecrit 20315.773039834072 grad: -333.0842590332031
+Total loss: -1.1650e+04
+exec time: 0.6103835860888164 min
+time_remaining: 3 hours 57.35958068247899 min
+epoch 139
+Current Ecrit 20295.30932400889 grad: -159.47035217285156
+Total loss: -1.1625e+04
+exec time: 0.6110092719395955 min
+time_remaining: 3 hours 56.582512511525806 min
+epoch 140
+Current Ecrit 20276.125612883752 grad: -249.19842529296875
+Total loss: -1.1640e+04
+exec time: 0.6090465108553569 min
+time_remaining: 3 hours 55.80280240134425 min
+epoch 141
+Current Ecrit 20257.548008930484 grad: -242.31317138671875
+Total loss: -1.1612e+04
+exec time: 0.6069593667984009 min
+time_remaining: 3 hours 55.02023404909414 min
+epoch 142
+Current Ecrit 20238.593589796394 grad: -133.60560607910156
+Total loss: -1.1608e+04
+exec time: 0.6042104164759318 min
+time_remaining: 3 hours 54.2332590024788 min
+epoch 143
+Current Ecrit 20218.105033216485 grad: -309.3310241699219
+Total loss: -1.1621e+04
+exec time: 0.6048713167508443 min
+time_remaining: 3 hours 53.45045624585066 min
+epoch 144
+Current Ecrit 20197.28579443908 grad: -320.754638671875
+Total loss: -1.1632e+04
+exec time: 0.6072300434112549 min
+time_remaining: 3 hours 52.675882529527314 min
+epoch 145
+Current Ecrit 20175.240221978216 grad: -202.7295684814453
+Total loss: -1.1620e+04
+exec time: 0.6153659145037333 min
+time_remaining: 3 hours 51.92332789342697 min
+epoch 146
+Current Ecrit 20157.673052981958 grad: -275.89361572265625
+Total loss: -1.1636e+04
+exec time: 0.6129316091537476 min
+time_remaining: 3 hours 51.16679412572563 min
+epoch 147
+Current Ecrit 20138.71908407581 grad: -563.0996704101562
+Total loss: -1.1626e+04
+exec time: 0.6149759570757548 min
+time_remaining: 3 hours 50.417063160629965 min
+epoch 148
+Current Ecrit 20119.11549283305 grad: -485.0224609375
+Total loss: -1.1639e+04
+exec time: 0.6121802647908529 min
+time_remaining: 3 hours 49.662555162138574 min
+epoch 149
+Current Ecrit 20100.6189894329 grad: -85.89537048339844
+Total loss: -1.1632e+04
+exec time: 0.6193579157193502 min
+time_remaining: 3 hours 48.92669271892967 min
+epoch 150
+Current Ecrit 20086.42192373806 grad: -310.31585693359375
+Total loss: -1.1653e+04
+exec time: 0.6167155424753825 min
+time_remaining: 3 hours 48.186266175011156 min
+epoch 151
+Current Ecrit 20074.618538970113 grad: -134.39947509765625
+Total loss: -1.1647e+04
+exec time: 0.6084524393081665 min
+time_remaining: 3 hours 47.428549250176104 min
+epoch 152
+Current Ecrit 20060.120299916092 grad: -536.3082275390625
+Total loss: -1.1635e+04
+exec time: 0.6153284708658854 min
+time_remaining: 3 hours 46.688378154893826 min
+epoch 153
+Current Ecrit 20042.880567379554 grad: -73.49369812011719
+Total loss: -1.1627e+04
+exec time: 0.6170164148012797 min
+time_remaining: 3 hours 45.953620785913415 min
+epoch 154
+Current Ecrit 20025.180873460333 grad: -174.94056701660156
+Total loss: -1.1640e+04
+exec time: 0.611110532283783 min
+time_remaining: 3 hours 45.207237303641534 min
+epoch 155
+Current Ecrit 20011.1501070316 grad: -158.0354461669922
+Total loss: -1.1634e+04
+exec time: 0.6112603545188904 min
+time_remaining: 3 hours 44.462918467195664 min
+epoch 156
+Current Ecrit 19996.59455822219 grad: -173.60232543945312
+Total loss: -1.1611e+04
+exec time: 0.6198814868927002 min
+time_remaining: 3 hours 43.739129346469895 min
+epoch 157
+Current Ecrit 19980.24100540485 grad: -290.1296081542969
+Total loss: -1.1631e+04
+exec time: 0.6085667928059896 min
+time_remaining: 3 hours 42.992164212389866 min
+epoch 158
+Current Ecrit 19964.274135025615 grad: -453.0524597167969
+Total loss: -1.1630e+04
+exec time: 0.6110163489977519 min
+time_remaining: 3 hours 42.252193388648976 min
+epoch 159
+Current Ecrit 19950.65009035145 grad: -162.6122283935547
+Total loss: -1.1636e+04
+exec time: 0.6116128126780193 min
+time_remaining: 3 hours 41.51510198116301 min
+epoch 160
+Current Ecrit 19933.606939062407 grad: -450.73468017578125
+Total loss: -1.1630e+04
+exec time: 0.612900189558665 min
+time_remaining: 3 hours 40.78228000195131 min
+epoch 161
+Current Ecrit 19919.201751012497 grad: -155.21266174316406
+Total loss: -1.1649e+04
+exec time: 0.6081964294115703 min
+time_remaining: 3 hours 40.041124520576545 min
+epoch 162
+Current Ecrit 19907.214521298494 grad: -194.04017639160156
+Total loss: -1.1618e+04
+exec time: 0.6085004965464275 min
+time_remaining: 3 hours 39.302229092750025 min
+epoch 163
+Current Ecrit 19894.783647165605 grad: -478.1255187988281
+Total loss: -1.1658e+04
+exec time: 0.6129820982615153 min
+time_remaining: 3 hours 38.574105665160374 min
+epoch 164
+Current Ecrit 19879.227412475604 grad: -150.23941040039062
+Total loss: -1.1600e+04
+exec time: 0.6162740190823873 min
+time_remaining: 3 hours 37.854061486865476 min
+epoch 165
+Current Ecrit 19857.850648897296 grad: -358.9512023925781
+Total loss: -1.1608e+04
+exec time: 0.6069113691647847 min
+time_remaining: 3 hours 37.116429448606425 min
+epoch 166
+Current Ecrit 19832.518684633662 grad: -233.7332763671875
+Total loss: -1.1632e+04
+exec time: 0.618974244594574 min
+time_remaining: 3 hours 36.40441644541514 min
+epoch 167
+Current Ecrit 19806.32188353672 grad: -275.81951904296875
+Total loss: -1.1574e+04
+exec time: 0.6075520356496175 min
+time_remaining: 3 hours 35.670938585958766 min
+epoch 168
+Current Ecrit 19781.756895906903 grad: -228.18048095703125
+Total loss: -1.1666e+04
+exec time: 0.5996233065923054 min
+time_remaining: 3 hours 34.92342192371916 min
+epoch 169
+Current Ecrit 19762.707061094 grad: -88.96693420410156
+Total loss: -1.1633e+04
+exec time: 0.603965413570404 min
+time_remaining: 3 hours 34.186073979209425 min
+epoch 170
+Current Ecrit 19744.178627836754 grad: -401.826904296875
+Total loss: -1.1609e+04
+exec time: 0.6082743724187215 min
+time_remaining: 3 hours 33.45857640033108 min
+epoch 171
+Current Ecrit 19724.00393017447 grad: -578.7454223632812
+Total loss: -1.1661e+04
+exec time: 0.6065011382102966 min
+time_remaining: 3 hours 32.72908362140947 min
+epoch 172
+Current Ecrit 19701.40748472146 grad: -344.6049499511719
+Total loss: -1.1596e+04
+exec time: 0.6091337879498799 min
+time_remaining: 3 hours 32.00598887570331 min
+epoch 173
+Current Ecrit 19680.418270707916 grad: -165.65618896484375
+Total loss: -1.1632e+04
+exec time: 0.608209753036499 min
+time_remaining: 3 hours 31.282472788237044 min
+epoch 174
+Current Ecrit 19662.00163542251 grad: -86.64520263671875
+Total loss: -1.1642e+04
+exec time: 0.6065517743428548 min
+time_remaining: 3 hours 30.557195384161844 min
+epoch 175
+Current Ecrit 19645.144864473583 grad: -77.1677017211914
+Total loss: -1.1634e+04
+exec time: 0.6093578974405924 min
+time_remaining: 3 hours 29.838432952490734 min
+epoch 176
+Current Ecrit 19628.07743213271 grad: -336.7183837890625
+Total loss: -1.1650e+04
+exec time: 0.6075994888941447 min
+time_remaining: 3 hours 29.11769788301143 min
+epoch 177
+Current Ecrit 19609.625947349803 grad: -387.2961730957031
+Total loss: -1.1637e+04
+exec time: 0.6106473008791605 min
+time_remaining: 3 hours 28.40374745746675 min
+epoch 178
+Current Ecrit 19590.130953431173 grad: -151.73675537109375
+Total loss: -1.1611e+04
+exec time: 0.6132324616114299 min
+time_remaining: 3 hours 27.695587215410228 min
+epoch 179
+Current Ecrit 19571.418676066354 grad: -276.317138671875
+Total loss: -1.1668e+04
+exec time: 0.6075681885083516 min
+time_remaining: 3 hours 26.978411907619886 min
+epoch 180
+Current Ecrit 19551.237938385642 grad: -410.3648986816406
+Total loss: -1.1607e+04
+exec time: 0.6142676115036011 min
+time_remaining: 3 hours 26.274254998581142 min
+epoch 181
+Current Ecrit 19529.52176885858 grad: -191.29588317871094
+Total loss: -1.1627e+04
+exec time: 0.6128725330034892 min
+time_remaining: 3 hours 25.568648329278915 min
+epoch 182
+Current Ecrit 19510.056080782124 grad: -218.01528930664062
+Total loss: -1.1628e+04
+exec time: 0.6067470232645671 min
+time_remaining: 3 hours 24.853444292137112 min
+epoch 183
+Current Ecrit 19491.234316897757 grad: -352.460205078125
+Total loss: -1.1624e+04
+exec time: 0.6154223759969075 min
+time_remaining: 3 hours 24.1543181109256 min
+epoch 184
+Current Ecrit 19473.835921752034 grad: -238.5333709716797
+Total loss: -1.1665e+04
+exec time: 0.6098267833391825 min
+time_remaining: 3 hours 23.44656920497482 min
+epoch 185
+Current Ecrit 19457.760586717468 grad: -475.43450927734375
+Total loss: -1.1634e+04
+exec time: 0.6088893135388692 min
+time_remaining: 3 hours 22.73829061476559 min
+epoch 186
+Current Ecrit 19441.40300215245 grad: -150.8614501953125
+Total loss: -1.1626e+04
+exec time: 0.6030826528867086 min
+time_remaining: 3 hours 22.021355841504004 min
+epoch 187
+Current Ecrit 19425.45649744161 grad: -220.10316467285156
+Total loss: -1.1628e+04
+exec time: 0.5995106736818949 min
+time_remaining: 3 hours 21.29970429552364 min
+epoch 188
+Current Ecrit 19408.23853346842 grad: -364.5311279296875
+Total loss: -1.1613e+04
+exec time: 0.6114480098088583 min
+time_remaining: 3 hours 20.598988163723504 min
+epoch 189
+Current Ecrit 19391.607391597132 grad: -255.40725708007812
+Total loss: -1.1662e+04
+exec time: 0.6129438281059265 min
+time_remaining: 3 hours 19.90165224200797 min
+epoch 190
+Current Ecrit 19372.63183312815 grad: -124.76031494140625
+Total loss: -1.1589e+04
+exec time: 0.6147484342257182 min
+time_remaining: 3 hours 19.208119500806788 min
+epoch 191
+Current Ecrit 19355.7062722093 grad: -304.08575439453125
+Total loss: -1.1650e+04
+exec time: 0.6015666246414184 min
+time_remaining: 3 hours 18.494261609928515 min
+epoch 192
+Current Ecrit 19336.97396548632 grad: -285.8079833984375
+Total loss: -1.1603e+04
+exec time: 0.6114497661590577 min
+time_remaining: 3 hours 17.79728821116612 min
+epoch 193
+Current Ecrit 19315.593756872506 grad: -12.63864803314209
+Total loss: -1.1618e+04
+exec time: 0.617266074816386 min
+time_remaining: 3 hours 17.110370676910748 min
+epoch 194
+Current Ecrit 19298.689920358676 grad: -246.8318328857422
+Total loss: -1.1671e+04
+exec time: 0.6095640023549398 min
+time_remaining: 3 hours 16.412120685312516 min
+epoch 195
+Current Ecrit 19281.292594971543 grad: -535.2437133789062
+Total loss: -1.1621e+04
+exec time: 0.61278795003891 min
+time_remaining: 3 hours 15.719776061440768 min
+epoch 196
+Current Ecrit 19259.969615273025 grad: -213.17100524902344
+Total loss: -1.1635e+04
+exec time: 0.6160992225011189 min
+time_remaining: 3 hours 15.03333209190265 min
+epoch 197
+Current Ecrit 19239.185928481875 grad: -283.0544738769531
+Total loss: -1.1659e+04
+exec time: 0.6064541379610697 min
+time_remaining: 3 hours 14.332887485813956 min
+epoch 198
+Current Ecrit 19218.604616128967 grad: -190.9649658203125
+Total loss: -1.1634e+04
+exec time: 0.6105102062225342 min
+time_remaining: 3 hours 13.639522565569308 min
+epoch 199
+Current Ecrit 19198.595871216527 grad: -372.4466552734375
+Total loss: -1.1613e+04
+exec time: 0.6111034075419108 min
+time_remaining: 3 hours 12.947875994443876 min
+epoch 200
+Current Ecrit 19179.408336335848 grad: -220.82843017578125
+Total loss: -1.1656e+04
+exec time: 0.6160427610079448 min
+time_remaining: 3 hours 12.264378443286205 min
+epoch 201
+Current Ecrit 19162.33029589429 grad: -47.42815017700195
+Total loss: -1.1644e+04
+exec time: 0.6116433223088582 min
+time_remaining: 3 hours 11.575058500286787 min
+epoch 202
+Current Ecrit 19146.024588076085 grad: -405.3362121582031
+Total loss: -1.1619e+04
+exec time: 0.6053177873293559 min
+time_remaining: 3 hours 10.877249243752686 min
+epoch 203
+Current Ecrit 19131.575313992682 grad: -317.6802673339844
+Total loss: -1.1643e+04
+exec time: 0.6010733445485433 min
+time_remaining: 3 hours 10.174188163077929 min
+epoch 204
+Current Ecrit 19116.428025060097 grad: -417.9774475097656
+Total loss: -1.1616e+04
+exec time: 0.6157317558924357 min
+time_remaining: 3 hours 9.493215896152861 min
+epoch 205
+Current Ecrit 19104.98804049453 grad: -42.80160903930664
+Total loss: -1.1672e+04
+exec time: 0.611266577243805 min
+time_remaining: 3 hours 8.806504398642232 min
+epoch 206
+Current Ecrit 19096.154718006197 grad: -140.1068115234375
+Total loss: -1.1618e+04
+exec time: 0.6107842842737834 min
+time_remaining: 3 hours 8.11983917166458 min
+epoch 207
+Current Ecrit 19084.43483319173 grad: -47.489959716796875
+Total loss: -1.1658e+04
+exec time: 0.6117200533548991 min
+time_remaining: 3 hours 7.435217244961308 min
+epoch 208
+Current Ecrit 19073.643971687983 grad: -52.310760498046875
+Total loss: -1.1613e+04
+exec time: 0.6064836462338765 min
+time_remaining: 3 hours 6.744002061198188 min
+epoch 209
+Current Ecrit 19061.386088577015 grad: -229.97286987304688
+Total loss: -1.1642e+04
+exec time: 0.6043710788091023 min
+time_remaining: 3 hours 6.050676489443987 min
+epoch 210
+Current Ecrit 19048.442428338378 grad: -342.3404541015625
+Total loss: -1.1657e+04
+exec time: 0.6031739672025045 min
+time_remaining: 3 hours 5.356554442484054 min
+epoch 211
+Current Ecrit 19036.37807694593 grad: -245.2584228515625
+Total loss: -1.1632e+04
+exec time: 0.6105939785639445 min
+time_remaining: 3 hours 4.67337041171092 min
+epoch 212
+Current Ecrit 19021.010005842087 grad: -286.3314208984375
+Total loss: -1.1617e+04
+exec time: 0.6083155155181885 min
+time_remaining: 3 hours 3.9877979359156654 min
+epoch 213
+Current Ecrit 19005.030693948156 grad: -99.37682342529297
+Total loss: -1.1660e+04
+exec time: 0.6069145798683167 min
+time_remaining: 3 hours 3.3010752093012172 min
+epoch 214
+Current Ecrit 18994.070715224203 grad: -42.93671798706055
+Total loss: -1.1619e+04
+exec time: 0.6110851645469666 min
+time_remaining: 3 hours 2.6206233335096556 min
+epoch 215
+Current Ecrit 18987.036128211977 grad: -279.3717041015625
+Total loss: -1.1652e+04
+exec time: 0.614121143023173 min
+time_remaining: 3 hours 1.9448054915593218 min
+epoch 216
+Current Ecrit 18979.64871477951 grad: -116.65835571289062
+Total loss: -1.1626e+04
+exec time: 0.612425708770752 min
+time_remaining: 3 hours 1.2673451864957883 min
+epoch 217
+Current Ecrit 18975.6033663408 grad: -3.107988119125366
+Total loss: -1.1652e+04
+exec time: 0.6032630324363708 min
+time_remaining: 3 hours 0.5786288927454848 min
+epoch 218
+Current Ecrit 18969.750063714902 grad: -194.93753051757812
+Total loss: -1.1621e+04
+exec time: 0.6112352212270101 min
+time_remaining: 2 hours 59.900922149555896 min
+epoch 219
+Current Ecrit 18961.803327749483 grad: -26.659645080566406
+Total loss: -1.1653e+04
+exec time: 0.5977840622266134 min
+time_remaining: 2 hours 59.20670003602004 min
+epoch 220
+Current Ecrit 18952.770946291625 grad: -307.7568359375
+Total loss: -1.1642e+04
+exec time: 0.610772975285848 min
+time_remaining: 2 hours 58.529748433100224 min
+epoch 221
+Current Ecrit 18943.758566399076 grad: -87.88027954101562
+Total loss: -1.1650e+04
+exec time: 0.6055232365926106 min
+time_remaining: 2 hours 57.84681903693058 min
+epoch 222
+Current Ecrit 18931.683272252772 grad: 80.50341033935547
+Total loss: -1.1624e+04
+exec time: 0.6008580962816874 min
+time_remaining: 2 hours 57.158789050864186 min
+epoch 223
+Current Ecrit 18920.427528374978 grad: -55.59336471557617
+Total loss: -1.1652e+04
+exec time: 0.6057703852653503 min
+time_remaining: 2 hours 56.4775900270258 min
+epoch 224
+Current Ecrit 18909.18353792822 grad: -89.87639617919922
+Total loss: -1.1637e+04
+exec time: 0.6103098909060161 min
+time_remaining: 2 hours 55.80260976464663 min
+epoch 225
+Current Ecrit 18898.79088874453 grad: -188.64834594726562
+Total loss: -1.1614e+04
+exec time: 0.6132055123647054 min
+time_remaining: 2 hours 55.13171242714634 min
+epoch 226
+Current Ecrit 18885.43088630609 grad: -415.0322570800781
+Total loss: -1.1633e+04
+exec time: 0.612013022104899 min
+time_remaining: 2 hours 54.45988924739643 min
+epoch 227
+Current Ecrit 18872.62802134634 grad: -259.7105712890625
+Total loss: -1.1650e+04
+exec time: 0.6121923327445984 min
+time_remaining: 2 hours 53.78880463259961 min
+epoch 228
+Current Ecrit 18859.204892772348 grad: -259.2991638183594
+Total loss: -1.1595e+04
+exec time: 0.6158979972203572 min
+time_remaining: 2 hours 53.122619666872765 min
+epoch 229
+Current Ecrit 18846.04423834321 grad: -260.64459228515625
+Total loss: -1.1660e+04
+exec time: 0.6062015453974406 min
+time_remaining: 2 hours 52.44548918786259 min
+epoch 230
+Current Ecrit 18834.22677424574 grad: -99.38005065917969
+Total loss: -1.1611e+04
+exec time: 0.6102747718493143 min
+time_remaining: 2 hours 51.7737160931934 min
+epoch 231
+Current Ecrit 18819.51434553139 grad: -400.5716247558594
+Total loss: -1.1621e+04
+exec time: 0.6093065937360128 min
+time_remaining: 2 hours 51.10135474383148 min
+epoch 232
+Current Ecrit 18802.239819684317 grad: -261.2835388183594
+Total loss: -1.1652e+04
+exec time: 0.6201492985089619 min
+time_remaining: 2 hours 50.44195953904307 min
+epoch 233
+Current Ecrit 18783.418059280455 grad: -169.46856689453125
+Total loss: -1.1634e+04
+exec time: 0.6176636457443238 min
+time_remaining: 2 hours 49.7800741982596 min
+epoch 234
+Current Ecrit 18765.436174803577 grad: -224.24014282226562
+Total loss: -1.1651e+04
+exec time: 0.6182728012402853 min
+time_remaining: 2 hours 49.11925213235497 min
+epoch 235
+Current Ecrit 18753.585479052304 grad: -138.34852600097656
+Total loss: -1.1668e+04
+exec time: 0.6208812594413757 min
+time_remaining: 2 hours 48.4617085897317 min
+epoch 236
+Current Ecrit 18742.065380023723 grad: -209.63536071777344
+Total loss: -1.1612e+04
+exec time: 0.6088687340418498 min
+time_remaining: 2 hours 47.79114407827424 min
+epoch 237
+Current Ecrit 18731.40173893531 grad: -245.1787109375
+Total loss: -1.1641e+04
+exec time: 0.6043656706809998 min
+time_remaining: 2 hours 47.116140864943986 min
+epoch 238
+Current Ecrit 18718.99602882957 grad: -312.8885498046875
+Total loss: -1.1630e+04
+exec time: 0.6110217054684957 min
+time_remaining: 2 hours 46.44899748493941 min
+epoch 239
+Current Ecrit 18707.504078778828 grad: -19.368236541748047
+Total loss: -1.1636e+04
+exec time: 0.613987139860789 min
+time_remaining: 2 hours 45.78553433948099 min
+epoch 240
+Current Ecrit 18697.15577084984 grad: -331.3535461425781
+Total loss: -1.1652e+04
+exec time: 0.606769343217214 min
+time_remaining: 2 hours 45.114724898091055 min
+epoch 241
+Current Ecrit 18686.015458621576 grad: -155.65187072753906
+Total loss: -1.1657e+04
+exec time: 0.6025381843249004 min
+time_remaining: 2 hours 44.43993380877606 min
+epoch 242
+Current Ecrit 18672.28514907551 grad: -211.33763122558594
+Total loss: -1.1597e+04
+exec time: 0.6050926764806112 min
+time_remaining: 2 hours 43.76843905811941 min
+epoch 243
+Current Ecrit 18655.668276663844 grad: -397.5440979003906
+Total loss: -1.1643e+04
+exec time: 0.6003922700881958 min
+time_remaining: 2 hours 43.09255701283948 min
+epoch 244
+Current Ecrit 18637.453952676642 grad: 9.879755020141602
+Total loss: -1.1625e+04
+exec time: 0.6011433204015096 min
+time_remaining: 2 hours 42.41807291605045 min
+epoch 245
+Current Ecrit 18621.596126211818 grad: -73.8525161743164
+Total loss: -1.1615e+04
+exec time: 0.6028397758801778 min
+time_remaining: 2 hours 41.7459367104986 min
+epoch 246
+Current Ecrit 18607.69786359837 grad: -223.39393615722656
+Total loss: -1.1689e+04
+exec time: 0.5999391277631124 min
+time_remaining: 2 hours 41.07139050043557 min
+epoch 247
+Current Ecrit 18598.27904524322 grad: -246.61756896972656
+Total loss: -1.1646e+04
+exec time: 0.6004826108614604 min
+time_remaining: 2 hours 40.397998209345815 min
+epoch 248
+Current Ecrit 18587.605869684372 grad: 11.684661865234375
+Total loss: -1.1619e+04
+exec time: 0.6037310202916463 min
+time_remaining: 2 hours 39.72846603924975 min
+epoch 249
+Current Ecrit 18578.179180204606 grad: -184.11056518554688
+Total loss: -1.1648e+04
+exec time: 0.6021024664243062 min
+time_remaining: 2 hours 39.05783172448483 min
+epoch 250
+Current Ecrit 18565.38892009431 grad: -35.33326721191406
+Total loss: -1.1661e+04
+exec time: 0.6115474025408427 min
+time_remaining: 2 hours 38.397113157886025 min
+epoch 251
+Current Ecrit 18554.43159029812 grad: -201.27442932128906
+Total loss: -1.1631e+04
+exec time: 0.6036262313524882 min
+time_remaining: 2 hours 37.728989400308706 min
+epoch 252
+Current Ecrit 18547.684475990478 grad: -19.580259323120117
+Total loss: -1.1648e+04
+exec time: 0.6117473006248474 min
+time_remaining: 2 hours 37.069303979342834 min
+epoch 253
+Current Ecrit 18545.05099746536 grad: 55.3159065246582
+Total loss: -1.1636e+04
+exec time: 0.606783652305603 min
+time_remaining: 2 hours 36.405188710952416 min
+epoch 254
+Current Ecrit 18543.220335450806 grad: -238.5184326171875
+Total loss: -1.1666e+04
+exec time: 0.6082638700803121 min
+time_remaining: 2 hours 35.74294527231487 min
+epoch 255
+Current Ecrit 18538.986071299754 grad: -491.6147155761719
+Total loss: -1.1653e+04
+exec time: 0.6102946718533834 min
+time_remaining: 2 hours 35.08305915699657 min
+epoch 256
+Current Ecrit 18530.914502315212 grad: -298.4574279785156
+Total loss: -1.1644e+04
+exec time: 0.6051208893458049 min
+time_remaining: 2 hours 34.41866702509304 min
+epoch 257
+Current Ecrit 18520.852432897358 grad: -143.33937072753906
+Total loss: -1.1620e+04
+exec time: 0.6156494140625 min
+time_remaining: 2 hours 33.76460995313738 min
+epoch 258
+Current Ecrit 18511.434216152375 grad: -175.4152374267578
+Total loss: -1.1661e+04
+exec time: 0.6169118404388427 min
+time_remaining: 2 hours 33.112024155592906 min
+epoch 259
+Current Ecrit 18505.8419694455 grad: -112.6950912475586
+Total loss: -1.1659e+04
+exec time: 0.6120357751846314 min
+time_remaining: 2 hours 32.455211789791434 min
+epoch 260
+Current Ecrit 18499.055592106553 grad: 183.0951385498047
+Total loss: -1.1601e+04
+exec time: 0.6111490488052368 min
+time_remaining: 2 hours 31.797930556467293 min
+epoch 261
+Current Ecrit 18492.306781280473 grad: -187.90036010742188
+Total loss: -1.1635e+04
+exec time: 0.6111969391504923 min
+time_remaining: 2 hours 31.14104498066672 min
+epoch 262
+Current Ecrit 18484.759601272515 grad: -151.4236602783203
+Total loss: -1.1679e+04
+exec time: 0.6083528836568196 min
+time_remaining: 2 hours 30.48194395285597 min
+epoch 263
+Current Ecrit 18478.300140105093 grad: -301.2736511230469
+Total loss: -1.1605e+04
+exec time: 0.613145120938619 min
+time_remaining: 2 hours 29.827511350374067 min
+epoch 264
+Current Ecrit 18471.677952932594 grad: -274.8270568847656
+Total loss: -1.1631e+04
+exec time: 0.6057805776596069 min
+time_remaining: 2 hours 29.16685953012808 min
+epoch 265
+Current Ecrit 18466.69314625459 grad: -210.09942626953125
+Total loss: -1.1654e+04
+exec time: 0.6055943290392558 min
+time_remaining: 2 hours 28.50645643284446 min
+epoch 266
+Current Ecrit 18460.595836630004 grad: -131.9971466064453
+Total loss: -1.1648e+04
+exec time: 0.6121167858441671 min
+time_remaining: 2 hours 27.852155769913082 min
+epoch 267
+Current Ecrit 18454.340263809474 grad: -161.42030334472656
+Total loss: -1.1641e+04
+exec time: 0.6053148627281189 min
+time_remaining: 2 hours 27.192281680083425 min
+epoch 268
+Current Ecrit 18447.630211509782 grad: -324.9320983886719
+Total loss: -1.1636e+04
+exec time: 0.610432231426239 min
+time_remaining: 2 hours 26.537207704095636 min
+epoch 269
+Current Ecrit 18438.09806663578 grad: -346.74755859375
+Total loss: -1.1625e+04
+exec time: 0.6174574454625448 min
+time_remaining: 2 hours 25.88844884928369 min
+epoch 270
+Current Ecrit 18425.33965550605 grad: -230.8452911376953
+Total loss: -1.1642e+04
+exec time: 0.6126559098561605 min
+time_remaining: 2 hours 25.23586361500614 min
+epoch 271
+Current Ecrit 18415.273372754415 grad: -28.66669464111328
+Total loss: -1.1653e+04
+exec time: 0.6022591431935628 min
+time_remaining: 2 hours 24.57485704194096 min
+epoch 272
+Current Ecrit 18407.782776432752 grad: -70.42314147949219
+Total loss: -1.1641e+04
+exec time: 0.6021676222483318 min
+time_remaining: 2 hours 23.914204753143878 min
+epoch 273
+Current Ecrit 18398.081296896897 grad: 177.17234802246094
+Total loss: -1.1610e+04
+exec time: 0.6058465639750162 min
+time_remaining: 2 hours 23.257013815307914 min
+epoch 274
+Current Ecrit 18392.595698928624 grad: 7.564441204071045
+Total loss: -1.1664e+04
+exec time: 0.6007383863131205 min
+time_remaining: 2 hours 22.59601687301293 min
+epoch 275
+Current Ecrit 18389.831104393175 grad: -217.93614196777344
+Total loss: -1.1664e+04
+exec time: 0.6050590872764587 min
+time_remaining: 2 hours 21.93896324277503 min
+epoch 276
+Current Ecrit 18382.721580026704 grad: -102.1511459350586
+Total loss: -1.1638e+04
+exec time: 0.6079332828521729 min
+time_remaining: 2 hours 21.284598907480444 min
+epoch 277
+Current Ecrit 18374.151131450755 grad: -18.593488693237305
+Total loss: -1.1615e+04
+exec time: 0.6145218491554261 min
+time_remaining: 2 hours 20.635829981625562 min
+epoch 278
+Current Ecrit 18365.65602425226 grad: -71.91752624511719
+Total loss: -1.1656e+04
+exec time: 0.6094428181648255 min
+time_remaining: 2 hours 19.983283379442554 min
+epoch 279
+Current Ecrit 18355.81233084097 grad: -110.42082977294922
+Total loss: -1.1613e+04
+exec time: 0.6029631932576497 min
+time_remaining: 2 hours 19.32595352757545 min
+epoch 280
+Current Ecrit 18346.687967266324 grad: -116.3403091430664
+Total loss: -1.1642e+04
+exec time: 0.60300239721934 min
+time_remaining: 2 hours 18.66904118099248 min
+epoch 281
+Current Ecrit 18337.760381532957 grad: -186.64950561523438
+Total loss: -1.1648e+04
+exec time: 0.6028998017311096 min
+time_remaining: 2 hours 18.012431863070077 min
+epoch 282
+Current Ecrit 18331.650295221374 grad: -380.9005126953125
+Total loss: -1.1658e+04
+exec time: 0.6089089989662171 min
+time_remaining: 2 hours 17.360809876710988 min
+epoch 283
+Current Ecrit 18328.673771240265 grad: -141.60145568847656
+Total loss: -1.1659e+04
+exec time: 0.6134240984916687 min
+time_remaining: 2 hours 16.712922705395158 min
+epoch 284
+Current Ecrit 18322.115717419176 grad: -322.2317810058594
+Total loss: -1.1619e+04
+exec time: 0.606406819820404 min
+time_remaining: 2 hours 16.05998364366286 min
+epoch 285
+Current Ecrit 18315.128472481076 grad: -223.7125244140625
+Total loss: -1.1678e+04
+exec time: 0.6033244411150614 min
+time_remaining: 2 hours 15.40506358696868 min
+epoch 286
+Current Ecrit 18311.435975608325 grad: -31.066484451293945
+Total loss: -1.1661e+04
+exec time: 0.6114520708719889 min
+time_remaining: 2 hours 14.75653508556843 min
+epoch 287
+Current Ecrit 18309.8519764989 grad: 43.228668212890625
+Total loss: -1.1634e+04
+exec time: 0.6078620791435242 min
+time_remaining: 2 hours 14.105621426580143 min
+epoch 288
+Current Ecrit 18309.18559192021 grad: -57.264183044433594
+Total loss: -1.1653e+04
+exec time: 0.5992700139681498 min
+time_remaining: 2 hours 13.448732602912571 min
+epoch 289
+Current Ecrit 18314.254680452428 grad: 104.44916534423828
+Total loss: -1.1647e+04
+exec time: 0.6123652696609497 min
+time_remaining: 2 hours 12.801723921710078 min
+epoch 290
+Current Ecrit 18319.59311536434 grad: 74.62814331054688
+Total loss: -1.1633e+04
+exec time: 0.6136179645856221 min
+time_remaining: 2 hours 12.15585304140913 min
+epoch 291
+Current Ecrit 18322.13704672651 grad: -363.9612121582031
+Total loss: -1.1659e+04
+exec time: 0.6051846702893575 min
+time_remaining: 2 hours 11.504195793360878 min
+epoch 292
+Current Ecrit 18317.44884060687 grad: -355.369384765625
+Total loss: -1.1629e+04
+exec time: 0.6151463747024536 min
+time_remaining: 2 hours 10.859893555445865 min
+epoch 293
+Current Ecrit 18308.246954378505 grad: -77.90966796875
+Total loss: -1.1656e+04
+exec time: 0.6084040800730387 min
+time_remaining: 2 hours 10.211065463900837 min
+epoch 294
+Current Ecrit 18303.124936897944 grad: -85.52520751953125
+Total loss: -1.1642e+04
+exec time: 0.6134017546971638 min
+time_remaining: 2 hours 9.565984393782514 min
+epoch 295
+Current Ecrit 18303.248087176013 grad: 136.56964111328125
+Total loss: -1.1678e+04
+exec time: 0.6064104914665223 min
+time_remaining: 2 hours 8.916299070055402 min
+epoch 296
+Current Ecrit 18304.938910401626 grad: -147.11514282226562
+Total loss: -1.1662e+04
+exec time: 0.608594290415446 min
+time_remaining: 2 hours 8.268397789598168 min
+epoch 297
+Current Ecrit 18303.91556010663 grad: -8.829965591430664
+Total loss: -1.1629e+04
+exec time: 0.6126639207204183 min
+time_remaining: 2 hours 7.623518922904964 min
+epoch 298
+Current Ecrit 18301.892005097772 grad: -33.02680969238281
+Total loss: -1.1632e+04
+exec time: 0.6097134947776794 min
+time_remaining: 2 hours 6.976872144096262 min
+epoch 299
+Current Ecrit 18302.51225088771 grad: -230.49742126464844
+Total loss: -1.1671e+04
+exec time: 0.6104246735572815 min
+time_remaining: 2 hours 6.330945706367487 min
+epoch 300
+Current Ecrit 18302.9805034982 grad: -154.4859161376953
+Total loss: -1.1639e+04
+exec time: 0.612048327922821 min
+time_remaining: 2 hours 5.686328606668923 min
+epoch 301
+Current Ecrit 18303.172068290096 grad: 84.47798919677734
+Total loss: -1.1616e+04
+exec time: 0.6115079164505005 min
+time_remaining: 2 hours 5.0415728846923 min
+epoch 302
+Current Ecrit 18305.334291827774 grad: -34.966552734375
+Total loss: -1.1658e+04
+exec time: 0.6098254879315694 min
+time_remaining: 2 hours 4.395942764012034 min
+epoch 303
+Current Ecrit 18305.773793534554 grad: -148.83738708496094
+Total loss: -1.1668e+04
+exec time: 0.6112231890360514 min
+time_remaining: 2 hours 3.7514493495225736 min
+epoch 304
+Current Ecrit 18305.6977536672 grad: -241.156005859375
+Total loss: -1.1643e+04
+exec time: 0.6185838222503662 min
+time_remaining: 2 hours 3.1118800790583236 min
+epoch 305
+Current Ecrit 18301.081796351926 grad: -346.6344909667969
+Total loss: -1.1619e+04
+exec time: 0.6140289704004923 min
+time_remaining: 2 hours 2.4695602518540625 min
+epoch 306
+Current Ecrit 18295.60830682019 grad: -317.5557861328125
+Total loss: -1.1654e+04
+exec time: 0.605853287378947 min
+time_remaining: 2 hours 1.8222849682668993 min
+epoch 307
+Current Ecrit 18292.49465089597 grad: 100.50863647460938
+Total loss: -1.1669e+04
+exec time: 0.608500333627065 min
+time_remaining: 2 hours 1.176928765433189 min
+epoch 308
+Current Ecrit 18291.442322981813 grad: -126.5155258178711
+Total loss: -1.1601e+04
+exec time: 0.6139516115188599 min
+time_remaining: 2 hours 0.5351806720355228 min
+epoch 309
+Current Ecrit 18288.231421357996 grad: -193.09849548339844
+Total loss: -1.1654e+04
+exec time: 0.6138127287228902 min
+time_remaining: 1 hours 59.893526789065334 min
+epoch 310
+Current Ecrit 18279.87318540686 grad: -165.47769165039062
+Total loss: -1.1654e+04
+exec time: 0.612795360883077 min
+time_remaining: 1 hours 59.25143367711371 min
+epoch 311
+Current Ecrit 18274.632137023214 grad: -107.31730651855469
+Total loss: -1.1646e+04
+exec time: 0.6141927123069764 min
+time_remaining: 1 hours 58.61037036506542 min
+epoch 312
+Current Ecrit 18269.85610811713 grad: -254.56837463378906
+Total loss: -1.1638e+04
+exec time: 0.6115026593208313 min
+time_remaining: 1 hours 57.9678715938831 min
+epoch 313
+Current Ecrit 18265.903226991555 grad: -100.45792388916016
+Total loss: -1.1663e+04
+exec time: 0.60309872229894 min
+time_remaining: 1 hours 57.3205921218653 min
+epoch 314
+Current Ecrit 18259.353692761815 grad: -209.6126708984375
+Total loss: -1.1636e+04
+exec time: 0.6132006525993348 min
+time_remaining: 1 hours 56.67952604224442 min
+epoch 315
+Current Ecrit 18250.495762456503 grad: 87.3366470336914
+Total loss: -1.1634e+04
+exec time: 0.6104940136273702 min
+time_remaining: 1 hours 56.03706030845646 min
+epoch 316
+Current Ecrit 18243.24280868357 grad: -112.13853454589844
+Total loss: -1.1648e+04
+exec time: 0.6057260831197103 min
+time_remaining: 1 hours 55.392043824376344 min
+epoch 317
+Current Ecrit 18238.320130553002 grad: -204.1125946044922
+Total loss: -1.1673e+04
+exec time: 0.6055527170499165 min
+time_remaining: 1 hours 54.74717522764607 min
+epoch 318
+Current Ecrit 18234.752095293483 grad: 49.17863845825195
+Total loss: -1.1650e+04
+exec time: 0.605655038356781 min
+time_remaining: 1 hours 54.10261118237628 min
+epoch 319
+Current Ecrit 18230.262339949863 grad: -197.10452270507812
+Total loss: -1.1612e+04
+exec time: 0.6100779811541239 min
+time_remaining: 1 hours 53.460778223723196 min
+epoch 320
+Current Ecrit 18224.83866047582 grad: -134.11317443847656
+Total loss: -1.1666e+04
+exec time: 0.6120370825131735 min
+time_remaining: 1 hours 52.820235573787414 min
+epoch 321
+Current Ecrit 18220.450210682087 grad: -285.6329040527344
+Total loss: -1.1665e+04
+exec time: 0.6202358126640319 min
+time_remaining: 1 hours 52.18440219435385 min
+epoch 322
+Current Ecrit 18213.937742653434 grad: -174.3389129638672
+Total loss: -1.1626e+04
+exec time: 0.615600570042928 min
+time_remaining: 1 hours 51.54612533872711 min
+epoch 323
+Current Ecrit 18207.159121153276 grad: 135.42184448242188
+Total loss: -1.1604e+04
+exec time: 0.6191695213317872 min
+time_remaining: 1 hours 50.909927149760904 min
+epoch 324
+Current Ecrit 18202.971661080886 grad: -143.69720458984375
+Total loss: -1.1638e+04
+exec time: 0.6130327145258586 min
+time_remaining: 1 hours 50.27052931816152 min
+epoch 325
+Current Ecrit 18196.670037546737 grad: -288.988037109375
+Total loss: -1.1661e+04
+exec time: 0.6162418365478516 min
+time_remaining: 1 hours 49.633006080016 min
+epoch 326
+Current Ecrit 18193.07922280827 grad: 147.8934326171875
+Total loss: -1.1653e+04
+exec time: 0.61306178967158 min
+time_remaining: 1 hours 48.99393059322716 min
+epoch 327
+Current Ecrit 18193.717653208627 grad: -61.612464904785156
+Total loss: -1.1613e+04
+exec time: 0.6142043670018514 min
+time_remaining: 1 hours 48.355612882947554 min
+epoch 328
+Current Ecrit 18191.30236892684 grad: -214.8504638671875
+Total loss: -1.1597e+04
+exec time: 0.6192631800969441 min
+time_remaining: 1 hours 47.72007111104429 min
+epoch 329
+Current Ecrit 18186.936057564522 grad: -344.7361755371094
+Total loss: -1.1683e+04
+exec time: 0.6130062659581502 min
+time_remaining: 1 hours 47.08140473847442 min
+epoch 330
+Current Ecrit 18178.103243085287 grad: -165.7020721435547
+Total loss: -1.1612e+04
+exec time: 0.6181272983551025 min
+time_remaining: 1 hours 46.44550807795372 min
+epoch 331
+Current Ecrit 18167.037960098907 grad: -267.5423889160156
+Total loss: -1.1649e+04
+exec time: 0.6139400005340576 min
+time_remaining: 1 hours 45.807599588187315 min
+epoch 332
+Current Ecrit 18159.351306925455 grad: -275.02301025390625
+Total loss: -1.1673e+04
+exec time: 0.6108900984128316 min
+time_remaining: 1 hours 45.168305522818 min
+epoch 333
+Current Ecrit 18153.224911955564 grad: 250.55624389648438
+Total loss: -1.1622e+04
+exec time: 0.6154654701550801 min
+time_remaining: 1 hours 44.53145552823645 min
+epoch 334
+Current Ecrit 18149.775305092648 grad: 58.830684661865234
+Total loss: -1.1629e+04
+exec time: 0.6136980652809143 min
+time_remaining: 1 hours 43.893862689608966 min
+epoch 335
+Current Ecrit 18150.252220735754 grad: 145.11241149902344
+Total loss: -1.1643e+04
+exec time: 0.6145312945048015 min
+time_remaining: 1 hours 43.25681877699165 min
+epoch 336
+Current Ecrit 18148.92618818177 grad: -374.11273193359375
+Total loss: -1.1678e+04
+exec time: 0.6048020362854004 min
+time_remaining: 1 hours 42.61520262742022 min
+epoch 337
+Current Ecrit 18144.520427783013 grad: -231.44203186035156
+Total loss: -1.1655e+04
+exec time: 0.6141586899757385 min
+time_remaining: 1 hours 41.978288862832244 min
+epoch 338
+Current Ecrit 18140.070510528312 grad: -213.8039093017578
+Total loss: -1.1637e+04
+exec time: 0.6192073225975037 min
+time_remaining: 1 hours 41.34390707464934 min
+epoch 339
+Current Ecrit 18135.04214789585 grad: 181.5908660888672
+Total loss: -1.1592e+04
+exec time: 0.604490355650584 min
+time_remaining: 1 hours 40.702688916524295 min
+epoch 340
+Current Ecrit 18129.770438287866 grad: -196.64739990234375
+Total loss: -1.1629e+04
+exec time: 0.6065598527590433 min
+time_remaining: 1 hours 40.0626511268602 min
+epoch 341
+Current Ecrit 18124.74778353003 grad: 58.57468795776367
+Total loss: -1.1672e+04
+exec time: 0.6048397779464721 min
+time_remaining: 1 hours 39.42201446015932 min
+epoch 342
+Current Ecrit 18123.304732498982 grad: -81.45878601074219
+Total loss: -1.1677e+04
+exec time: 0.6033165772755941 min
+time_remaining: 1 hours 38.780889313202465 min
+epoch 343
+Current Ecrit 18118.804128171967 grad: -42.35245895385742
+Total loss: -1.1631e+04
+exec time: 0.605876870950063 min
+time_remaining: 1 hours 38.14114504692168 min
+epoch 344
+Current Ecrit 18111.128455913728 grad: -295.19683837890625
+Total loss: -1.1646e+04
+exec time: 0.6028023441632588 min
+time_remaining: 1 hours 37.500215804231345 min
+epoch 345
+Current Ecrit 18100.745234086313 grad: -199.1491241455078
+Total loss: -1.1631e+04
+exec time: 0.6044198155403138 min
+time_remaining: 1 hours 36.86022686324367 min
+epoch 346
+Current Ecrit 18089.77538536679 grad: 172.10470581054688
+Total loss: -1.1658e+04
+exec time: 0.6045040965080262 min
+time_remaining: 1 hours 36.2204800929735 min
+epoch 347
+Current Ecrit 18080.038202528376 grad: -97.9315414428711
+Total loss: -1.1631e+04
+exec time: 0.6036677718162536 min
+time_remaining: 1 hours 35.58057057556064 min
+epoch 348
+Current Ecrit 18070.26407482061 grad: -127.35353088378906
+Total loss: -1.1655e+04
+exec time: 0.6018818140029907 min
+time_remaining: 1 hours 34.940096026232055 min
+epoch 349
+Current Ecrit 18064.37090322106 grad: -13.84471607208252
+Total loss: -1.1660e+04
+exec time: 0.6005290389060974 min
+time_remaining: 1 hours 34.29926224606379 min
+epoch 350
+Current Ecrit 18057.189633433165 grad: -247.4218292236328
+Total loss: -1.1607e+04
+exec time: 0.6117202599843343 min
+time_remaining: 1 hours 33.66340881183049 min
+epoch 351
+Current Ecrit 18049.35611595977 grad: -54.19716262817383
+Total loss: -1.1641e+04
+exec time: 0.6025424122810363 min
+time_remaining: 1 hours 33.023833630121146 min
+epoch 352
+Current Ecrit 18044.84339372631 grad: -240.1407470703125
+Total loss: -1.1690e+04
+exec time: 0.6012147506078084 min
+time_remaining: 1 hours 32.383915386861844 min
+epoch 353
+Current Ecrit 18040.78490659975 grad: 17.097043991088867
+Total loss: -1.1622e+04
+exec time: 0.6047545711199442 min
+time_remaining: 1 hours 31.74567573337677 min
+epoch 354
+Current Ecrit 18035.201746544066 grad: -2.857090711593628
+Total loss: -1.1635e+04
+exec time: 0.6029151280721029 min
+time_remaining: 1 hours 31.10687340643483 min
+epoch 355
+Current Ecrit 18032.736864796727 grad: -104.6318130493164
+Total loss: -1.1651e+04
+exec time: 0.6137315313021342 min
+time_remaining: 1 hours 30.472647867309917 min
+epoch 356
+Current Ecrit 18033.35080825293 grad: 12.863875389099121
+Total loss: -1.1678e+04
+exec time: 0.6024325688680013 min
+time_remaining: 1 hours 29.834011225629126 min
+epoch 357
+Current Ecrit 18035.0083691889 grad: 153.43789672851562
+Total loss: -1.1645e+04
+exec time: 0.6006097793579102 min
+time_remaining: 1 hours 29.194853835443325 min
+epoch 358
+Current Ecrit 18032.497792356124 grad: -188.23391723632812
+Total loss: -1.1612e+04
+exec time: 0.6053966879844666 min
+time_remaining: 1 hours 28.557791290210105 min
+epoch 359
+Current Ecrit 18028.50385914504 grad: 17.36841583251953
+Total loss: -1.1653e+04
+exec time: 0.611362115542094 min
+time_remaining: 1 hours 27.92322455490077 min
+epoch 360
+Current Ecrit 18023.70079504771 grad: -222.01126098632812
+Total loss: -1.1662e+04
+exec time: 0.6034064173698426 min
+time_remaining: 1 hours 27.285723102676144 min
+epoch 361
+Current Ecrit 18018.831034710904 grad: -145.7612762451172
+Total loss: -1.1653e+04
+exec time: 0.60516810019811 min
+time_remaining: 1 hours 26.649081601556503 min
+epoch 362
+Current Ecrit 18014.162722419867 grad: -53.27516555786133
+Total loss: -1.1636e+04
+exec time: 0.6097531000773112 min
+time_remaining: 1 hours 26.01434393455611 min
+epoch 363
+Current Ecrit 18012.774038704807 grad: -257.07086181640625
+Total loss: -1.1628e+04
+exec time: 0.6105879108111064 min
+time_remaining: 1 hours 25.380055452703147 min
+epoch 364
+Current Ecrit 18012.432422929283 grad: -50.85041809082031
+Total loss: -1.1624e+04
+exec time: 0.6066947301228841 min
+time_remaining: 1 hours 24.744456893450604 min
+epoch 365
+Current Ecrit 18009.317249399814 grad: -229.6493377685547
+Total loss: -1.1631e+04
+exec time: 0.6117257038752238 min
+time_remaining: 1 hours 24.110858219829453 min
+epoch 366
+Current Ecrit 18006.934486391023 grad: -197.95355224609375
+Total loss: -1.1664e+04
+exec time: 0.6029978394508362 min
+time_remaining: 1 hours 23.47421578591141 min
+epoch 367
+Current Ecrit 18003.112197689145 grad: 23.883298873901367
+Total loss: -1.1669e+04
+exec time: 0.6067946950594584 min
+time_remaining: 1 hours 22.83911811864897 min
+epoch 368
+Current Ecrit 17999.81056439563 grad: -321.8974304199219
+Total loss: -1.1667e+04
+exec time: 0.6132341861724854 min
+time_remaining: 1 hours 22.206459961630998 min
+epoch 369
+Current Ecrit 17996.47192580222 grad: -60.75132751464844
+Total loss: -1.1644e+04
+exec time: 0.6176480809847514 min
+time_remaining: 1 hours 21.57545762695713 min
+epoch 370
+Current Ecrit 17997.733141700475 grad: 144.62075805664062
+Total loss: -1.1653e+04
+exec time: 0.6098631064097086 min
+time_remaining: 1 hours 20.941820377962983 min
+epoch 371
+Current Ecrit 17996.862913223667 grad: -89.17716217041016
+Total loss: -1.1645e+04
+exec time: 0.6130288481712342 min
+time_remaining: 1 hours 20.3094002344275 min
+epoch 372
+Current Ecrit 17994.9875042068 grad: -0.945165753364563
+Total loss: -1.1642e+04
+exec time: 0.6142956693967183 min
+time_remaining: 1 hours 19.6775153962175 min
+epoch 373
+Current Ecrit 17998.303539804117 grad: 65.6534194946289
+Total loss: -1.1664e+04
+exec time: 0.6077198306719462 min
+time_remaining: 1 hours 19.043509228216834 min
+epoch 374
+Current Ecrit 18007.411282876965 grad: -218.91064453125
+Total loss: -1.1660e+04
+exec time: 0.6340537826220195 min
+time_remaining: 1 hours 18.418421237998587 min
+epoch 375
+Current Ecrit 18011.435626827664 grad: -174.43490600585938
+Total loss: -1.1595e+04
+exec time: 0.6400981386502583 min
+time_remaining: 1 hours 17.795278908851316 min
+epoch 376
+Current Ecrit 18011.08375617673 grad: 43.29173278808594
+Total loss: -1.1611e+04
+exec time: 0.6226856787999471 min
+time_remaining: 1 hours 17.16636564023301 min
+epoch 377
+Current Ecrit 18010.87764586278 grad: -22.365352630615234
+Total loss: -1.1632e+04
+exec time: 0.6478260278701782 min
+time_remaining: 1 hours 16.545599402742226 min
+epoch 378
+Current Ecrit 18011.3119552412 grad: 11.292704582214355
+Total loss: -1.1667e+04
+exec time: 0.6345175862312317 min
+time_remaining: 1 hours 15.920441500293464 min
+epoch 379
+Current Ecrit 18010.53021344025 grad: -136.8781280517578
+Total loss: -1.1639e+04
+exec time: 0.6269444187482198 min
+time_remaining: 1 hours 15.292842809777483 min
+epoch 380
+Current Ecrit 18007.842481688043 grad: -271.5500793457031
+Total loss: -1.1615e+04
+exec time: 0.6052162011464437 min
+time_remaining: 1 hours 14.658461050098651 min
+epoch 381
+Current Ecrit 18008.47680825596 grad: 38.52548599243164
+Total loss: -1.1662e+04
+exec time: 0.6056492924690247 min
+time_remaining: 1 hours 14.02436577181544 min
+epoch 382
+Current Ecrit 18005.533674890958 grad: -112.09424591064453
+Total loss: -1.1622e+04
+exec time: 0.6059975226720175 min
+time_remaining: 1 hours 13.390525414956159 min
+epoch 383
+Current Ecrit 18002.75329781011 grad: -276.82080078125
+Total loss: -1.1659e+04
+exec time: 0.6036422411600749 min
+time_remaining: 1 hours 12.756118581568217 min
+epoch 384
+Current Ecrit 18001.423727885263 grad: -53.920982360839844
+Total loss: -1.1662e+04
+exec time: 0.6106059153874716 min
+time_remaining: 1 hours 12.12395162277923 min
+epoch 385
+Current Ecrit 18005.961840991833 grad: -92.40938568115234
+Total loss: -1.1623e+04
+exec time: 0.607723069190979 min
+time_remaining: 1 hours 11.491044968706348 min
+epoch 386
+Current Ecrit 18009.02728098249 grad: -128.73861694335938
+Total loss: -1.1603e+04
+exec time: 0.6027435421943664 min
+time_remaining: 1 hours 10.856814491943965 min
+epoch 387
+Current Ecrit 18006.063367899325 grad: -168.8070068359375
+Total loss: -1.1585e+04
+exec time: 0.616860564549764 min
+time_remaining: 1 hours 10.226821335730335 min
+epoch 388
+Current Ecrit 18001.053130563334 grad: -90.03239440917969
+Total loss: -1.1673e+04
+exec time: 0.6026000221570332 min
+time_remaining: 1 hours 9.592826495654805 min
+epoch 389
+Current Ecrit 18001.516379600034 grad: -62.35390853881836
+Total loss: -1.1703e+04
+exec time: 0.606195616722107 min
+time_remaining: 1 hours 8.960006796702402 min
+epoch 390
+Current Ecrit 18008.793252368836 grad: -13.57060432434082
+Total loss: -1.1622e+04
+exec time: 0.6000601808230083 min
+time_remaining: 1 hours 8.325612892254924 min
+epoch 391
+Current Ecrit 18010.203403650336 grad: -247.7160186767578
+Total loss: -1.1581e+04
+exec time: 0.6125968217849731 min
+time_remaining: 1 hours 7.694848132376819 min
+epoch 392
+Current Ecrit 18002.301751487208 grad: -95.74390411376953
+Total loss: -1.1629e+04
+exec time: 0.6076531807581583 min
+time_remaining: 1 hours 7.06282985159865 min
+epoch 393
+Current Ecrit 17993.950024220034 grad: -50.753997802734375
+Total loss: -1.1700e+04
+exec time: 0.6052537639935811 min
+time_remaining: 1 hours 6.430289723163156 min
+epoch 394
+Current Ecrit 17985.59429795642 grad: -245.29470825195312
+Total loss: -1.1659e+04
+exec time: 0.6057565768559774 min
+time_remaining: 1 hours 5.798021412650229 min
+epoch 395
+Current Ecrit 17980.529417558282 grad: -37.17536544799805
+Total loss: -1.1612e+04
+exec time: 0.6061979254086812 min
+time_remaining: 1 hours 5.166002909502993 min
+epoch 396
+Current Ecrit 17976.49980551209 grad: 21.615882873535156
+Total loss: -1.1618e+04
+exec time: 0.6091366092363993 min
+time_remaining: 1 hours 4.5348769141384935 min
+epoch 397
+Current Ecrit 17974.93216287487 grad: 92.57939910888672
+Total loss: -1.1640e+04
+exec time: 0.6095049142837524 min
+time_remaining: 1 hours 3.903955807937507 min
+epoch 398
+Current Ecrit 17973.00414678108 grad: 97.91764831542969
+Total loss: -1.1652e+04
+exec time: 0.6123358209927877 min
+time_remaining: 1 hours 3.2738586465020205 min
+epoch 399
+Current Ecrit 17970.598738675973 grad: 76.55428314208984
+Total loss: -1.1675e+04
+exec time: 0.6072131395339966 min
+time_remaining: 1 hours 2.6425696214040215 min
+epoch 400
+Current Ecrit 17968.36687314957 grad: 51.714935302734375
+Total loss: -1.1641e+04
+exec time: 0.6048611164093017 min
+time_remaining: 1 hours 2.0108200014975637 min
+epoch 401
+Current Ecrit 17964.00439344274 grad: -148.76669311523438
+Total loss: -1.1624e+04
+exec time: 0.6105677763621012 min
+time_remaining: 1 hours 1.3805953310496477 min
+epoch 402
+Current Ecrit 17954.20021229276 grad: -139.5937042236328
+Total loss: -1.1647e+04
+exec time: 0.608721931775411 min
+time_remaining: 1 hours 0.7500239282526309 min
+epoch 403
+Current Ecrit 17947.369378791365 grad: 87.6594467163086
+Total loss: -1.1664e+04
+exec time: 0.6085110068321228 min
+time_remaining: 1 hours 0.11951057037506985 min
+epoch 404
+Current Ecrit 17942.751166577425 grad: -139.91619873046875
+Total loss: -1.1657e+04
+exec time: 0.6021021962165832 min
+time_remaining: 0 hours 59.4876025648274 min
+epoch 405
+Current Ecrit 17938.677129949476 grad: -95.04035186767578
+Total loss: -1.1651e+04
+exec time: 0.6038547873497009 min
+time_remaining: 0 hours 58.85624715825804 min
+epoch 406
+Current Ecrit 17934.43123357032 grad: -164.2401885986328
+Total loss: -1.1600e+04
+exec time: 0.6155085881551107 min
+time_remaining: 0 hours 58.22768979766741 min
+epoch 407
+Current Ecrit 17928.9720503037 grad: -350.05694580078125
+Total loss: -1.1615e+04
+exec time: 0.6158624172210694 min
+time_remaining: 0 hours 57.59927618663298 min
+epoch 408
+Current Ecrit 17921.45342409623 grad: -84.55097198486328
+Total loss: -1.1657e+04
+exec time: 0.6088447372118632 min
+time_remaining: 0 hours 56.969362559722754 min
+epoch 409
+Current Ecrit 17918.072390649373 grad: 12.697833061218262
+Total loss: -1.1683e+04
+exec time: 0.6064104994138082 min
+time_remaining: 0 hours 56.33901736300169 min
+epoch 410
+Current Ecrit 17916.155095573442 grad: -183.8369598388672
+Total loss: -1.1654e+04
+exec time: 0.6175846775372823 min
+time_remaining: 0 hours 55.711208349364824 min
+epoch 411
+Current Ecrit 17911.539827379205 grad: -135.90542602539062
+Total loss: -1.1601e+04
+exec time: 0.6128794113794963 min
+time_remaining: 0 hours 55.08244396012191 min
+epoch 412
+Current Ecrit 17904.891266135102 grad: -60.36925506591797
+Total loss: -1.1625e+04
+exec time: 0.6026842435201009 min
+time_remaining: 0 hours 54.451608845339024 min
+epoch 413
+Current Ecrit 17899.604178635465 grad: 67.490966796875
+Total loss: -1.1636e+04
+exec time: 0.5979513128598531 min
+time_remaining: 0 hours 53.819926555932284 min
+epoch 414
+Current Ecrit 17902.13170046198 grad: -175.07728576660156
+Total loss: -1.1686e+04
+exec time: 0.5954766631126404 min
+time_remaining: 0 hours 53.18789996947629 min
+epoch 415
+Current Ecrit 17901.480119075124 grad: 96.71153259277344
+Total loss: -1.1642e+04
+exec time: 0.598916478951772 min
+time_remaining: 0 hours 52.55674368200397 min
+epoch 416
+Current Ecrit 17905.883579376205 grad: 97.39574432373047
+Total loss: -1.1660e+04
+exec time: 0.5988117814064026 min
+time_remaining: 0 hours 51.92572118283084 min
+epoch 417
+Current Ecrit 17911.651940452313 grad: 114.30579376220703
+Total loss: -1.1646e+04
+exec time: 0.6032745560010274 min
+time_remaining: 0 hours 51.29572827445264 min
+epoch 418
+Current Ecrit 17915.409267930816 grad: -213.46177673339844
+Total loss: -1.1626e+04
+exec time: 0.6018787781397502 min
+time_remaining: 0 hours 50.665593071797616 min
+epoch 419
+Current Ecrit 17920.592013858783 grad: 47.2534294128418
+Total loss: -1.1677e+04
+exec time: 0.5993405302365621 min
+time_remaining: 0 hours 50.03510894775388 min
+epoch 420
+Current Ecrit 17929.517673174694 grad: -72.04861450195312
+Total loss: -1.1643e+04
+exec time: 0.6015686949094137 min
+time_remaining: 0 hours 49.405190885935326 min
+epoch 421
+Current Ecrit 17938.79980607465 grad: -244.3352813720703
+Total loss: -1.1645e+04
+exec time: 0.6060635169347127 min
+time_remaining: 0 hours 48.77623797779398 min
+epoch 422
+Current Ecrit 17942.85636520613 grad: -281.66522216796875
+Total loss: -1.1599e+04
+exec time: 0.6055507898330689 min
+time_remaining: 0 hours 48.147299960422345 min
+epoch 423
+Current Ecrit 17939.804645111082 grad: -218.0472869873047
+Total loss: -1.1609e+04
+exec time: 0.6119301716486613 min
+time_remaining: 0 hours 47.51961573426081 min
+epoch 424
+Current Ecrit 17931.690281807587 grad: -395.6671447753906
+Total loss: -1.1651e+04
+exec time: 0.6194247126579284 min
+time_remaining: 0 hours 46.89332821088681 min
+epoch 425
+Current Ecrit 17921.36888270935 grad: -119.76242065429688
+Total loss: -1.1650e+04
+exec time: 0.604909336566925 min
+time_remaining: 0 hours 46.26455145697457 min
+epoch 426
+Current Ecrit 17912.291157382348 grad: -424.6821594238281
+Total loss: -1.1625e+04
+exec time: 0.6008213639259339 min
+time_remaining: 0 hours 45.63518761367561 min
+epoch 427
+Current Ecrit 17904.029992488537 grad: 16.512414932250977
+Total loss: -1.1639e+04
+exec time: 0.6065041700998942 min
+time_remaining: 0 hours 45.00691313253384 min
+epoch 428
+Current Ecrit 17898.85682042897 grad: -19.19521141052246
+Total loss: -1.1644e+04
+exec time: 0.6092331369717916 min
+time_remaining: 0 hours 44.379191791881624 min
+epoch 429
+Current Ecrit 17892.66080453678 grad: -121.22513580322266
+Total loss: -1.1645e+04
+exec time: 0.6115896026293437 min
+time_remaining: 0 hours 43.75194005356286 min
+epoch 430
+Current Ecrit 17886.94822719785 grad: 127.90943145751953
+Total loss: -1.1637e+04
+exec time: 0.606255563100179 min
+time_remaining: 0 hours 43.12390705200477 min
+epoch 431
+Current Ecrit 17883.734055764646 grad: 81.44095611572266
+Total loss: -1.1645e+04
+exec time: 0.6071484247843425 min
+time_remaining: 0 hours 42.49611541496381 min
+epoch 432
+Current Ecrit 17877.072757640155 grad: -295.41094970703125
+Total loss: -1.1636e+04
+exec time: 0.6074301600456238 min
+time_remaining: 0 hours 41.868462721772914 min
+epoch 433
+Current Ecrit 17874.52620636257 grad: -91.80016326904297
+Total loss: -1.1668e+04
+exec time: 0.6047189116477967 min
+time_remaining: 0 hours 41.24049091031475 min
+epoch 434
+Current Ecrit 17872.486298384083 grad: -262.52777099609375
+Total loss: -1.1633e+04
+exec time: 0.6058545907338461 min
+time_remaining: 0 hours 40.612795707914586 min
+epoch 435
+Current Ecrit 17871.758597425633 grad: 119.16355895996094
+Total loss: -1.1626e+04
+exec time: 0.6156834125518799 min
+time_remaining: 0 hours 39.98664345464215 min
+epoch 436
+Current Ecrit 17869.868591319562 grad: -261.21099853515625
+Total loss: -1.1640e+04
+exec time: 0.6104169726371765 min
+time_remaining: 0 hours 39.3597798786393 min
+epoch 437
+Current Ecrit 17865.545111691335 grad: -16.58095932006836
+Total loss: -1.1662e+04
+exec time: 0.6016734639803568 min
+time_remaining: 0 hours 38.73175373567295 min
+epoch 438
+Current Ecrit 17861.262815282593 grad: 29.658170700073242
+Total loss: -1.1631e+04
+exec time: 0.6044364889462789 min
+time_remaining: 0 hours 38.104231578767894 min
+epoch 439
+Current Ecrit 17858.09983986798 grad: 93.69193267822266
+Total loss: -1.1612e+04
+exec time: 0.6046279072761536 min
+time_remaining: 0 hours 37.4768404592167 min
+epoch 440
+Current Ecrit 17857.261875319677 grad: -25.142606735229492
+Total loss: -1.1629e+04
+exec time: 0.6062041322390238 min
+time_remaining: 0 hours 36.84976345235805 min
+epoch 441
+Current Ecrit 17854.65007251306 grad: -127.8856430053711
+Total loss: -1.1632e+04
+exec time: 0.6159037351608276 min
+time_remaining: 0 hours 36.22405369146924 min
+epoch 442
+Current Ecrit 17848.918361495995 grad: 32.759979248046875
+Total loss: -1.1662e+04
+exec time: 0.6101629813512166 min
+time_remaining: 0 hours 35.597649549280845 min
+epoch 443
+Current Ecrit 17848.71305432318 grad: 34.29313659667969
+Total loss: -1.1657e+04
+exec time: 0.6107645193735759 min
+time_remaining: 0 hours 34.971394435135096 min
+epoch 444
+Current Ecrit 17853.97590290344 grad: -149.0599365234375
+Total loss: -1.1645e+04
+exec time: 0.6034006675084432 min
+time_remaining: 0 hours 34.34429880264548 min
+epoch 445
+Current Ecrit 17855.946473029762 grad: 50.29130935668945
+Total loss: -1.1604e+04
+exec time: 0.6008151531219482 min
+time_remaining: 0 hours 33.71699638126148 min
+epoch 446
+Current Ecrit 17851.622495263677 grad: -426.22027587890625
+Total loss: -1.1578e+04
+exec time: 0.6076982299486796 min
+time_remaining: 0 hours 33.09062858539943 min
+epoch 447
+Current Ecrit 17847.880307464184 grad: -17.8073787689209
+Total loss: -1.1688e+04
+exec time: 0.599844467639923 min
+time_remaining: 0 hours 32.46343253840297 min
+epoch 448
+Current Ecrit 17848.105835399037 grad: -141.48971557617188
+Total loss: -1.1691e+04
+exec time: 0.6046591321627299 min
+time_remaining: 0 hours 31.836905201984166 min
+epoch 449
+Current Ecrit 17849.21620987521 grad: 42.211666107177734
+Total loss: -1.1579e+04
+exec time: 0.6066562294960022 min
+time_remaining: 0 hours 31.21069695728795 min
+epoch 450
+Current Ecrit 17848.499077226 grad: 147.115966796875
+Total loss: -1.1561e+04
+exec time: 0.6092385292053223 min
+time_remaining: 0 hours 30.584855978037865 min
+epoch 451
+Current Ecrit 17846.054608453014 grad: 183.41615295410156
+Total loss: -1.1574e+04
+exec time: 0.6099538604418436 min
+time_remaining: 0 hours 29.959164425335132 min
+epoch 452
+Current Ecrit 17846.00257500122 grad: -126.16412353515625
+Total loss: -1.1699e+04
+exec time: 0.6003381967544555 min
+time_remaining: 0 hours 29.33254470307662 min
+epoch 453
+Current Ecrit 17845.934642895816 grad: -69.16973114013672
+Total loss: -1.1636e+04
+exec time: 0.6028727213541667 min
+time_remaining: 0 hours 28.706297560515395 min
+epoch 454
+Current Ecrit 17854.550245904717 grad: -50.11452865600586
+Total loss: -1.1625e+04
+exec time: 0.5986460884412129 min
+time_remaining: 0 hours 28.07973514402306 min
+epoch 455
+Current Ecrit 17860.570773432555 grad: -66.29981994628906
+Total loss: -1.1573e+04
+exec time: 0.6049073616663615 min
+time_remaining: 0 hours 27.45389932550887 min
+epoch 456
+Current Ecrit 17864.03586393042 grad: -383.01019287109375
+Total loss: -1.1600e+04
+exec time: 0.6057026425997416 min
+time_remaining: 0 hours 26.828229927112375 min
+epoch 457
+Current Ecrit 17863.954759946722 grad: -97.80842590332031
+Total loss: -1.1614e+04
+exec time: 0.6043920914332072 min
+time_remaining: 0 hours 26.202527538241327 min
+epoch 458
+Current Ecrit 17864.07496789998 grad: -12.663053512573242
+Total loss: -1.1645e+04
+exec time: 0.6106727441151937 min
+time_remaining: 0 hours 25.577479021602926 min
+epoch 459
+Current Ecrit 17863.268302152333 grad: -180.4420928955078
+Total loss: -1.1661e+04
+exec time: 0.6061397433280945 min
+time_remaining: 0 hours 24.952098834341882 min
+epoch 460
+Current Ecrit 17863.520286859526 grad: -103.41954040527344
+Total loss: -1.1646e+04
+exec time: 0.605548091729482 min
+time_remaining: 0 hours 24.326752066767426 min
+epoch 461
+Current Ecrit 17868.019555094 grad: -46.25577163696289
+Total loss: -1.1663e+04
+exec time: 0.6140004913012187 min
+time_remaining: 0 hours 23.702186226758784 min
+epoch 462
+Current Ecrit 17868.75564592614 grad: -311.71258544921875
+Total loss: -1.1641e+04
+exec time: 0.6036304116249085 min
+time_remaining: 0 hours 23.076837314934608 min
+epoch 463
+Current Ecrit 17869.42948302401 grad: -70.89288330078125
+Total loss: -1.1613e+04
+exec time: 0.6093605200449626 min
+time_remaining: 0 hours 22.452026594712834 min
+epoch 464
+Current Ecrit 17868.952719905217 grad: -35.83235168457031
+Total loss: -1.1634e+04
+exec time: 0.6027010599772136 min
+time_remaining: 0 hours 21.82678107728242 min
+epoch 465
+Current Ecrit 17870.000472942396 grad: 257.406982421875
+Total loss: -1.1630e+04
+exec time: 0.6064502239227295 min
+time_remaining: 0 hours 21.20190586133066 min
+epoch 466
+Current Ecrit 17875.03951879027 grad: 24.865726470947266
+Total loss: -1.1653e+04
+exec time: 0.6056056221326193 min
+time_remaining: 0 hours 20.57704987048595 min
+epoch 467
+Current Ecrit 17881.09709141127 grad: -140.45570373535156
+Total loss: -1.1670e+04
+exec time: 0.6049417018890381 min
+time_remaining: 0 hours 19.952230749918158 min
+epoch 468
+Current Ecrit 17888.66902402466 grad: -29.167007446289062
+Total loss: -1.1649e+04
+exec time: 0.6058005332946778 min
+time_remaining: 0 hours 19.327553161569938 min
+epoch 469
+Current Ecrit 17896.123823858965 grad: -105.325439453125
+Total loss: -1.1620e+04
+exec time: 0.6111553231875102 min
+time_remaining: 0 hours 18.70329769621503 min
+epoch 470
+Current Ecrit 17898.509334658545 grad: 115.50032806396484
+Total loss: -1.1595e+04
+exec time: 0.6101200024286906 min
+time_remaining: 0 hours 18.079034111926717 min
+epoch 471
+Current Ecrit 17900.870758871162 grad: 61.16196060180664
+Total loss: -1.1609e+04
+exec time: 0.6046886801719665 min
+time_remaining: 0 hours 17.454508260986927 min
+epoch 472
+Current Ecrit 17903.160073836207 grad: 21.81601333618164
+Total loss: -1.1685e+04
+exec time: 0.5991363167762757 min
+time_remaining: 0 hours 16.829749345628215 min
+epoch 473
+Current Ecrit 17907.570182194646 grad: -98.7463607788086
+Total loss: -1.1692e+04
+exec time: 0.6014671524365743 min
+time_remaining: 0 hours 16.205226394244903 min
+epoch 474
+Current Ecrit 17913.78672464573 grad: 104.50532531738281
+Total loss: -1.1614e+04
+exec time: 0.6048596819241842 min
+time_remaining: 0 hours 15.580979074093364 min
+epoch 475
+Current Ecrit 17924.245195470412 grad: 216.2837371826172
+Total loss: -1.1642e+04
+exec time: 0.6069229404131572 min
+time_remaining: 0 hours 14.956917244446402 min
+epoch 476
+Current Ecrit 17932.101808965315 grad: -301.4642639160156
+Total loss: -1.1642e+04
+exec time: 0.6120210886001587 min
+time_remaining: 0 hours 14.333173098629118 min
+epoch 477
+Current Ecrit 17931.21019066247 grad: -255.23849487304688
+Total loss: -1.1659e+04
+exec time: 0.6053085088729858 min
+time_remaining: 0 hours 13.709169056076405 min
+epoch 478
+Current Ecrit 17925.799634120285 grad: 30.991004943847656
+Total loss: -1.1654e+04
+exec time: 0.6044494986534119 min
+time_remaining: 0 hours 13.085205414051359 min
+epoch 479
+Current Ecrit 17918.58820723835 grad: -139.99864196777344
+Total loss: -1.1635e+04
+exec time: 0.6065590341885885 min
+time_remaining: 0 hours 12.46141097827092 min
+epoch 480
+Current Ecrit 17908.94269140895 grad: -109.37664031982422
+Total loss: -1.1628e+04
+exec time: 0.6001981854438782 min
+time_remaining: 0 hours 11.83743694722449 min
+epoch 481
+Current Ecrit 17899.810658247843 grad: -146.055908203125
+Total loss: -1.1636e+04
+exec time: 0.6028848767280579 min
+time_remaining: 0 hours 11.213661904008518 min
+epoch 482
+Current Ecrit 17891.228323209874 grad: -253.1226806640625
+Total loss: -1.1658e+04
+exec time: 0.5997970104217529 min
+time_remaining: 0 hours 10.589864679852212 min
+epoch 483
+Current Ecrit 17883.38570549141 grad: -13.79593563079834
+Total loss: -1.1647e+04
+exec time: 0.605546216169993 min
+time_remaining: 0 hours 9.96635668652118 min
+epoch 484
+Current Ecrit 17876.177901531377 grad: -3.7206428050994873
+Total loss: -1.1624e+04
+exec time: 0.6051417907079061 min
+time_remaining: 0 hours 9.342910254370281 min
+epoch 485
+Current Ecrit 17870.933844679017 grad: -103.97180938720703
+Total loss: -1.1650e+04
+exec time: 0.6081142663955689 min
+time_remaining: 0 hours 8.719624776833655 min
+epoch 486
+Current Ecrit 17867.554458099185 grad: 58.42599105834961
+Total loss: -1.1675e+04
+exec time: 0.6128186146418254 min
+time_remaining: 0 hours 8.096527182150169 min
+epoch 487
+Current Ecrit 17865.908701809392 grad: -356.2224426269531
+Total loss: -1.1648e+04
+exec time: 0.6123272140820821 min
+time_remaining: 0 hours 7.47345963081375 min
+epoch 488
+Current Ecrit 17865.436472097404 grad: -150.4987030029297
+Total loss: -1.1639e+04
+exec time: 0.6045474727948507 min
+time_remaining: 0 hours 6.850261002831871 min
+epoch 489
+Current Ecrit 17867.070551103105 grad: 6.3129096031188965
+Total loss: -1.1623e+04
+exec time: 0.6038505792617798 min
+time_remaining: 0 hours 6.227124279696909 min
+epoch 490
+Current Ecrit 17866.708362419515 grad: -60.82670593261719
+Total loss: -1.1594e+04
+exec time: 0.6106577396392823 min
+time_remaining: 0 hours 5.6041908900267 min
+epoch 491
+Current Ecrit 17861.89554482239 grad: -235.0709991455078
+Total loss: -1.1606e+04
+exec time: 0.6039799769719442 min
+time_remaining: 0 hours 4.9811988198660515 min
+epoch 492
+Current Ecrit 17853.177381595615 grad: -62.49699401855469
+Total loss: -1.1676e+04
+exec time: 0.6070958693822225 min
+time_remaining: 0 hours 4.358328119752514 min
+epoch 493
+Current Ecrit 17849.798922586582 grad: 169.714111328125
+Total loss: -1.1674e+04
+exec time: 0.6135418057441712 min
+time_remaining: 0 hours 3.735599576075572 min
+epoch 494
+Current Ecrit 17851.77290964254 grad: -245.87496948242188
+Total loss: -1.1652e+04
+exec time: 0.6035341302553813 min
+time_remaining: 0 hours 3.1128070629004014 min
+epoch 495
+Current Ecrit 17850.01293085153 grad: 3.5701372623443604
+Total loss: -1.1636e+04
+exec time: 0.6072190403938293 min
+time_remaining: 0 hours 2.4901219215124115 min
+epoch 496
+Current Ecrit 17849.78012480848 grad: 253.6707305908203
+Total loss: -1.1610e+04
+exec time: 0.6096489429473877 min
+time_remaining: 0 hours 1.8675136853751155 min
+epoch 497
+Current Ecrit 17852.416538256453 grad: -90.0382308959961
+Total loss: -1.1654e+04
+exec time: 0.6065776427586873 min
+time_remaining: 0 hours 1.2449451600531916 min
+epoch 498
+Current Ecrit 17854.44608019918 grad: -367.1786804199219
+Total loss: -1.1674e+04
+exec time: 0.6041313767433166 min
+time_remaining: 0 hours 0.6224358241081518 min
+epoch 499
+Current Ecrit 17862.537007481882 grad: -19.765470504760742
+Total loss: -1.1654e+04
+exec time: 0.6042309840520222 min
+time_remaining: 0 hours 0.0 min
+
+Process finished with exit code 0
